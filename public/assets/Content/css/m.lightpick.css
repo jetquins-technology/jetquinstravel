@@ -1,0 +1,1619 @@
+.lightpick {
+    position: absolute;
+    z-index: 4;
+    padding: 4px;
+    border-radius: 4px;
+    background-color: #2c2c2c;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .25);
+    color: #000;
+    line-height: 1.125em
+}
+
+.lightpick--inlined {
+    position: relative;
+    display: inline-block
+}
+
+.lightpick,
+.lightpick *,
+.lightpick::after,
+.lightpick::before {
+    box-sizing: border-box
+}
+
+.lightpick.is-hidden {
+    display: none
+}
+
+.lightpick--2-columns .lightpick__months {
+    grid-template-columns: auto auto
+}
+
+.lightpick--3-columns .lightpick__months {
+    grid-template-columns: auto auto auto
+}
+
+.lightpick--4-columns .lightpick__months {
+    grid-template-columns: auto auto auto auto
+}
+
+.lightpick--5-columns .lightpick__months {
+    grid-template-columns: auto auto auto auto auto
+}
+
+.lightpick__month {
+    padding: 4px;
+    width: 288px;
+    background-color: #fff
+}
+
+.lightpick__month-title-bar {
+    display: flex;
+    margin-bottom: 4px;
+    justify-content: space-between;
+    align-items: center
+}
+
+.lightpick__month-title {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 4px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    cursor: default;
+    padding: 0 4px;
+    border-radius: 4px
+}
+
+.lightpick__month-title>.lightpick__select {
+    border: none;
+    background-color: transparent;
+    outline: 0;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none
+}
+
+.lightpick__month-title>.lightpick__select:disabled {
+    color: #333
+}
+
+.lightpick__month-title>.lightpick__select-months {
+    font-weight: 700;
+    font-size: 1em;
+    margin-right: .5em
+}
+
+.lightpick__toolbar {
+    display: flex;
+    text-align: right;
+    justify-content: flex-end
+}
+
+.lightpick__close-action,
+.lightpick__next-action,
+.lightpick__previous-action {
+    display: flex;
+    margin-left: 6px;
+    width: 32px;
+    height: 32px;
+    outline: 0;
+    border: none;
+    border-radius: 50%;
+    background-color: #ddd;
+    justify-content: center;
+    align-items: center
+}
+
+.lightpick__next-action,
+.lightpick__previous-action {
+    font-size: 12px
+}
+
+.lightpick__close-action {
+    font-size: 18px
+}
+
+.lightpick__close-action:active,
+.lightpick__next-action:active,
+.lightpick__previous-action:active {
+    color: inherit
+}
+
+.lightpick__days-of-the-week {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr)
+}
+
+.lightpick__day-of-the-week {
+    display: flex;
+    font-size: 11px;
+    font-weight: 700;
+    justify-content: center;
+    align-items: center;
+    color: #d20000
+}
+
+.lightpick__days {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr)
+}
+
+.lightpick__day {
+    display: flex;
+    height: 40px;
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-size: 13px;
+    justify-content: center;
+    align-items: center;
+    cursor: default;
+    color: #000;
+}
+
+.lightpick__day.is-today {
+    /*background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle fill='rgba(220, 50, 47, .5)' cx='16' cy='16' r='16'/%3E%3C/svg%3E");*/
+    background-size: 18.8% auto;
+    background-position: center bottom;
+    color: #dc322f
+}
+
+.lightpick__day:not(.is-disabled):hover {
+    background-size: contain;
+    /*background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle fill='%23E0E0E0' cx='16' cy='16' r='16'/%3E%3C/svg%3E")*/
+}
+
+.lightpick__day.is-disabled {
+    opacity: .38;
+    pointer-events: none
+}
+
+.lightpick__day.disabled-tooltip {
+    pointer-events: auto
+}
+
+.lightpick__day.is-disabled.is-forward-selected {
+    opacity: 1
+}
+
+.lightpick__day.is-disabled.is-forward-selected:not(.is-start-date) {
+    background-color: rgba(38, 139, 210, .1);
+    background-image: none
+}
+
+.lightpick__day.is-next-month,
+.lightpick__day.is-previous-month {
+    opacity: .38
+}
+
+.lightpick__day.lightpick__day.is-in-range:not(.is-disabled) {
+    opacity: 1
+}
+
+.lightpick__day.is-in-range {
+    border-radius: 0;
+    background-color: rgba(38, 139, 210, .1);
+    background-image: none
+}
+
+.lightpick__day.is-in-range:hover {
+    /*background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle fill='rgba(38, 139, 210, 0.5)' cx='16' cy='16' r='16'/%3E%3C/svg%3E")*/
+}
+
+.lightpick__day.is-end-date.is-in-range.is-flipped,
+.lightpick__day.is-start-date.is-in-range {
+    border-top-left-radius: 50%;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 50%;
+    background-color: #268bd2;
+    background-image: none
+}
+
+.lightpick__day.is-end-date.is-in-range,
+.lightpick__day.is-start-date.is-in-range.is-flipped {
+    border-top-left-radius: 0;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 0;
+    background-color: #268bd2;
+    background-image: none;
+}
+
+.lightpick__day.is-start-date.is-end-date.is-mid-date {
+    background-color: transparent;
+    /*background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle fill='%23268BD2' cx='16' cy='16' r='16'/%3E%3C/svg%3E")*/
+}
+
+.lightpick__day.is-end-date,
+.lightpick__day.is-end-date:hover,
+.lightpick__day.is-mid-date,
+.lightpick__day.is-mid-date:hover,
+.lightpick__day.is-start-date,
+.lightpick__day.is-start-date:hover {
+    /*background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle fill='%23268BD2' cx='16' cy='16' r='16'/%3E%3C/svg%3E");*/
+    background-size: auto;
+    background-position: center;
+    color: #fff;
+    font-weight: 700
+}
+
+.lightpick__tooltip {
+    position: absolute;
+    margin-top: -4px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .25);
+    white-space: nowrap;
+    font-size: 11px;
+    pointer-events: none
+}
+
+.lightpick__tooltip::before {
+    position: absolute;
+    bottom: -5px;
+    left: calc(50% - 5px);
+    border-top: 5px solid rgba(0, 0, 0, .12);
+    border-right: 5px solid transparent;
+    border-left: 5px solid transparent;
+    content: ""
+}
+
+.lightpick__tooltip::after {
+    position: absolute;
+    bottom: -4px;
+    left: calc(50% - 4px);
+    border-top: 4px solid #fff;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+    content: ""
+}
+
+.lightpick__footer {
+    display: flex;
+    justify-content: space-between
+}
+
+.lightpick__apply-action,
+.lightpick__reset-action {
+    border-radius: 5px;
+    font-size: 12px;
+    border: none
+}
+
+.lightpick__reset-action {
+    color: #fff;
+    background-color: #aeacad
+}
+
+.lightpick__apply-action {
+    color: #fff;
+    background-color: #2495f3
+}
+
+section.lightpick {
+    float: none;
+    width: auto
+}
+
+.lightpick .lightpick__month-title select.lightpick__select.lightpick__select-months {
+    text-transform: uppercase;
+    letter-spacing: 13px;
+    text-align-last: center;
+    color: #0cc0cb;
+    direction: inherit;
+    padding: 5px 40px;
+    width: 100%;
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 15px
+}
+
+.lightpick--2-columns .lightpick__months {
+    grid-template-columns: auto auto
+}
+
+.lightpick__months {
+    display: grid;
+    background-color: #fff;
+    grid-template-columns: auto;
+    grid-gap: 1px
+}
+
+.lightpick__month {
+    padding: 4px;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 0;
+}
+
+.lightpick__month-title-bar {
+    display: flex;
+    margin-bottom: 4px;
+    justify-content: space-between;
+    align-items: center
+}
+
+.lightpick__months>.lightpick__month:nth-child(1) .lightpick__month-title {
+    margin-left: 20px!important
+}
+
+.lightpick .lightpick__month-title {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center
+}
+
+.lightpick .lightpick__month-title select.lightpick__select.lightpick__select-years {
+    display: none;
+    font-size: 15px!important
+}
+
+.lightpick__toolbar {
+    display: flex;
+    text-align: right;
+    justify-content: flex-end
+}
+
+.lightpick .lightpick__inner .lightpick__toolbar button {
+    position: absolute;
+    top: 25px!important;
+    right: 0;
+    background: 0 0;
+    font-size: 0
+}
+
+.lightpick .lightpick__inner .lightpick__toolbar button::after {
+    content: "";
+    border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent;
+    border-left: 9px solid #fd6800;
+    width: 0;
+    height: 0
+}
+
+.lightpick__toolbar button.lightpick__previous-action {
+    left: 0;
+    margin-left: 0!important;
+    transform: rotate(180deg)
+}
+
+.lightpick .lightpick__inner .lightpick__toolbar button {
+    display: none!important
+}
+
+.lightpick .lightpick__inner .lightpick__toolbar button {
+    display: block!important
+}
+
+.lightpick__months>.lightpick__month:nth-child(2) .lightpick__month-title {
+    margin-right: 20px!important
+}
+
+.lightpick {
+    margin-top: 10px!important;
+    padding: 20px 0!important
+}
+
+.lightpick .lightpick__inner:before {
+    content: "";
+    position: absolute;
+    left: 10%;
+    top: -5px;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid #fff;
+    clear: both
+}
+
+.dropdown-content-n,
+.economydiv1 {
+    position: absolute;
+    background-color: #fff;
+    width: 590px;
+    padding: 25px 25px 15px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, .45);
+    z-index: 1;
+    box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    z-index: 999
+}
+
+.dropdown-content-n .innr_pnl,
+.economydiv1 .pnlInner {
+    position: relative
+}
+
+.dropdown-content-n .pnlInner,
+.economydiv1 .pnlInner {
+    float: left;
+    width: 100%
+}
+
+.dropdown-content-n .divClassTypePanel,
+.dropdown-content-n .divPassengerPanel,
+.economydiv1 .ClassHolder {
+    width: 50%;
+    float: left;
+    border-right: 2px solid #084874;
+    padding-right: 20px
+}
+
+.dropdown-content-n .divClassTypePanel {
+    border-right: 0;
+    padding-right: 0
+}
+
+.dropdown-content-n .divClassTypePanel h2,
+.dropdown-content-n .divPassengerPanel h2 {
+    margin: 0;
+    background: #084874;
+    width: 100%;
+    color: #fff;
+    font-size: 14px;
+    letter-spacing: 13px;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase
+}
+
+.dropdown-content-n .divPassenger {
+    width: 100%;
+    float: left;
+    padding: 10px;
+    border-bottom: 1px solid #ccc
+}
+
+.dropdown-content-n .divPassenger .divPassengerType {
+    width: 43%;
+    float: left;
+    text-align: left
+}
+
+.dropdown-content-n .divPassenger .divPassengerCount {
+    width: 57%;
+    float: left
+}
+
+.dropdown-content-n .divPassenger .divPassengerType p {
+    font-size: 11px;
+    color: #afafaf;
+    display: block;
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    text-transform: uppercase
+}
+
+.dropdown-content-n .divPassenger .divPassengerType span {
+    font-size: 10px;
+    color: #a3a2a2;
+    display: inline-block
+}
+
+.dropdown-content-n .divPassenger .divPassengerCount .Add_Less_Passenger {
+    width: 85px;
+    float: right
+}
+
+.dropdown-content-n .MinusPassengerBox,
+.dropdown-content-n .PlusPassengerBox {
+    background-color: #fb6c00;
+    border: none;
+    clear: both;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    float: left;
+    font-size: 19px;
+    margin-left: 0;
+    outline: 0;
+    width: 26px;
+    height: 29px;
+    line-height: 0;
+    padding: 0 0 4px 0
+}
+
+.dropdown-content-n .CountPassengerBox {
+    background-color: #ccc;
+    border: none;
+    color: #000;
+    display: block;
+    float: left;
+    font-size: 15px;
+    outline: 0;
+    text-align: center;
+    width: 33px;
+    line-height: 27px;
+    height: 29px
+}
+
+.dropdown-content-n .PlusPassengerBox {
+    background-color: #fb6c00;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    float: right;
+    font-size: 22px;
+    margin-right: 0;
+    outline: 0;
+    width: 26px;
+    height: 29px;
+    line-height: 0;
+    padding: 0 0 4px 0
+}
+
+.dropdown-content-n .Add_Less_Passenger div {
+    float: left
+}
+
+.dropdown-content-n .divClassTypePanel ul {
+    padding: 0;
+    padding-top: 10px
+}
+
+.divClassTypePanel {
+    padding-top: 20px;
+    float: left;
+    width: 100%
+}
+
+.dropdown-content-n .divClassTypePanel ul li {
+    cursor: pointer;
+    text-align: left;
+    box-shadow: none;
+    border-bottom: 1px solid #ccc;
+    padding: 0;
+    padding-bottom: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #afafaf;
+    margin-bottom: 15px;
+    list-style: none
+}
+
+.dropdown-content-n .divClassTypePanel {
+    padding-left: 20px
+}
+
+.dropdown-content-n a#btnPassengerDone {
+    cursor: pointer;
+    background: #084874;
+    float: left;
+    text-align: center;
+    padding: 8px;
+    display: block;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    width: 46.4%;
+    left: -26.5%;
+    position: relative
+}
+
+.modify-search .dropdown-content-n a#btnPassengerDone {
+    left: 2.5%
+}
+
+.dropdown-content-n .pnlInner:before,
+.economydiv1 .innr_pnl:before {
+    content: '';
+    position: absolute;
+    right: 31%;
+    top: -5px;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid #fff;
+    clear: both;
+    margin: 0 auto
+}
+
+.ui-menu .ui-menu-item {
+    font-size: 14px;
+    color: #000;
+    font-weight: 500;
+    border: 0;
+    background-position: left 5px center;
+    background-repeat: no-repeat;
+    background-size: 15px;
+    border-bottom: 1px solid lightgray;
+}
+
+.ui-menu .ui-menu-item:last-child {
+    border-bottom: 0
+}
+
+.ui-menu .ui-menu-item:hover {
+    background:#820202;
+    color: #fff;
+    cursor: pointer
+}
+
+.ui-menu .ui-menu-item.parent-auto-list li{position:relative;padding-left:50px!important; font-size: 12px;}
+.ui-menu .ui-menu-item.parent-auto-list li::before {
+    position: absolute;
+    left: 16px;
+    top: 10px;
+    content: "";
+    background: url(../images/planDropdown.png) no-repeat;
+    width: 26px;
+    height: 20px;
+    background-size: 24px;
+}
+
+.ui-menu .ui-menu-item.child-auto-list li {
+    position: relative;
+    padding-left: 30px!important;
+    margin-left: 10px;
+    font-size: 12px;
+    padding-right: 5px !important;
+}
+.ui-menu .ui-menu-item.child-auto-list li::before {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    content: "";
+    background: url(../images/child-arrow.png) no-repeat;
+    width: 10px;
+    height: 18px;
+    background-size: 100%;
+}
+.ui-state-active{background:#820202!important;border:none!important;}
+.ui-menu-item-wrapper{padding:10px!important}
+
+a.ScrollTop {
+    position: fixed;
+    bottom: 71px;
+    right: 10px;
+    width: 35px;
+    height: 35px;
+    border-radius: 7px;
+    line-height: 32px;
+    color: #fff;
+    text-align: center;
+    font-size: 26px;
+    box-shadow: 0 2px 10px #ccc;
+    opacity: 0;
+    z-index: 1;
+    background: #bb0001;
+    background: linear-gradient(90deg, #880101 0%, #cb0001 100%);
+}
+a.g-orange.ScrollTop.onscroll {
+    opacity: 1;
+}
+ul.ui-autocomplete.ui-front.ui-menu.ui-widget.ui-widget-content {
+    background: #fff;
+    border-radius: 12px;
+    padding: 0;
+    overflow: hidden;
+    box-shadow: 0 10px 32px #999;
+    width: 90% !important;
+    left: 5% !important;
+}
+
+div#RemoveSection_2 i.fa {
+    color: #fff;
+    margin-left: -34px;
+    position: relative;
+    top: 0;
+    font-size: 19px;
+    cursor: pointer
+}
+
+div#AddSection_2 {
+    float: right;
+    cursor: pointer
+}
+
+div#Tp_multicity .form-serch input.addrs {
+    padding-left: 25px;
+    background-position: center left 7px
+}
+
+.latest-offers .row .col-sm-3:nth-of-type(1) {
+    width: 50%
+}
+
+.latest-offers .row .col-sm-3:nth-of-type(1) .ofr-box .image {
+    width: 71%
+}
+
+.latest-offers .row .col-sm-3:nth-of-type(1) .ofr-box .content {
+    width: 25%
+}
+
+.latest-offers .row .col-sm-3:nth-of-type(6) {
+    width: 50%
+}
+
+.latest-offers .row .col-sm-3:nth-of-type(6) .ofr-box .image {
+    width: 71%
+}
+
+.latest-offers .row .col-sm-3:nth-of-type(6) .ofr-box .content {
+    width: 25%
+}
+
+.lightpick .lightpick__month-title select.lightpick__select.lightpick__select-months {
+    font-size: 17px;
+    letter-spacing: 1px
+}
+
+.lightpick {
+    background-color: #fff;
+    color: #4c4c4c;
+    padding: 0 0 20px;
+    margin-top: 0;
+    border-radius: 20px
+}
+
+.lightpick .lightpick__inner .lightpick__toolbar button {
+    top: 16px
+}
+
+.lightpick .lightpick__inner:before {
+    border-left: 9px solid transparent;
+    border-right: 9px solid transparent;
+    border-bottom: 9px solid #fff!important;
+    top: -9px
+}
+
+.lightpick__day.is-in-range:hover,
+.lightpick__day:not(.is-disabled):hover {
+    background-color: #1ac5ce;
+    background-image: none!important;
+    color: #fff
+}
+
+.lightpick .lightpick__inner .lightpick__toolbar button::after {
+    border-left: 9px solid #fff
+}
+
+.lightpick__day.is-today {
+    background-image: none;
+    color: #000;
+}
+
+.lightpick__months>.lightpick__month:nth-child(1) .lightpick__month-title {
+    margin-left: 0!important
+}
+
+.lightpick__months>.lightpick__month:nth-child(2) .lightpick__month-title {
+    margin-right: 0!important
+}
+
+.lightpick .lightpick__inner .lightpick__toolbar button {
+    right: 6px;
+    z-index: 5
+}
+
+.lightpick__toolbar button.lightpick__previous-action {
+    left: 6px;
+    z-index: 5
+}
+
+.dropdown-content-n,
+.economydiv1 {
+    background-color: #338ec3;
+    border-radius: 10px;
+    padding: 10px 0 0
+}
+
+.dropdown-content-n .divClassTypePanel h2,
+.dropdown-content-n .divPassengerPanel h2 {
+    display: none
+}
+
+.dropdown-content-n .CountPassengerBox {
+    background-color: transparent;
+    color: #fff
+}
+
+.dropdown-content-n .MinusPassengerBox,
+.dropdown-content-n .PlusPassengerBox {
+    background-color: #1ac5ce;
+    border-radius: 15px;
+    height: 26px
+}
+
+.dropdown-content-n .divClassTypePanel ul li,
+.dropdown-content-n .divPassenger .divPassengerType p,
+.dropdown-content-n .divPassenger .divPassengerType span {
+    color: #fff
+}
+
+.dropdown-content-n .divClassTypePanel ul li,
+.dropdown-content-n .divPassenger {
+    border-bottom: 1px solid #389ad3;
+    padding: 10px
+}
+
+.dropdown-content-n .divClassTypePanel,
+.dropdown-content-n .divPassengerPanel,
+.economydiv1 .ClassHolder {
+    padding-right: 0
+}
+
+.dropdown-content-n .divClassTypePanel {
+    padding-left: 0
+}
+
+.dropdown-content-n .divPassenger .divPassengerType p {
+    font-size: 10px;
+    display: inline-block;
+    margin-right: 3px
+}
+
+.dropdown-content-n .divClassTypePanel,
+.dropdown-content-n .divPassengerPanel,
+.economydiv1 .ClassHolder {
+    border-right: 2px solid #389ad3
+}
+
+.dropdown-content-n .pnlInner:before,
+.economydiv1 .innr_pnl:before {
+    top: -8px;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 8px solid #338ec3
+}
+
+.dropdown-content-n .divClassTypePanel ul li {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 0;
+    padding: 10px;
+    margin-bottom: 0;
+    min-height: 50px;
+    color: #fff!important;
+    font-weight: 500!important
+}
+
+.dropdown-content-n .divClassTypePanel ul {
+    padding-top: 0;
+    margin-bottom: 0
+}
+
+.pnlInner li .radio-btn {
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 50%;
+    margin-top: 0
+}
+
+.pnlInner li.active .radio-btn {
+    position: relative
+}
+
+.pnlInner li.active .radio-btn::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 5px;
+    margin: 0 auto;
+    width: 10px;
+    height: 10px;
+    background-color: #4db0ea;
+    border-radius: 50%
+}
+
+.dropdown-content-n .divPassenger .divPassengerType {
+    width: 56%
+}
+
+.dropdown-content-n .divPassenger .divPassengerCount {
+    width: 44%
+}
+
+.lightpick .lightpick__inner .lightpick__toolbar button::before {
+    content: "";
+    border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent;
+    border-left: 9px solid #0cc0cb;
+    width: 0;
+    height: 0;
+    position: absolute;
+    left: 9px;
+    top: 10px
+}
+
+.form-serch {
+    position: relative
+}
+
+.dropdown-content-n,
+.economydiv1 {
+    box-shadow: none;
+    margin-top: -10px
+}
+
+.dropdown-content-n a#btnPassengerDone {
+    background-image: linear-gradient(#ea962e, #d1801c);
+    font-size: 14px;
+    height: 35px;
+    padding: 8px 6px;
+    text-transform: capitalize
+}
+
+.divClassTypePanel ul li.ttlpax {
+    border-bottom: none;
+    padding: 5px;
+    margin-top: 4px
+}
+
+.pnfwrp .dropdown-content-n,
+.pnfwrp .economydiv1 {
+    padding-bottom: 10px
+}
+
+.pnfwrp .dropdown-content-n .pnlInner:before,
+.pnfwrp .economydiv1 .innr_pnl:before {
+    right: inherit;
+    left: 73px
+}
+
+.pnfwrp .form-serch .user {
+    top: 10px!important
+}
+
+.ui-menu .ui-menu-item.ui-state-focus {
+    background-color: #1cc7ce;
+    color: #fff;
+    background-position: left 5px center;
+    background-size: 15px;
+    background-repeat: no-repeat
+}
+
+.lightpick__day.is-end-date,
+.lightpick__day.is-end-date:hover,
+.lightpick__day.is-in-range:hover,
+.lightpick__day.is-mid-date,
+.lightpick__day.is-mid-date:hover,
+.lightpick__day.is-start-date,
+.lightpick__day.is-start-date:hover {
+    background-color: #c50001;
+    background-image: none!important
+}
+
+.lightpick__day.is-end-date.is-in-range,
+.lightpick__day.is-end-date.is-in-range.is-flipped,
+.lightpick__day.is-start-date.is-in-range,
+.lightpick__day.is-start-date.is-in-range.is-flipped {
+    border: 0!important;
+    border-radius: 0!important;
+    background-color: #b20001!important
+}
+
+.lightpick__day.is-in-range {
+    background-color: rgba(178, 0, 1, 0.3)!important;
+}
+
+.dgnPax .divPassengerType {
+    line-height: 13px
+}
+
+.dgnPax span,
+.pnfwrp p {
+    margin-top: 0!important
+}
+
+.dgnPax.dropdown-content-n .divClassTypePanel ul li {
+    min-height: 29px
+}
+
+.dgnPax .economydiv1,
+.dgnPax.dropdown-content-n {
+    width: 291px;
+    padding-bottom: 0
+}
+
+.dgnPax .economydiv1 .ClassHolder,
+.dgnPax.dropdown-content-n .divClassTypePanel,
+.dgnPax.dropdown-content-n .divPassengerPanel {
+    float: none;
+    width: 100%
+}
+
+.dgnPax.dropdown-content-n .divClassTypePanel h2,
+.dgnPax.dropdown-content-n .divPassengerPanel h2 {
+    float: left;
+    display: block!important
+}
+
+.dgnPax.dropdown-content-n .divClassTypePanel ul li,
+.dgnPax.dropdown-content-n .divPassenger {
+    padding: 6px 10px 6px;
+    align-items: center
+}
+
+.dgnPax.dropdown-content-n .divClassTypePanel h2,
+.dgnPax.dropdown-content-n .divPassengerPanel h2 {
+    font-size: 13px;
+    padding: 8px
+}
+
+.dgnPax .ttlpax {
+    justify-content: center!important
+}
+
+.dgnPax.dropdown-content-n .MinusPassengerBox,
+.dgnPax.dropdown-content-n .PlusPassengerBox {
+    height: 20px;
+    width: 20px;
+    font-size: 15px;
+    padding: 0 0 3px 0
+}
+
+.dgnPax.dropdown-content-n .CountPassengerBox {
+    width: 20px;
+    line-height: 20px;
+    height: 20px
+}
+
+.dgnPax.dropdown-content-n a#btnPassengerDone {
+    height: 31px;
+    padding: 5px 6px
+}
+
+.dgnPax.dropdown-content-n .divPassenger .divPassengerCount .Add_Less_Passenger {
+    width: auto
+}
+
+.dgnPax.dropdown-content-n .divClassTypePanel ul li {
+    font-size: 11px
+}
+
+.dgnPax .pnlInner li .radio-btn {
+    width: 18px;
+    height: 18px
+}
+
+.dgnPax .pnlInner li.active .radio-btn::after {
+    width: 8px;
+    height: 8px
+}
+
+.lightpick .lightpick__month-title select.lightpick__select.lightpick__select-months {
+    color: #000;
+}
+
+section.lightpick {
+    background: #fff;
+    width: 100%;
+    left: 0 !important;
+    border-radius: 0;
+    top: 0 !important;
+    position: fixed;
+    height: 100%;
+    padding-bottom: 80px !important;
+    margin-top: 0 !important;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.lightpick__month .lightpick__days-of-the-week {
+    opacity: 0;
+    height: 9px;
+}
+.lightpick__month:first-child .lightpick__days-of-the-week {
+    opacity: 1;
+    height: auto;
+    margin-bottom: 10px;
+    margin-top: -8px;
+}
+.lightpick__footer {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 0 19px;
+    padding-bottom: 15px;
+    background: #2c2c2c;
+    padding-top: 10px;
+}
+.lightpick__apply-action {
+    color: #fff;
+    width: 100%;
+    background: rgb(91, 1, 1);
+    background: linear-gradient(90deg, rgba(91, 1, 1, 1) 0%, rgba(214, 0, 1, 1) 51%, rgba(128, 1, 1, 1) 100%);
+    padding: 11px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border-radius: 50px;
+}
+button.lightpick__reset-action {
+    display: none;
+}
+.ui-menu .ui-menu-item.parent-auto-list-hotel li::before {
+    background: url(../images/v3.png) no-repeat;
+    background-size: 21px 25px;
+    background-position: left 3px top;
+    left: 10px;
+    top: 3px;
+    height: 28px;
+    width: 30px;
+}
+.ui-menu .ui-menu-item.parent-auto-list-hotel li.ui-state-active::before{
+    background: url(../images/whitev3.png) no-repeat;
+   background-color: #820202;
+    background-size: 21px 25px;
+    background-position: left 3px top;
+    left: 10px;
+    top: 3px;
+    height: 28px;
+    width: 30px;
+}
+
+@media all and (-ms-high-contrast: none),
+(-ms-high-contrast: active) {
+    .is-previous-month.lightpick__day,
+    .lightpick__day,
+    .lightpick__day-of-the-week,
+    .lightpick__day-of-the-week .is-next-month.lightpick__day {
+        display: inline-block;
+        width: 14%;
+        padding: 10px
+    }
+    .lightpick .lightpick__month-title select.lightpick__select-months.lightpick__select {
+        background-color: #fff!important
+    }
+    .lightpick .lightpick__inner .lightpick__toolbar button {
+        top: 21px!important
+    }
+    .form-field select,
+    select::-ms-expand {
+        display: none
+    }
+    .where-trip .trip-box h3 a.calls {
+        width: 100%;
+        display: inline-block
+    }
+    .lightpick__day.is-in-range {
+        background-color: rgba(135, 185, 214, .5)!important
+    }
+}
+
+.contact-usbanner {
+    background-image: url(/Content/images/mobile/contact-bannermobile.jpg);
+    background-size: cover;
+    display: inline-block;
+    width: 100%;
+   height: 548px;
+   margin-top:-3px;
+}
+.contact-btm .flight-details ul li.li-contact p strong{
+    font-size:16px;
+}
+
+.locatonmap .fdetail-hdr {
+    color: #000;
+    padding-bottom: 0px;
+}
+.container {
+    width: auto;
+    margin: 0 auto;
+}
+.locatonmap .flight-details{
+    background:none;
+}
+.fdetail-hdr {
+   text-align: center;
+    color: #fff;
+    padding-bottom: 15px;
+    margin-bottom: 10px;
+}
+.fdetail-hdr h4{
+    font-size: 13px;
+}
+.fdetail-hdr h3 {
+   font-size: 20px;
+    font-family: 'poppinssemibold';
+    letter-spacing: 0.2px;
+    font-weight: 700;
+    padding-bottom: 12px;
+}
+.flight-details {
+   background: #393939;
+    border-radius: 5px;
+}
+
+.fdetail-hdr.red{
+  background: #c70000;
+  background: linear-gradient(90deg, #a80000 0%, #e00000 51%);
+  padding: 16px 20px;
+      margin-top: 0;
+}
+.flight-details.black{
+  padding: 20px;
+  background: #212021;
+}
+.fdetail-hdr.red h3{
+  color: #fff;
+  font-size: 19px;
+}
+.contact-form {
+  padding-top: 30px;
+    margin-bottom: 35px;
+}
+.contact-form .flight-details{background:none;}
+
+.contact-form .forms textarea,
+.contact-form .forms input {
+    width: 100%;
+    border: 0;
+    border-radius: 4px;
+    padding: 0 15px;
+    height: 53px;
+    font-size: 14px;
+    border-radius: 5px;
+    border: 1px solid #9e9e9e;box-shadow: inset 0 0 5px 8px #e9e9e9;
+}
+.contact-form .fdetail-hdr {
+    color: #000;
+    padding-bottom: 0;
+}
+.contact-form .forms textarea{
+  height: 80px;
+  padding-top: 10px;
+  font-family: 'poppinsmedium';
+  resize: none;
+}
+.contact-form .forms .form-field {
+    margin-bottom: 10px;
+}
+.contact-form .forms .btsc {
+    text-align: center;
+}
+.contact-form .forms button {
+    color: #fff;
+    background: #c70000;
+    background: linear-gradient(90deg, #a80000 0%, #e00000 51%);
+    border: 0;
+    font-size: 19px;
+   padding: 13px 83px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.error {
+    color: #f00;
+    font-size: 11px;
+}
+#thanksmsg {
+    background: #e00000;
+    padding: 13px 0;
+    border-radius: 4px;
+    margin-top: 18px;
+    color: #fff;
+    padding-left: 36px;
+    font-size: 11px;
+    letter-spacing: 0;
+    position: relative;
+    width: 98%;
+    left: 1%;
+}
+#thanksmsg:before {
+    content: '';
+    background-image: url(../images/check-icon-white.png);
+    position: absolute;
+    background-size: 100%;
+    width: 22px;
+    height: 22px;
+    background-repeat: no-repeat;
+    left: 12px;
+    top: 8px;
+}
+#thanksmsg span {
+    display: none;
+}
+
+.contact-btm {
+   position: relative;
+    top: 57px;
+    margin: 0;
+}
+.contact-btm .flight-details ul {
+    /*display: flex;*/
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.contact-btm .flight-details ul li div:first-child {
+    width: 16%;
+}
+.contact-btm .flight-details ul li p.flag-div {
+    padding-bottom: 5px;
+}
+.contact-btm .flight-details ul li p img:first-child {
+    padding-right: 6px;
+}
+.contact-btm .flight-details ul li p img {
+    display: inline;
+    padding-right: 8px;
+}
+.contact-btm .flight-details ul li p.flag-div strong {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 4px;
+    font-family: 'poppinsmedium';
+    font-size: 13px;
+}
+.contact-btm .flight-details ul li {
+   color: #fff;
+    margin: 0 6px;
+    height: 100px;
+    padding: 17px 13px;
+    display: flex;
+    border-bottom: 1px solid #5a5a5a;
+}
+.helpline {
+    font-family: 'poppinsregular';
+    display: inline-block;
+    letter-spacing: 1.1px;
+    padding-top: 4px;
+}
+.contact-btm .flight-details ul li.li-contact {
+    padding: 26px 13px 17px;
+}
+.contact-btm .flight-details ul li.li-contact:first-child {
+    border-right: none;
+}
+
+.contact-btm .flight-details ul li div:last-child {
+    width: 84%;
+}
+.add-ress {
+    padding-top: 8px;
+    font-family: 'poppinsregular';
+    line-height: 1.3;
+}
+.contact-btm .flight-details ul li p a.tel-phone {
+    font-size: 19px;
+    font-family: 'poppinsbold';
+}
+
+.contact-btm .flight-details ul li p {
+    color: #fff;font-size:15px;
+}
+.contact-btm .flight-details ul li p a{
+    color: #fff;
+    text-decoration: none;
+}
+.contact-btm .flight-details ul li p strong {
+    color: #fff;vertical-align: top;
+    padding-top: 4px;
+    display: inline-block;
+}
+
+.locatonmap {
+    padding-bottom: 50px;
+}
+.locatonmap iframe {
+    width: 100%;
+    height: 375px;
+}
+.sitemap-content {
+    padding: 10px 0 20px 0;
+}
+.container {
+    margin: 0 auto;
+}
+.faqpages{
+    padding: 20px 5px;
+}
+.faqpages .header-heading.text-center {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+.header-heading.text-center h2 {
+    line-height: 22px;
+    font-size: 14px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    color: #fff;
+    background: linear-gradient(90deg, rgba(91, 1, 1, 1) 0%, rgba(214, 0, 1, 1) 51%, rgba(128, 1, 1, 1) 100%);
+    display: inline-block;
+    padding: 5px 20px 5px 20px;
+    border-radius: 60px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 12px;
+}
+.faqpages .panel-title {
+    background: rgb(91, 1, 1);
+    background: linear-gradient(90deg, rgba(91, 1, 1, 1) 0%, rgba(214, 0, 1, 1) 51%, rgba(128, 1, 1, 1) 100%);
+    padding: 14px;
+    border-radius: 0 20px 0 20px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+.fabBx .active .panel-title,
+.faqpages .panel.active .panel-title {
+    border-bottom-left-radius: 0;
+}
+.faqpages .panel-title {
+    color: #fff;
+    text-decoration: none;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: bold;
+    pointer-events: none;
+}
+
+.faqpages h4 a {
+    font-size: 13px;
+     display: flex;
+     line-height: 17px;
+}
+.faqpages{
+  padding-bottom: 20px;
+}
+.faqpages .panel-title:before{
+     content: "\f059";
+    font: normal normal normal 14px/1 FontAwesome;
+    color: #fff;
+    margin-right: 6px;
+    font-size: 17px;
+}
+.faqpages .panel.panel-default {
+    margin-bottom: 20px;    
+}
+.faqpages .panel-body {
+    font-size: 12px;
+    color: #fff;
+    line-height: 20px;
+    border: 1px solid #860101;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    padding: 12px 10px 20px 15px;
+    display: none;
+}
+.faqpages .fabBx .active .panel-body{
+    display: inline-block;
+    width: 100%;
+}
+.faqpages .fabBx .active .panel-body a{
+    color: #ec1213;
+}
+.faqpages .panel-collapse  a{
+  color: rgb(213 0 1);
+}
+.faqpages .panel-collapse a:before{
+  display: none;
+}
+.getcode {
+    margin-top: 0;
+}
+.faqpages .panel-body a {
+    display: inline-block;
+}
+
+.sitemap-content {
+    padding: 10px 0 20px 0;
+}
+.container {
+    width: auto;
+    margin: 0 auto;
+}
+.sitemap-content .header-heading.text-center {
+    margin-bottom: 33px;
+    margin-top: 10px;
+}
+
+.sitemap-content h3 {
+    background: rgb(91, 1, 1);
+    background: linear-gradient(90deg, rgba(91, 1, 1, 1) 0%, rgba(214, 0, 1, 1) 51%, rgba(128, 1, 1, 1) 100%);
+    display: inline-block;
+    clear: both;
+    font-size: 15px;
+    border-radius: 20px;
+    padding: 11px 25px;
+    color: #fff;
+    margin-bottom: 15px;
+}
+.sitemap-content ul {
+    display: inline-block;
+    width: 100%;
+    border-bottom: 1px solid #d20001;
+    padding-bottom: 17px;
+    margin-bottom: 30px;
+}
+.sitemap-content ul li {
+    float: left;
+    width: 50%;
+}
+.sitemap-content ul li a {
+    font-size: 12px;
+    color: #fff;
+    display: inline-block;
+    background-image: url(/Content/images/depart-icon-red.png);
+    background-repeat: no-repeat;
+    padding: 3px 0 7px 21px;
+    background-position: top 4px left;
+    text-decoration: none;
+    background-size: 15px;
+    margin-bottom: 5px;
+}
+.getcode {
+    margin-top: 0;
+}
+
+/*
+	STYLE SHEET FOR JQUERY LISTNAV PLUGIN V 3.0.0, 11/22/2017
+	For more information, visit http://esteinborn.github.com/jquery-listnav
+*/
+.listNav,
+.ln-letters {
+  overflow: hidden;
+}
+
+.listNavHide {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+}
+
+.letterCountShow {
+  display: block;
+}
+
+.ln-letters a {
+  border: 1px solid silver;
+  border-right: none;
+  display: block;
+  float: left;
+  font-size: .9em;
+  padding: 2px 6px;
+  text-decoration: none;
+}
+
+.ln-letters .ln-last {
+  border-right: 1px solid silver;
+}
+
+.ln-letters a:hover,
+.ln-letters .ln-selected {
+  background-color: #eaeaea;
+}
+
+.ln-letters .ln-disabled {
+  color: #ccc;
+}
+
+.ln-letter-count {
+  color: #336699;
+  font-size: .8em;
+  left: 0;
+  line-height: 1.35;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 20px;
+}
+
+/*# sourceMappingURL=listnav.css.map */
+

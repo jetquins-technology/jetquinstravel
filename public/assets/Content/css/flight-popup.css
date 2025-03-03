@@ -1,0 +1,163 @@
+.popup-layout{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background-color: rgba(0,0,0,0.8);z-index:111111;
+}
+a.popup-close {
+    position: absolute;
+    right: -10px;
+    top: -10px;
+    background: #fff;
+    width: 26px;
+    height: 26px;
+    border-radius: 50px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #d00001;
+    color: #d00001;
+    font-size: 15px;
+}
+.flight-popup .popup-contents{
+    background-image: url(../images/umbrella-big.png);
+    background-repeat: no-repeat;
+    background-position: top -30px center;
+    background-size: auto 100%;
+    border-radius: 15px; 
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    width: 600px;
+    background-color: #0a0a0b;
+    border: 1px solid #383838;
+    padding: 30px;
+}
+.flight-popup .popup-contents .mt0{
+    margin-top: 0;
+}
+.flight-popup .popup-contents .mt8{
+    margin-top: 8px;
+}
+.flight-popup .popup-contents .mb0{
+    margin-bottom: 0;
+}
+.flight-popup .popup-contents h1{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 29px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-top: 10px;
+}
+.flight-popup .popup-contents h3{
+    color: #d50001;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+.flight-popup .popup-contents p{
+    color: #fff;
+    font-weight: 300;
+    font-size: 18px;
+    margin-top: 10px;
+    line-height: 22px;
+    margin-bottom: 5px;
+}
+.flight-popup .popup-contents p.if {
+    font-size: 13px;
+    margin-bottom: 0;
+}
+.flight-popup .popup-contents p.if b{
+    text-decoration: line-through;
+}
+.flight-popup .popup-contents p.if + p{
+    margin-top: 0;
+}
+.flight-popup .popup-contents p span{
+    color: #d90001;
+}
+.flight-popup .number{
+    margin-top: 20px;
+    display: inline-block;
+}
+.flight-popup .email a,
+.flight-popup .number a {
+    background-color: #d00001;
+    color: #fff;
+    font-size: 24px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0;
+    height: 50px;
+    line-height: 52px;
+    width: 310px;
+    padding: 2px;
+}
+.flight-popup .email a{
+    font-size: 15px;
+    font-weight: normal;
+}
+.flight-popup .email a img{
+    position: relative;
+    top: 4px;
+}
+.flight-popup .number a img{
+    position: relative;
+    top: 2px;
+    left: 2px;
+}
+.flight-popup .divdr span {
+    border: 1px solid #d00001;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 14px;
+    line-height: 28px;
+}
+.divdr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.flight-popup .noresult-numbr{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+.flight-popup .noresult-numbr button,
+.flight-popup .noresult-numbr a {
+    background-color: transparent;
+    cursor: pointer;
+    border: 4px solid #fff;
+    font-size: 17px;
+    color: #d00001;
+    text-decoration: none;
+    width: auto;
+    height: 52px;
+    margin: 5px 4px;
+    display: flex;
+    align-items: center;
+    transition: all 0.4s;
+    justify-content: center;
+    padding: 2px 20px 0 20px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.flight-popup .fare-change .noresult-numbr a{
+    width: 300px;
+}
+.flight-popup .noresult-numbr a:hover{
+    background-color: #fff;
+}
+.flight-popup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

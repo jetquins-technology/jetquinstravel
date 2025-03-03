@@ -1,0 +1,103 @@
+.error_text {
+    display: none;
+}
+
+.rightCntr {
+    display: none;
+}
+
+.removeAll {
+    cursor: pointer;
+}
+
+.ac {
+    cursor: pointer;
+}
+
+.capcha {
+    background: #E3EDFF url(https://www.cheapflightsfares.com/resources/assets/support/capchaimg.jpg) left top no-repeat;
+    color: #005;
+    padding: 11px;
+    font-size: 20px;
+    border-radius: 0;
+    position: relative;
+    font-style: italic;
+    font-weight: 900;
+    letter-spacing: 2px;
+    border: 1px solid #ccc;
+    text-align: center;
+    padding-right: 29px;
+    font-family: arial;
+    line-height: 20px;
+    background-size: cover;
+}
+
+.relative {
+    position: relative;
+}
+
+.refresh-btn,
+.refresh-circul {
+    top: 15px;
+    width: 18px;
+    vertical-align: middle;
+    position: absolute;
+    right: 24px;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.refresh-circul {
+    cursor: none;
+}
+
+input.error,
+textarea.error {
+    border: 2px solid red !important;
+    background: #fff !important;
+}
+
+.error-massage,
+span.error {
+    color: red;
+    padding: 5px 0;
+    font-size: 13px;
+    white-space: nowrap;
+}
+
+.help-block,
+.error {
+    color: red;
+    padding: 3px 0;
+    font-size: 12px;
+}
+
+.help-block .fa-angle-double-right,
+.error .fa-angle-double-right {
+    color: #333;
+}
+
+.error_text {
+    color: #f54336;
+    font-size: 13px;
+    padding-top: 5px;
+}
+
+.login_popup .error_text,
+.login_popup .error {
+    color: #dc3545;
+    margin-top: 4px;
+    font-size: 13px;
+    background: #fff !important
+}
+
+.listing {
+    list-style: circle;
+    padding: 0px 0 0 13px;
+}
+
+.listing li {
+    font-size: 12px;
+    font-weight: 400;
+    text-align: left;
+}

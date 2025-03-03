@@ -1,0 +1,134 @@
+.async-hide {
+  opacity: 0 !important
+}
+
+.digicert-logo object {
+  width: 80px !important;
+  vertical-align: middle !important;
+}
+
+.secure__logo li {
+  vertical-align: middle;
+}
+
+@media screen and (max-width:480px) {
+  .digicert-logo object {
+    width: 60px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .flight-details.popup-price-strip {
+    position: fixed;
+    bottom: 0;
+    margin: 0;
+    width: 100%;
+    padding: 0 10px 10px;
+    left: 0;
+  }
+}
+
+
+[data-display][data-display='none'] {
+  display: none !important;
+}
+
+[data-display][data-display='block'] {
+  display: block !important;
+}
+
+.hiding {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
+
+#launcher {
+  display: none !important;
+}
+
+#flightBookingRequest_Payment_Address2 {
+  background-image: none !important;
+}
+
+#flightBookingRequest_Payment_Address1 {
+  background-image: none !important;
+}
+
+.pac-icon {
+  display: none;
+}
+
+.pac-item {
+  padding-left: 5px;
+  cursor: pointer;
+}
+
+.pac-item:hover {
+  background-color: #D3D3D3;
+}
+
+.budget_text {
+  display: none !important;
+}
+
+#DigiCertClickID_7dlUvcGZpayment img {
+  height: 40px !important;
+}
+
+#DigiCertClickID_7dlUvcGZpayment_0 img {
+  height: 40px !important;
+}
+
+@media (max-width: 479px) {
+  .navigation_listing {
+    display: none;
+  }
+
+  #DigiCertClickID_7dlUvcGZpayment img {
+    height: 40px !important;
+  }
+
+  #DigiCertClickID_7dlUvcGZpayment_0 img {
+    height: 40px !important;
+  }
+}
+
+.billing::-webkit-input-placeholder {
+  color: #999;
+}
+
+.billing:-ms-input-placeholder {
+  color: #999;
+}
+
+.billing::placeholder {
+  color: #999;
+}
+
+.digicert-logo object {
+  width: 80px !important;
+  vertical-align: middle !important;
+}
+
+.secure__logo li {
+  vertical-align: middle;
+}
+
+.godaddy {
+  margin-left: 30px;
+}
+
+@media screen and (max-width:480px) {
+  .digicert-logo object {
+    width: 60px !important;
+  }
+
+  .norton-block .godaddy {
+    padding: 0 20px;
+    width: 150px;
+    margin-left: 0;
+  }
+}

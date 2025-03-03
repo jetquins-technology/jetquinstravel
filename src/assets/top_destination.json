@@ -1,0 +1,38 @@
+[
+    {
+        "name": "New York City",
+        "image": "/assets/images/home/nyc.jpg",
+        "description": "The vibrant city that never sleeps, known for its iconic skyline and diverse culture.",
+        "iataCode": "JFK"
+    },
+    {
+        "name": "Los Angeles",
+        "image": "/assets/images/home/lax.jpg",
+        "description": "Famous for Hollywood, beautiful beaches, and a thriving entertainment scene.",
+        "iataCode": "LAX"
+    },
+    {
+        "name": "Chicago",
+        "image": "/assets/images/home/chicago.jpg",
+        "description": "Known for its stunning architecture, deep-dish pizza, and vibrant arts scene.",
+        "iataCode": "ORD"
+    },
+    {
+        "name": "Las Vegas",
+        "image": "/assets/images/home/las-vegas.jpg",
+        "description": "The entertainment capital of the world, famous for its casinos and nightlife.",
+        "iataCode": "LAS"
+    },
+    {
+        "name": "Miami",
+        "image": "/assets/images/home/miami.jpg",
+        "description": "A vibrant city known for its beautiful beaches, Art Deco architecture, and nightlife.",
+        "iataCode": "MIA"
+    },
+    {
+        "name": "Orlando",
+        "image": "/assets/images/home/orlando.jpg",
+        "description": "Home to world-famous theme parks, including Walt Disney World and Universal Studios.",
+        "iataCode": "MCO"
+    }
+]

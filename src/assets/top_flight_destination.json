@@ -1,0 +1,170 @@
+[
+    [
+        {
+            "source": {
+                "name": "New York City",
+                "airport": "John F. Kennedy International Airport (JFK)",
+                "iataCode": "JFK"
+            },
+            "destination": {
+                "name": "Los Angeles",
+                "airport": "Los Angeles International Airport (LAX)",
+                "iataCode": "LAX"
+            },
+            "image": "https://cmsrepository.com/static/flights/flight/airlinelogo-png/ua.png",
+            "description": "Flight from New York City to Los Angeles.",
+            "dateRange": "Mar 12 - Mar 20",
+            "depDate": "2025-03-12",
+            "returnDate": "2025-03-20",
+            "amount": "$550",
+            "travelerType": "Adult"
+        }
+    ],
+    [
+        {
+            "source": {
+                "name": "Los Angeles",
+                "airport": "Los Angeles International Airport (LAX)",
+                "iataCode": "LAX"
+            },
+            "destination": {
+                "name": "Chicago",
+                "airport": "O'Hare International Airport (ORD)",
+                "iataCode": "ORD"
+            },
+            "image": "https://cmsrepository.com/static/flights/flight/airlinelogo-png/lf.png",
+            "description": "Flight from Los Angeles to Chicago.",
+            "dateRange": "Apr 05 - Apr 06",
+            "depDate": "2025-04-05",
+            "returnDate": "2025-04-06",
+            "amount": "$480",
+            "travelerType": "Child"
+        }
+    ],
+    [
+        {
+            "source": {
+                "name": "Chicago",
+                "airport": "O'Hare International Airport (ORD)",
+                "iataCode": "ORD"
+            },
+            "destination": {
+                "name": "Las Vegas",
+                "airport": "McCarran International Airport (LAS)",
+                "iataCode": "LAS"
+            },
+            "image": "https://cmsrepository.com/static/flights/flight/airlinelogo-png/ba.png",
+            "description": "Flight from Chicago to Las Vegas.",
+            "dateRange": "Mar 15 - Mar 16",
+            "depDate": "2025-03-15",
+            "returnDate": "2025-03-16",
+            "amount": "$420",
+            "travelerType": "Adult"
+        }
+    ],
+    [
+        {
+            "source": {
+                "name": "Las Vegas",
+                "airport": "McCarran International Airport (LAS)",
+                "iataCode": "LAS"
+            },
+            "destination": {
+                "name": "Miami",
+                "airport": "Miami International Airport (MIA)",
+                "iataCode": "MIA"
+            },
+            "image": "https://cmsrepository.com/static/flights/flight/airlinelogo-png/sk.png",
+            "description": "Flight from Las Vegas to Miami.",
+            "dateRange": "Mar 18 - Mar 19",
+            "depDate": "2025-03-18",
+            "returnDate": "2025-03-19",
+            "amount": "$380",
+            "travelerType": "Infant"
+        }
+    ],
+    [
+        {
+            "source": {
+                "name": "Miami",
+                "airport": "Miami International Airport (MIA)",
+                "iataCode": "MIA"
+            },
+            "destination": {
+                "name": "Orlando",
+                "airport": "Orlando International Airport (MCO)",
+                "iataCode": "MCO"
+            },
+            "image": "https://cmsrepository.com/static/flights/flight/airlinelogo-png/hr.png",
+            "description": "Flight from Miami to Orlando.",
+            "dateRange": "Mar 22 - Mar 23",
+            "depDate": "2025-03-22",
+            "returnDate": "2025-03-23",
+            "amount": "$450",
+            "travelerType": "Adult"
+        }
+    ],
+    [
+        {
+            "source": {
+                "name": "Orlando",
+                "airport": "Orlando International Airport (MCO)",
+                "iataCode": "MCO"
+            },
+            "destination": {
+                "name": "San Francisco",
+                "airport": "San Francisco International Airport (SFO)",
+                "iataCode": "SFO"
+            },
+            "image": "https://cmsrepository.com/static/flights/flight/airlinelogo-png/ta.png",
+            "description": "Flight from Orlando to San Francisco.",
+            "dateRange": "Apr 10 - Apr 11",
+            "depDate": "2025-04-10",
+            "returnDate": "2025-04-11",
+            "amount": "$400",
+            "travelerType": "Child"
+        }
+    ],
+    [
+        {
+            "source": {
+                "name": "San Francisco",
+                "airport": "San Francisco International Airport (SFO)",
+                "iataCode": "SFO"
+            },
+            "destination": {
+                "name": "Seattle",
+                "airport": "Seattle-Tacoma International Airport (SEA)",
+                "iataCode": "SEA"
+            },
+            "image": "https://cmsrepository.com/static/flights/flight/airlinelogo-png/y4.png",
+            "description": "Flight from San Francisco to Seattle.",
+            "dateRange": "Mar 25 - Mar 26",
+            "depDate": "2025-03-25",
+            "returnDate": "2025-03-26",
+            "amount": "$600",
+            "travelerType": "Adult"
+        }
+    ],
+    [
+        {
+            "source": {
+                "name": "Seattle",
+                "airport": "Seattle-Tacoma International Airport (SEA)",
+                "iataCode": "SEA"
+            },
+            "destination": {
+                "name": "New York City",
+                "airport": "John F. Kennedy International Airport (JFK)",
+                "iataCode": "JFK"
+            },
+            "image": "https://cmsrepository.com/static/flights/flight/airlinelogo-png/as.png",
+            "description": "Flight from Seattle to New York City.",
+            "dateRange": "Mar 30 - Mar 31",
+            "depDate": "2025-03-30",
+            "returnDate": "2025-03-31",
+            "amount": "$520",
+            "travelerType": "Adult"
+        }
+    ]
+]

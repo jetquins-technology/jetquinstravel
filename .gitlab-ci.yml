@@ -1,0 +1,36 @@
+# This file is a template, and might need editing before it works on your project.
+# This is a sample GitLab CI/CD configuration file that demonstrates two environments:
+# 1. Development environment deployed from the master branch.
+# 2. Production environment deployed from the main branch.
+
+stages:          # List of stages for jobs, and their order of execution
+  - build
+  - deploy
+
+build-job:       # This job runs in the build stage, which runs first.
+  stage: build
+  script:
+    - echo "Compiling the code..."
+    - echo "Compile complete."
+
+deploy-development:  # This job deploys to the development environment from the master branch.
+  stage: deploy
+  environment:
+    name: development
+    url: https://dev.example.com  # Replace with your development environment URL
+  script:
+    - echo "Deploying application to the development environment..."
+    - echo "Application successfully deployed to development."
+  only:
+    - master
+
+deploy-production:   # This job deploys to the production environment from the main branch.
+  stage: deploy
+  environment:
+    name: production
+    url: https://JetQuinsTravel.com  # Replace with your production environment URL
+  script:
+    - echo "Deploying application to the production environment..."
+    - echo "Application successfully deployed to production."
+  only:
+    - main

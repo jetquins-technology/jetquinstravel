@@ -1,0 +1,28 @@
+<svg id="Group_25397" data-name="Group 25397" xmlns="http://www.w3.org/2000/svg" width="184" height="126.69" viewBox="0 0 184 126.69">
+  <g id="Group_25396" data-name="Group 25396" transform="translate(32 14.69)">
+    <circle id="Ellipse_439" data-name="Ellipse 439" cx="56" cy="56" r="56" fill="rgba(30,180,28,0.26)"/>
+    <circle id="Ellipse_440" data-name="Ellipse 440" cx="46.5" cy="46.5" r="46.5" transform="translate(9 9)" fill="#1eb41c"/>
+    <g id="noun-tick-1348361" transform="translate(28.594 35.361)">
+      <g id="Group_25395" data-name="Group 25395" transform="translate(0 0)">
+        <path id="Path_522" data-name="Path 522" d="M18.049,40.824a3.946,3.946,0,1,0-6,5.131L22.52,58.168l3-2.565-3,2.575a3.957,3.957,0,0,0,5.579.429,4.1,4.1,0,0,0,.311-.3L63.451,25.691a3.947,3.947,0,0,0-5.378-5.78l-32.235,30-7.79-9.088Z" transform="translate(-11.104 -18.854)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="Ellipse_441" data-name="Ellipse 441" transform="translate(11 30.69)" fill="none" stroke="#c4ecc4" stroke-width="2">
+    <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+    <circle cx="6.5" cy="6.5" r="5.5" fill="none"/>
+  </g>
+  <ellipse id="Ellipse_445" data-name="Ellipse 445" cx="2" cy="2.5" rx="2" ry="2.5" transform="translate(73 0.69)" fill="#c4ecc4"/>
+  <circle id="Ellipse_446" data-name="Ellipse 446" cx="2" cy="2" r="2" transform="translate(4 101.69)" fill="#c4ecc4"/>
+  <g id="Ellipse_444" data-name="Ellipse 444" transform="translate(144 104.69)" fill="none" stroke="#c4ecc4" stroke-width="2">
+    <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+    <circle cx="6.5" cy="6.5" r="5.5" fill="none"/>
+  </g>
+  <ellipse id="Ellipse_442" data-name="Ellipse 442" cx="6" cy="5.5" rx="6" ry="5.5" transform="translate(158 74.69)" fill="#eef1ff"/>
+  <circle id="Ellipse_443" data-name="Ellipse 443" cx="5.5" cy="5.5" r="5.5" transform="translate(29 111.69)" fill="#c9d2f9"/>
+  <rect id="Rectangle_125" data-name="Rectangle 125" width="7.458" height="7.458" transform="translate(105.188) rotate(11)" fill="#c4ecc4"/>
+  <rect id="Rectangle_126" data-name="Rectangle 126" width="7.458" height="7.458" transform="translate(176.679 39.442) rotate(11)" fill="#c4ecc4"/>
+  <path id="Polygon_1" data-name="Polygon 1" d="M7.5,0,9.525,5.11,15,7,9.525,8.89,7.5,14,5.475,8.89,0,7,5.475,5.11Z" transform="translate(140 20.69)" fill="#eef1ff"/>
+  <path id="Polygon_2" data-name="Polygon 2" d="M5.5,0,6.985,4.015,11,5.5,6.985,6.985,5.5,11,4.015,6.985,0,5.5,4.015,4.015Z" transform="translate(0 68.69)" fill="#eef1ff"/>
+  <path id="Polygon_3" data-name="Polygon 3" d="M5.5,0,6.985,4.015,11,5.5,6.985,6.985,5.5,11,4.015,6.985,0,5.5,4.015,4.015Z" transform="translate(34 4.69)" fill="#eef1ff"/>
+</svg>

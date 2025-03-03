@@ -1,0 +1,6542 @@
+{
+    "55": {
+        "name": "Buta Airways",
+        "code": "55",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "86": {
+        "name": "Up Israel",
+        "code": "86",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "JB": {
+        "name": "Helijet",
+        "code": "JB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JB.png"
+    },
+    "DH": {
+        "name": "Douniah Airlines",
+        "code": "DH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/DH.png"
+    },
+    "LG": {
+        "name": "Luxair",
+        "code": "LG",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LG.png"
+    },
+    "QP": {
+        "name": "Akasa Air",
+        "code": "QP",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "JU": {
+        "name": "Air Serbia",
+        "code": "JU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JU.png"
+    },
+    "PP": {
+        "name": "Jet Aviation Business",
+        "code": "PP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PP.png"
+    },
+    "CM": {
+        "name": "Copa Airlines",
+        "code": "CM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CM.png"
+    },
+    "L7": {
+        "name": "Linea Aerea Carguera de Colombia S.A.",
+        "code": "L7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/L7.png"
+    },
+    "2A": {
+        "name": "Deutsche Bahn AG",
+        "code": "2A",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/2A.png"
+    },
+    "4X": {
+        "name": "Mercury Air Cargo, Inc.",
+        "code": "4X",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/4X.png"
+    },
+    "5Q": {
+        "name": "BQB Lineas Aereas",
+        "code": "5Q",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/5Q.png"
+    },
+    "HF": {
+        "name": "Air CÃ´te d'Ivoire",
+        "code": "HF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HF.png"
+    },
+    "OB": {
+        "name": "Boliviana de AviaciÃ³n",
+        "code": "OB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OB.png"
+    },
+    "1C": {
+        "name": "Hewlett-Packard (Schweiz) GmbH",
+        "code": "1C",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/1C.png"
+    },
+    "9I": {
+        "name": "Alliance Air",
+        "code": "9I",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/9I.png"
+    },
+    "VZ": {
+        "name": "Thai Vietjet Air",
+        "code": "VZ",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/VZ.png"
+    },
+    "T0": {
+        "name": "TACA Peru",
+        "code": "T0",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/T0.png"
+    },
+    "C4": {
+        "name": "Conquest Air, Inc.",
+        "code": "C4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/C4.png"
+    },
+    "EU": {
+        "name": "Chengdu Airlines",
+        "code": "EU",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/EU.png"
+    },
+    "R0": {
+        "name": "Russian Railways",
+        "code": "R0",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "TK": {
+        "name": "Turkish Airlines",
+        "code": "TK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TK.png"
+    },
+    "PI": {
+        "name": "Polar Airlines",
+        "code": "PI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PI.png"
+    },
+    "KV": {
+        "name": "KrasAvia",
+        "code": "KV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KV.png"
+    },
+    "TA": {
+        "name": "TACA Airlines",
+        "code": "TA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TA.png"
+    },
+    "OQ": {
+        "name": "Chongqing Airlines",
+        "code": "OQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OQ.png"
+    },
+    "9N": {
+        "name": "Tropic Air Limited",
+        "code": "9N",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/9N.png"
+    },
+    "D5": {
+        "name": "DHL Aero Expreso S.A.",
+        "code": "D5",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "BP": {
+        "name": "Air Botswana",
+        "code": "BP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BP.png"
+    },
+    "3E": {
+        "name": "Air Choice One",
+        "code": "3E",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/3E.png"
+    },
+    "0I": {
+        "name": "Meraj Airlines",
+        "code": "0I",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "YY": {
+        "name": "Major Airline",
+        "code": "YY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/YY.png"
+    },
+    "XX": {
+        "name": "Major Airline",
+        "code": "XX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/XX.png"
+    },
+    "ER": {
+        "name": "Air East",
+        "code": "ER",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "00": {
+        "name": "Asian Express Airline",
+        "code": "00",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/00.png"
+    },
+    "9G": {
+        "name": "9G Rail",
+        "code": "9G",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "0O": {
+        "name": "Air Ocean",
+        "code": "0O",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "YE": {
+        "name": "Yan Air Ltd",
+        "code": "YE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/YE.png"
+    },
+    "DU": {
+        "name": "Norwegian Long Haul",
+        "code": "DU",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "YN": {
+        "name": "Air Creebec",
+        "code": "YN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/YN.png"
+    },
+    "WO": {
+        "name": "Swoop",
+        "code": "WO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WO.png"
+    },
+    "S3": {
+        "name": "Santa Barbara Airlines",
+        "code": "S3",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/S3.png"
+    },
+    "6L": {
+        "name": "Aklak Air",
+        "code": "6L",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "NC": {
+        "name": "Cobham Aviation Services Australia",
+        "code": "NC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NC.png"
+    },
+    "WX": {
+        "name": "Cityjet",
+        "code": "WX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WX.png"
+    },
+    "R7": {
+        "name": "AsercaÂ Airlines",
+        "code": "R7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/R7.png"
+    },
+    "V2": {
+        "name": "Vision Airlines",
+        "code": "V2",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/V2.png"
+    },
+    "SR": {
+        "name": "Sundair",
+        "code": "SR",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SR.png"
+    },
+    "RI": {
+        "name": "Tigerair Mandala",
+        "code": "RI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RI.png"
+    },
+    "S1": {
+        "name": "Lufthansa Systems",
+        "code": "S1",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/S1.png"
+    },
+    "GP": {
+        "name": "Guangxi Beibu Gulf Airlines Co., Ltd.",
+        "code": "GP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GP.png"
+    },
+    "WS": {
+        "name": "Westjet",
+        "code": "WS",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/WS.png"
+    },
+    "UH": {
+        "name": "Atlasjet Ukraine",
+        "code": "UH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UH.png"
+    },
+    "6O": {
+        "name": "Orbest",
+        "code": "6O",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/6O.png"
+    },
+    "BB": {
+        "name": "Seaborne Airlines",
+        "code": "BB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BB.png"
+    },
+    "AO": {
+        "name": "Australian Airlines",
+        "code": "AO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AO.png"
+    },
+    "IR": {
+        "name": "Iran Air",
+        "code": "IR",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/IR.png"
+    },
+    "8E": {
+        "name": "Bering Air",
+        "code": "8E",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/8E.png"
+    },
+    "VP": {
+        "name": "Villa Air Pvt. Ltd. dba Villa Air",
+        "code": "VP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/VP.png"
+    },
+    "TR": {
+        "name": "Scoot",
+        "code": "TR",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/TR.png"
+    },
+    "2G": {
+        "name": "Angara Airlines",
+        "code": "2G",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/2G.png"
+    },
+    "F5": {
+        "name": "Aerotranscargo",
+        "code": "F5",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "T5": {
+        "name": "Turkmenistan Airlines",
+        "code": "T5",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/T5.png"
+    },
+    "3U": {
+        "name": "Sichuan Airlines",
+        "code": "3U",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/3U.png"
+    },
+    "6W": {
+        "name": "FlyBosnia",
+        "code": "6W",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/6W.png"
+    },
+    "SD": {
+        "name": "Sudan Airways",
+        "code": "SD",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SD.png"
+    },
+    "FE": {
+        "name": "Far Eastern Air Transport",
+        "code": "FE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/FE.png"
+    },
+    "CR": {
+        "name": "OAG",
+        "code": "CR",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "4J": {
+        "name": "FlyDamas",
+        "code": "4J",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "4F": {
+        "name": "Air City",
+        "code": "4F",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "ZL": {
+        "name": "Regional Express",
+        "code": "ZL",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZL.png"
+    },
+    "OK": {
+        "name": "Czech Airlines",
+        "code": "OK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OK.png"
+    },
+    "IY": {
+        "name": "Yemenia",
+        "code": "IY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/IY.png"
+    },
+    "TY": {
+        "name": "Air Caledonie",
+        "code": "TY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TY.png"
+    },
+    "U3": {
+        "name": "As Avies",
+        "code": "U3",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/U3.png"
+    },
+    "5E": {
+        "name": "Siam Ga Co. Ltd.",
+        "code": "5E",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/5E.png"
+    },
+    "4H": {
+        "name": "Hi Air",
+        "code": "4H",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/4H.png"
+    },
+    "PN": {
+        "name": "China West Air",
+        "code": "PN",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/PN.png"
+    },
+    "9H": {
+        "name": "Chang An Airlines",
+        "code": "9H",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/9H.png"
+    },
+    "4P": {
+        "name": "Travel Air",
+        "code": "4P",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/4P.png"
+    },
+    "Q2": {
+        "name": "Maldivian",
+        "code": "Q2",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/Q2.png"
+    },
+    "GL": {
+        "name": "Air Greenland",
+        "code": "GL",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GL.png"
+    },
+    "NH": {
+        "name": "All Nippon Airways",
+        "code": "NH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NH.png"
+    },
+    "DQ": {
+        "name": "Delta Connection",
+        "code": "DQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/DQ.png"
+    },
+    "HA": {
+        "name": "Hawaiian Airlines",
+        "code": "HA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HA.png"
+    },
+    "X9": {
+        "name": "Avion Express",
+        "code": "X9",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/X9.png"
+    },
+    "2F": {
+        "name": "Afrinat International Airlines",
+        "code": "2F",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/2F.png"
+    },
+    "FU": {
+        "name": "Fuzhou Airlines",
+        "code": "FU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/FU.png"
+    },
+    "3G": {
+        "name": "Gambia Bird Airlines",
+        "code": "3G",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/3G.png"
+    },
+    "EB": {
+        "name": "Wamos Air",
+        "code": "EB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EB.png"
+    },
+    "CA": {
+        "name": "Air China",
+        "code": "CA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CA.png"
+    },
+    "SA": {
+        "name": "South African Airways",
+        "code": "SA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SA.png"
+    },
+    "5P": {
+        "name": "Panorama Airways",
+        "code": "5P",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/5P.png"
+    },
+    "1T": {
+        "name": "PT Aerosystems Indonesia",
+        "code": "1T",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/1T.png"
+    },
+    "OZ": {
+        "name": "Asiana Airlines",
+        "code": "OZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OZ.png"
+    },
+    "W6": {
+        "name": "Wizz Air",
+        "code": "W6",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/W6.png"
+    },
+    "YI": {
+        "name": "Air Sunshine Inc.",
+        "code": "YI",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "WI": {
+        "name": "White Airways",
+        "code": "WI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WI.png"
+    },
+    "L8": {
+        "name": "Afric Aviation",
+        "code": "L8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/L8.png"
+    },
+    "UQ": {
+        "name": "Urumqi Air",
+        "code": "UQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UQ.png"
+    },
+    "FC": {
+        "name": "FlyCorporate",
+        "code": "FC",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/FC.png"
+    },
+    "HJ": {
+        "name": "Hellas Jet",
+        "code": "HJ",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "RM": {
+        "name": "Air Dilijans",
+        "code": "RM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RM.png"
+    },
+    "OW": {
+        "name": "Skyward Express",
+        "code": "OW",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OW.png"
+    },
+    "Q9": {
+        "name": "Air Liaison",
+        "code": "Q9",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/Q9.png"
+    },
+    "QZ": {
+        "name": "Indonesia AirAsia",
+        "code": "QZ",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/QZ.png"
+    },
+    "NY": {
+        "name": "Air Iceland",
+        "code": "NY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NY.png"
+    },
+    "IG": {
+        "name": "Air Italy",
+        "code": "IG",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/IG.png"
+    },
+    "S8": {
+        "name": "Sounds Air Travel & Tourism Ltd.",
+        "code": "S8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/S8.png"
+    },
+    "D4": {
+        "name": "Georgian Wings",
+        "code": "D4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/D4.png"
+    },
+    "9V": {
+        "name": "Avior Airlines",
+        "code": "9V",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/9V.png"
+    },
+    "S4": {
+        "name": "SATA",
+        "code": "S4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/S4.png"
+    },
+    "DD": {
+        "name": "Nok Air",
+        "code": "DD",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/DD.png"
+    },
+    "PE": {
+        "name": "People's Viennaline",
+        "code": "PE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PE.png"
+    },
+    "TL": {
+        "name": "Airnorth",
+        "code": "TL",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TL.png"
+    },
+    "NN": {
+        "name": "VIM Airlines",
+        "code": "NN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NN.png"
+    },
+    "4K": {
+        "name": "Kenn Borek Air Ltd.",
+        "code": "4K",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/4K.png"
+    },
+    "A2": {
+        "name": "Animawings",
+        "code": "A2",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/A2.png"
+    },
+    "3L": {
+        "name": "Air Arabia Abu Dhabi",
+        "code": "3L",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/3L.png"
+    },
+    "4L": {
+        "name": "Palau National Airlines",
+        "code": "4L",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/4L.png"
+    },
+    "WE": {
+        "name": "Thai Smile",
+        "code": "WE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WE.png"
+    },
+    "2R": {
+        "name": "VIA Rail Canada Inc.",
+        "code": "2R",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "TW": {
+        "name": "T'way Air",
+        "code": "TW",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/TW.png"
+    },
+    "UF": {
+        "name": "UM Airlines",
+        "code": "UF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UF.png"
+    },
+    "G3": {
+        "name": "Gol Transportes AÃ©reos",
+        "code": "G3",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/G3.png"
+    },
+    "2W": {
+        "name": "Welcome Air",
+        "code": "2W",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/2W.png"
+    },
+    "SH": {
+        "name": "Sharp Airlines",
+        "code": "SH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SH.png"
+    },
+    "1Y": {
+        "name": "Electronic Data Systems Corporation",
+        "code": "1Y",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "JA": {
+        "name": "B&H Airlines",
+        "code": "JA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JA.png"
+    },
+    "L9": {
+        "name": "Lumiwings",
+        "code": "L9",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "0B": {
+        "name": "Blue Air",
+        "code": "0B",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/0B.png"
+    },
+    "JY": {
+        "name": "InterCaribbean Airways",
+        "code": "JY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JY.png"
+    },
+    "FS": {
+        "name": "Syphax Airlines",
+        "code": "FS",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/FS.png"
+    },
+    "NW": {
+        "name": "Northwest Airlines",
+        "code": "NW",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NW.png"
+    },
+    "Z0": {
+        "name": "Norse Atlantic UK",
+        "code": "Z0",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "SW": {
+        "name": "Air Namibia",
+        "code": "SW",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SW.png"
+    },
+    "TX": {
+        "name": "Air Caraibes",
+        "code": "TX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TX.png"
+    },
+    "NM": {
+        "name": "Manx2",
+        "code": "NM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NM.png"
+    },
+    "K5": {
+        "name": "SeaPort Airlines",
+        "code": "K5",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/K5.png"
+    },
+    "7U": {
+        "name": "Alpha Air Transport",
+        "code": "7U",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "VI": {
+        "name": "Volga-Dnepr Airlines",
+        "code": "VI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/VI.png"
+    },
+    "7I": {
+        "name": "Insel Air",
+        "code": "7I",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7I.png"
+    },
+    "FW": {
+        "name": "Ibex Airlines",
+        "code": "FW",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/FW.png"
+    },
+    "3Z": {
+        "name": "Travel Service Polska Sp. z.o.o.",
+        "code": "3Z",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "B3": {
+        "name": "Bhutan Airlines",
+        "code": "B3",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/B3.png"
+    },
+    "CZ": {
+        "name": "China Southern Airlines",
+        "code": "CZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CZ.png"
+    },
+    "RH": {
+        "name": "PT Republic Express Airlines",
+        "code": "RH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RH.png"
+    },
+    "US": {
+        "name": "US Airways",
+        "code": "US",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/US.png"
+    },
+    "U9": {
+        "name": "Tatarstan Airlines",
+        "code": "U9",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/U9.png"
+    },
+    "WY": {
+        "name": "Oman Air",
+        "code": "WY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WY.png"
+    },
+    "A1": {
+        "name": "A.P.G. Distribution System",
+        "code": "A1",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/A1.png"
+    },
+    "M2": {
+        "name": "MHS Aviation",
+        "code": "M2",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/M2.png"
+    },
+    "ZP": {
+        "name": "Silk Way Airlines",
+        "code": "ZP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZP.png"
+    },
+    "Y9": {
+        "name": "Lynx Air",
+        "code": "Y9",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/Y9.png"
+    },
+    "N8": {
+        "name": "National Airlines",
+        "code": "N8",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "0X": {
+        "name": "Air Excel",
+        "code": "0X",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/0X.png"
+    },
+    "0J": {
+        "name": "Premium Jet AG",
+        "code": "0J",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "ON": {
+        "name": "Nauru Airline",
+        "code": "ON",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ON.png"
+    },
+    "2Q": {
+        "name": "Air Cargo Carriers, LLC.",
+        "code": "2Q",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/2Q.png"
+    },
+    "B0": {
+        "name": "La Compagnie",
+        "code": "B0",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/B0.png"
+    },
+    "JJ": {
+        "name": "LATAM Brasil",
+        "code": "JJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JJ.png"
+    },
+    "CQ": {
+        "name": "Coastal Travels",
+        "code": "CQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CQ.png"
+    },
+    "3S": {
+        "name": "Air Antilles Express",
+        "code": "3S",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/3S.png"
+    },
+    "J6": {
+        "name": "Jet Ops",
+        "code": "J6",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "OU": {
+        "name": "Croatia Airlines",
+        "code": "OU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OU.png"
+    },
+    "F3": {
+        "name": "Flyadeal",
+        "code": "F3",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/F3.png"
+    },
+    "WM": {
+        "name": "Winair",
+        "code": "WM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WM.png"
+    },
+    "QL": {
+        "name": "LASER Airlines",
+        "code": "QL",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QL.png"
+    },
+    "AS": {
+        "name": "Alaska Airlines",
+        "code": "AS",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AS.png"
+    },
+    "Z7": {
+        "name": "Amaszonas",
+        "code": "Z7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/Z7.png"
+    },
+    "AI": {
+        "name": "Air India",
+        "code": "AI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AI.png"
+    },
+    "1H": {
+        "name": "JSC \"Sirena-Travel\"",
+        "code": "1H",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "5J": {
+        "name": "Cebu Pacific",
+        "code": "5J",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/5J.png"
+    },
+    "OG": {
+        "name": "PLAY",
+        "code": "OG",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OG.png"
+    },
+    "OL": {
+        "name": "Polynesian Airlines",
+        "code": "OL",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OL.png"
+    },
+    "RB": {
+        "name": "Syrian Arab Airlines",
+        "code": "RB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RB.png"
+    },
+    "VY": {
+        "name": "Vueling",
+        "code": "VY",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/VY.png"
+    },
+    "QR": {
+        "name": "Qatar Airways",
+        "code": "QR",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QR.png"
+    },
+    "P5": {
+        "name": "Aerorepublica",
+        "code": "P5",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/P5.png"
+    },
+    "W7": {
+        "name": "Wings of Lebanon S.a.l",
+        "code": "W7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/W7.png"
+    },
+    "OY": {
+        "name": "Andes Lineas Aereas",
+        "code": "OY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OY.png"
+    },
+    "XG": {
+        "name": "SunExpress Deutschland",
+        "code": "XG",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/XG.png"
+    },
+    "KE": {
+        "name": "Korean Air",
+        "code": "KE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KE.png"
+    },
+    "MZ": {
+        "name": "Merpati Nusantara Airlines",
+        "code": "MZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/MZ.png"
+    },
+    "WN": {
+        "name": "Southwest Airlines",
+        "code": "WN",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/WN.png"
+    },
+    "RX": {
+        "name": "Riyadh Air",
+        "code": "RX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RX.png"
+    },
+    "DV": {
+        "name": "SCAT",
+        "code": "DV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/DV.png"
+    },
+    "OJ": {
+        "name": "Fly Jamaica Airways",
+        "code": "OJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OJ.png"
+    },
+    "AX": {
+        "name": "Trans States Airlines",
+        "code": "AX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AX.png"
+    },
+    "BZ": {
+        "name": "Blue Bird Airways",
+        "code": "BZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BZ.png"
+    },
+    "8T": {
+        "name": "Air Tindi",
+        "code": "8T",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/8T.png"
+    },
+    "PZ": {
+        "name": "LATAM Paraguay",
+        "code": "PZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PZ.png"
+    },
+    "SC": {
+        "name": "Shandong Airlines",
+        "code": "SC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SC.png"
+    },
+    "ND": {
+        "name": "Sky Wings Airlines",
+        "code": "ND",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ND.png"
+    },
+    "LN": {
+        "name": "Libyan Airlines",
+        "code": "LN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LN.png"
+    },
+    "QJ": {
+        "name": "Jet Airways Inc.",
+        "code": "QJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QJ.png"
+    },
+    "OC": {
+        "name": "Oriental Air Bridge",
+        "code": "OC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OC.png"
+    },
+    "S2": {
+        "name": "Jet Lite",
+        "code": "S2",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/S2.png"
+    },
+    "RY": {
+        "name": "Jiangxi Air",
+        "code": "RY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RY.png"
+    },
+    "7Z": {
+        "name": "Halcyonair",
+        "code": "7Z",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7Z.png"
+    },
+    "5H": {
+        "name": "Fly540",
+        "code": "5H",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/5H.png"
+    },
+    "9K": {
+        "name": "Cape Air",
+        "code": "9K",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/9K.png"
+    },
+    "GM": {
+        "name": "Germania Flug",
+        "code": "GM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GM.png"
+    },
+    "EF": {
+        "name": "Fly CamInter",
+        "code": "EF",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/EF.png"
+    },
+    "AK": {
+        "name": "AirAsia",
+        "code": "AK",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/AK.png"
+    },
+    "H8": {
+        "name": "Hesa Airlines",
+        "code": "H8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/H8.png"
+    },
+    "QW": {
+        "name": "Qingdao Airlines",
+        "code": "QW",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QW.png"
+    },
+    "P0": {
+        "name": "Proflight Zambia",
+        "code": "P0",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/P0.png"
+    },
+    "P7": {
+        "name": "Small Planet Airlines",
+        "code": "P7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/P7.png"
+    },
+    "2V": {
+        "name": "Amtrak",
+        "code": "2V",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "2D": {
+        "name": "Eastern Airlines, LLC",
+        "code": "2D",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/2D.png"
+    },
+    "7O": {
+        "name": "Travel Service",
+        "code": "7O",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "MD": {
+        "name": "Air Madagascar",
+        "code": "MD",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/MD.png"
+    },
+    "AC": {
+        "name": "Air Canada",
+        "code": "AC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AC.png"
+    },
+    "VG": {
+        "name": "VLM Airlines",
+        "code": "VG",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/VG.png"
+    },
+    "TF": {
+        "name": "BRA",
+        "code": "TF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TF.png"
+    },
+    "UU": {
+        "name": "Air Austral",
+        "code": "UU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UU.png"
+    },
+    "FB": {
+        "name": "Bulgaria Air",
+        "code": "FB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/FB.png"
+    },
+    "DR": {
+        "name": "Ruili Airlines",
+        "code": "DR",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/DR.png"
+    },
+    "5X": {
+        "name": "UPS",
+        "code": "5X",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "HS": {
+        "name": "HÃ©li SÃ©curitÃ© HÃ©licopter Airline",
+        "code": "HS",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "QQ": {
+        "name": "Alliance Airlines",
+        "code": "QQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QQ.png"
+    },
+    "EK": {
+        "name": "Emirates",
+        "code": "EK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EK.png"
+    },
+    "GV": {
+        "name": "Grant Aviation, Inc.",
+        "code": "GV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GV.png"
+    },
+    "PB": {
+        "name": "Provincial Airlines",
+        "code": "PB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PB.png"
+    },
+    "B4": {
+        "name": "ZanAir",
+        "code": "B4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/B4.png"
+    },
+    "XS": {
+        "name": "SITA - Airlines WorldwideTelecommunications and Information Svcs",
+        "code": "XS",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "HY": {
+        "name": "Uzbekistan Airways",
+        "code": "HY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HY.png"
+    },
+    "BV": {
+        "name": "Blue Panorama Airlines",
+        "code": "BV",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/BV.png"
+    },
+    "HT": {
+        "name": "Ningxia Cargo Airlines CO.,LTD",
+        "code": "HT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HT.png"
+    },
+    "PA": {
+        "name": "airblue",
+        "code": "PA",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/PA.png"
+    },
+    "JO": {
+        "name": "Jonika Airlines",
+        "code": "JO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JO.png"
+    },
+    "BK": {
+        "name": "Okay Airways",
+        "code": "BK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BK.png"
+    },
+    "QO": {
+        "name": "Quikjet Cargo Airlines Pvt. Ltd",
+        "code": "QO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QO.png"
+    },
+    "WU": {
+        "name": "Wizz Air Ukraine",
+        "code": "WU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WU.png"
+    },
+    "CO": {
+        "name": "Cobalt Air",
+        "code": "CO",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/CO.png"
+    },
+    "MK": {
+        "name": "Air Mauritius",
+        "code": "MK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/MK.png"
+    },
+    "EP": {
+        "name": "Iran Aseman Airlines",
+        "code": "EP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EP.png"
+    },
+    "9E": {
+        "name": "Endeavor Air",
+        "code": "9E",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/9E.png"
+    },
+    "BR": {
+        "name": "Eva Air",
+        "code": "BR",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BR.png"
+    },
+    "IJ": {
+        "name": "Spring Airlines Japan",
+        "code": "IJ",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/IJ.png"
+    },
+    "8N": {
+        "name": "Regional Air Services",
+        "code": "8N",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/8N.png"
+    },
+    "P9": {
+        "name": "Peruvian Airlines",
+        "code": "P9",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/P9.png"
+    },
+    "DS": {
+        "name": "easyJet Switzerland",
+        "code": "DS",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/DS.png"
+    },
+    "0U": {
+        "name": "Afrosiyob",
+        "code": "0U",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "X4": {
+        "name": "Air Excursion, LLC",
+        "code": "X4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/X4.png"
+    },
+    "K6": {
+        "name": "Cambodia Angkor Air",
+        "code": "K6",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/K6.png"
+    },
+    "JQ": {
+        "name": "Jetstar",
+        "code": "JQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JQ.png"
+    },
+    "XV": {
+        "name": "BVI Airways",
+        "code": "XV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/XV.png"
+    },
+    "IS": {
+        "name": "AIS Airlines B.V.",
+        "code": "IS",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/IS.png"
+    },
+    "KF": {
+        "name": "Blue1",
+        "code": "KF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KF.png"
+    },
+    "JM": {
+        "name": "Jambojet",
+        "code": "JM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JM.png"
+    },
+    "ZR": {
+        "name": "Aviacon Zitotrans Air Company JSC",
+        "code": "ZR",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "SX": {
+        "name": "SkyWork Airlines",
+        "code": "SX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SX.png"
+    },
+    "CF": {
+        "name": "China Postal Airlines Ltd.",
+        "code": "CF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CF.png"
+    },
+    "J2": {
+        "name": "Azerbaijan Airlines",
+        "code": "J2",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/J2.png"
+    },
+    "GH": {
+        "name": "Globus Airlines",
+        "code": "GH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GH.png"
+    },
+    "KJ": {
+        "name": "Air Incheon",
+        "code": "KJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KJ.png"
+    },
+    "HR": {
+        "name": "Hahn Air",
+        "code": "HR",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HR.png"
+    },
+    "G2": {
+        "name": "Jet Express",
+        "code": "G2",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "IU": {
+        "name": "Super Air Jet",
+        "code": "IU",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "9W": {
+        "name": "Jet Airways",
+        "code": "9W",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/9W.png"
+    },
+    "4V": {
+        "name": "Lignes Aeriennes Congolaises",
+        "code": "4V",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "4S": {
+        "name": "Red Sea Airlines",
+        "code": "4S",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "L3": {
+        "name": "Lynx Aviation",
+        "code": "L3",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/L3.png"
+    },
+    "M6": {
+        "name": "Amerijet International Inc.",
+        "code": "M6",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "J9": {
+        "name": "Jazeera Airways",
+        "code": "J9",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/J9.png"
+    },
+    "PJ": {
+        "name": "Air Saint Pierre",
+        "code": "PJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PJ.png"
+    },
+    "PK": {
+        "name": "Pakistan International Airlines",
+        "code": "PK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PK.png"
+    },
+    "7J": {
+        "name": "Tajik Air",
+        "code": "7J",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7J.png"
+    },
+    "JH": {
+        "name": "Fuji Dream Airlines",
+        "code": "JH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JH.png"
+    },
+    "C3": {
+        "name": "Trade Air",
+        "code": "C3",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/C3.png"
+    },
+    "ÐšÐ‘": {
+        "name": "Kostroma Air",
+        "code": "ÐšÐ‘",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "TH": {
+        "name": "Raya Airways Sdn. Bhd.dba Raya Airways",
+        "code": "TH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TH.png"
+    },
+    "P4": {
+        "name": "AerolÃ­neas Sosa",
+        "code": "P4",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/P4.png"
+    },
+    "WH": {
+        "name": "Webjet Linhas Aereas",
+        "code": "WH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WH.png"
+    },
+    "6G": {
+        "name": "Sun Air Express",
+        "code": "6G",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/6G.png"
+    },
+    "UZ": {
+        "name": "Buraq Air Transport (BRQ)",
+        "code": "UZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UZ.png"
+    },
+    "B2": {
+        "name": "Belavia",
+        "code": "B2",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/B2.png"
+    },
+    "NG": {
+        "name": "Aero Contractors",
+        "code": "NG",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NG.png"
+    },
+    "FV": {
+        "name": "Rossiya Airlines",
+        "code": "FV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/FV.png"
+    },
+    "VX": {
+        "name": "Virgin America ",
+        "code": "VX",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/VX.png"
+    },
+    "EJ": {
+        "name": "New England Airlines",
+        "code": "EJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EJ.png"
+    },
+    "E2": {
+        "name": "Eagle Atlantic Airlines",
+        "code": "E2",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/E2.png"
+    },
+    "6Z": {
+        "name": "Euro-Asia Air",
+        "code": "6Z",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "N2": {
+        "name": "Trans-Mediterranean Airways",
+        "code": "N2",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "EL": {
+        "name": "Ellinair",
+        "code": "EL",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EL.png"
+    },
+    "SG": {
+        "name": "SpiceJet",
+        "code": "SG",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/SG.png"
+    },
+    "PV": {
+        "name": "St Barth Commuter",
+        "code": "PV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PV.png"
+    },
+    "KK": {
+        "name": "Atlas Global Airlines",
+        "code": "KK",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/KK.png"
+    },
+    "N9": {
+        "name": "Nova Airways",
+        "code": "N9",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "HW": {
+        "name": "North-Wright Airways",
+        "code": "HW",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HW.png"
+    },
+    "PD": {
+        "name": "Porter Airlines",
+        "code": "PD",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PD.png"
+    },
+    "BM": {
+        "name": "BMI Regional",
+        "code": "BM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BM.png"
+    },
+    "MU": {
+        "name": "China Eastern Airlines",
+        "code": "MU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/MU.png"
+    },
+    "KU": {
+        "name": "Kuwait Airways",
+        "code": "KU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KU.png"
+    },
+    "JG": {
+        "name": "JETGO Australia",
+        "code": "JG",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JG.png"
+    },
+    "NT": {
+        "name": "Binter Canarias",
+        "code": "NT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NT.png"
+    },
+    "O6": {
+        "name": "Avianca Brazil",
+        "code": "O6",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/O6.png"
+    },
+    "1A": {
+        "name": "Amadeus IT Group SA",
+        "code": "1A",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "7B": {
+        "name": "Bees Airline",
+        "code": "7B",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7B.png"
+    },
+    "4E": {
+        "name": "Stabo Air Limited",
+        "code": "4E",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "J3": {
+        "name": "Northwestern Air",
+        "code": "J3",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/J3.png"
+    },
+    "DB": {
+        "name": "Brit Air",
+        "code": "DB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/DB.png"
+    },
+    "BL": {
+        "name": "Jetstar Pacific Airlines",
+        "code": "BL",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/BL.png"
+    },
+    "E8": {
+        "name": "Tayaran Jet",
+        "code": "E8",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "9P": {
+        "name": "Air Arabia Jordan",
+        "code": "9P",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/9P.png"
+    },
+    "3K": {
+        "name": "Jetstar Asia",
+        "code": "3K",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/3K.png"
+    },
+    "Ð’Ð“": {
+        "name": "Vologda Air",
+        "code": "Ð’Ð“",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "Ð¢Ð¤": {
+        "name": "Avia Traffic Company",
+        "code": "Ð¢Ð¤",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "CE": {
+        "name": "Chalair Aviation",
+        "code": "CE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CE.png"
+    },
+    "PC": {
+        "name": "Pegasus Airlines",
+        "code": "PC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PC.png"
+    },
+    "ZI": {
+        "name": "Aigle Azur",
+        "code": "ZI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZI.png"
+    },
+    "BT": {
+        "name": "airBaltic",
+        "code": "BT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BT.png"
+    },
+    "IN": {
+        "name": "NAM Air",
+        "code": "IN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/IN.png"
+    },
+    "4A": {
+        "name": "Aero Transporte S.A.",
+        "code": "4A",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/4A.png"
+    },
+    "4D": {
+        "name": "Air Sinai",
+        "code": "4D",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/4D.png"
+    },
+    "XT": {
+        "name": "Globus LLÐ¡",
+        "code": "XT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/XT.png"
+    },
+    "P1": {
+        "name": "Public Charters",
+        "code": "P1",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/P1.png"
+    },
+    "H7": {
+        "name": "HiSky",
+        "code": "H7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/H7.png"
+    },
+    "VT": {
+        "name": "Air Tahiti",
+        "code": "VT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/VT.png"
+    },
+    "RF": {
+        "name": "Connellan air disaster",
+        "code": "RF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RF.png"
+    },
+    "XW": {
+        "name": "NokScoot",
+        "code": "XW",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/XW.png"
+    },
+    "RV": {
+        "name": "8165343 Canada Inc. dba Air Canada rouge",
+        "code": "RV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RV.png"
+    },
+    "H1": {
+        "name": "Hahn Air",
+        "code": "H1",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/H1.png"
+    },
+    "C8": {
+        "name": "Cronos Airlines",
+        "code": "C8",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "GJ": {
+        "name": "Loong Air",
+        "code": "GJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GJ.png"
+    },
+    "8W": {
+        "name": "Private Wings",
+        "code": "8W",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "F6": {
+        "name": "fly2sky",
+        "code": "F6",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "VW": {
+        "name": "Aeromar",
+        "code": "VW",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/VW.png"
+    },
+    "NF": {
+        "name": "Air Vanuatu",
+        "code": "NF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NF.png"
+    },
+    "WA": {
+        "name": "KLM Cityhopper",
+        "code": "WA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WA.png"
+    },
+    "T3": {
+        "name": "Eastern Airways",
+        "code": "T3",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/T3.png"
+    },
+    "UC": {
+        "name": "LAN Chile Cargo",
+        "code": "UC",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "NA": {
+        "name": "Nesma Airlines",
+        "code": "NA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NA.png"
+    },
+    "6T": {
+        "name": "Air Mandalay",
+        "code": "6T",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/6T.png"
+    },
+    "Q5": {
+        "name": "40-Mile Air",
+        "code": "Q5",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/Q5.png"
+    },
+    "9F": {
+        "name": "Eurostar",
+        "code": "9F",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "QC": {
+        "name": "Camair-Co",
+        "code": "QC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QC.png"
+    },
+    "HZ": {
+        "name": "Aurora",
+        "code": "HZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HZ.png"
+    },
+    "7V": {
+        "name": "Federal Air",
+        "code": "7V",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7V.png"
+    },
+    "XD": {
+        "name": "Air Transport Association of Americad\\b\\a Airlines for America",
+        "code": "XD",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "VB": {
+        "name": "VivaAerobus",
+        "code": "VB",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/VB.png"
+    },
+    "I6": {
+        "name": "Air Indus",
+        "code": "I6",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/I6.png"
+    },
+    "ZZ": {
+        "name": "American Eagle",
+        "code": "ZZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZZ.png"
+    },
+    "YM": {
+        "name": "Air Montenegro",
+        "code": "YM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/YM.png"
+    },
+    "JR": {
+        "name": "Joy Air",
+        "code": "JR",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JR.png"
+    },
+    "JT": {
+        "name": "Lion Air",
+        "code": "JT",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/JT.png"
+    },
+    "F2": {
+        "name": "Safarilink Aviation",
+        "code": "F2",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/F2.png"
+    },
+    "W1": {
+        "name": "World Ticket Ltd",
+        "code": "W1",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/W1.png"
+    },
+    "AM": {
+        "name": "Aeromexico",
+        "code": "AM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AM.png"
+    },
+    "LJ": {
+        "name": "Jin Air",
+        "code": "LJ",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/LJ.png"
+    },
+    "EG": {
+        "name": "Ernest Airline",
+        "code": "EG",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EG.png"
+    },
+    "VH": {
+        "name": "Viva Air Colombia",
+        "code": "VH",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/VH.png"
+    },
+    "6H": {
+        "name": "Israir Airlines",
+        "code": "6H",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/6H.png"
+    },
+    "SB": {
+        "name": "Aircalin",
+        "code": "SB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SB.png"
+    },
+    "L4": {
+        "name": "Air Service Liege",
+        "code": "L4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/L4.png"
+    },
+    "JL": {
+        "name": "Japan Airlines",
+        "code": "JL",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JL.png"
+    },
+    "T1": {
+        "name": "TIK Systems",
+        "code": "T1",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "FI": {
+        "name": "Icelandair",
+        "code": "FI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/FI.png"
+    },
+    "I8": {
+        "name": "Izhavia",
+        "code": "I8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/I8.png"
+    },
+    "8K": {
+        "name": "K-Mile Air Co. Ltd",
+        "code": "8K",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "KT": {
+        "name": "SiAvia",
+        "code": "KT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KT.png"
+    },
+    "CV": {
+        "name": "Cargolux",
+        "code": "CV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CV.png"
+    },
+    "VJ": {
+        "name": "VietjetAir",
+        "code": "VJ",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/VJ.png"
+    },
+    "A4": {
+        "name": "Azimut",
+        "code": "A4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/A4.png"
+    },
+    "P6": {
+        "name": "Pascan Aviation",
+        "code": "P6",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/P6.png"
+    },
+    "X8": {
+        "name": "Airmax S.A.",
+        "code": "X8",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "3O": {
+        "name": "Air Arabia Maroc",
+        "code": "3O",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/3O.png"
+    },
+    "WJ": {
+        "name": "JetSMART",
+        "code": "WJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WJ.png"
+    },
+    "DO": {
+        "name": "Discovery Airways",
+        "code": "DO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/DO.png"
+    },
+    "1R": {
+        "name": "Bird Information Systems Private Limited",
+        "code": "1R",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "MN": {
+        "name": "Comair",
+        "code": "MN",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/MN.png"
+    },
+    "CD": {
+        "name": "Corendon Dutch Airlines",
+        "code": "CD",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CD.png"
+    },
+    "XM": {
+        "name": "C.A.I. First",
+        "code": "XM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/XM.png"
+    },
+    "B6": {
+        "name": "JetBlue Airways",
+        "code": "B6",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/B6.png"
+    },
+    "5Y": {
+        "name": "Atlas Air",
+        "code": "5Y",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/5Y.png"
+    },
+    "AD": {
+        "name": "Azul Brazilian Airlines",
+        "code": "AD",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/AD.png"
+    },
+    "Y1": {
+        "name": "Travel Technology Interactive SA",
+        "code": "Y1",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/Y1.png"
+    },
+    "2O": {
+        "name": "Redemption Inc.",
+        "code": "2O",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/2O.png"
+    },
+    "U2": {
+        "name": "EasyJet",
+        "code": "U2",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/U2.png"
+    },
+    "EI": {
+        "name": "Aer Lingus",
+        "code": "EI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EI.png"
+    },
+    "4C": {
+        "name": "LAN COLOMBIA AIRLINES",
+        "code": "4C",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/4C.png"
+    },
+    "P8": {
+        "name": "Air Mekong",
+        "code": "P8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/P8.png"
+    },
+    "F8": {
+        "name": "Flair Airlines Ltd.",
+        "code": "F8",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/F8.png"
+    },
+    "O9": {
+        "name": "NOVA Airlines",
+        "code": "O9",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "YX": {
+        "name": "Republic Airlines",
+        "code": "YX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/YX.png"
+    },
+    "UV": {
+        "name": "HelicÃ³pteros del Sureste",
+        "code": "UV",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "ZX": {
+        "name": "Air Georgian Ltd. dba Air Alliance",
+        "code": "ZX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZX.png"
+    },
+    "9C": {
+        "name": "Spring Airlines",
+        "code": "9C",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/9C.png"
+    },
+    "ZV": {
+        "name": "V Air Corporation",
+        "code": "ZV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZV.png"
+    },
+    "9U": {
+        "name": "Air Moldova",
+        "code": "9U",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/9U.png"
+    },
+    "EQ": {
+        "name": "TAME Linea Aerea del Ecuador",
+        "code": "EQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EQ.png"
+    },
+    "IO": {
+        "name": "IrAero",
+        "code": "IO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/IO.png"
+    },
+    "DW": {
+        "name": "Aero-Charter Ukraine",
+        "code": "DW",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "KM": {
+        "name": "Air Malta",
+        "code": "KM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KM.png"
+    },
+    "C1": {
+        "name": "Tectimes Sudamerica",
+        "code": "C1",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/C1.png"
+    },
+    "D0": {
+        "name": "DHL Air Limited",
+        "code": "D0",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "5V": {
+        "name": "Everts Air Cargo",
+        "code": "5V",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "9A": {
+        "name": "Eaglexpress Air Charter Sdn.Bhd.dbaEaglexpress Air",
+        "code": "9A",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "Y8": {
+        "name": "Yangtze River Express",
+        "code": "Y8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/Y8.png"
+    },
+    "HB": {
+        "name": "Asia Atlantic Airlines",
+        "code": "HB",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "VC": {
+        "name": "Charter Air Transport, Inc.",
+        "code": "VC",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/VC.png"
+    },
+    "9L": {
+        "name": "West Link Airlines",
+        "code": "9L",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/9L.png"
+    },
+    "W5": {
+        "name": "Mahan Airlines",
+        "code": "W5",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/W5.png"
+    },
+    "7N": {
+        "name": "Pan American World Airways",
+        "code": "7N",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7N.png"
+    },
+    "HD": {
+        "name": "Air Do",
+        "code": "HD",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/HD.png"
+    },
+    "A5": {
+        "name": "HOP!",
+        "code": "A5",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/A5.png"
+    },
+    "8B": {
+        "name": "TransNusa",
+        "code": "8B",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/8B.png"
+    },
+    "LS": {
+        "name": "Jet2.com",
+        "code": "LS",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/LS.png"
+    },
+    "2H": {
+        "name": "Thalys International",
+        "code": "2H",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "01": {
+        "name": "JetHunter",
+        "code": "01",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "9J": {
+        "name": "Dana Airlines Limited",
+        "code": "9J",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/9J.png"
+    },
+    "5C": {
+        "name": "Nature Air",
+        "code": "5C",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/5C.png"
+    },
+    "8D": {
+        "name": "FITS Aviation (Pvt) Ltd",
+        "code": "8D",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/8D.png"
+    },
+    "XE": {
+        "name": "ExpressJet",
+        "code": "XE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/XE.png"
+    },
+    "5D": {
+        "name": "Aerolitoral S.A. de C.V.",
+        "code": "5D",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/5D.png"
+    },
+    "RO": {
+        "name": "Tarom",
+        "code": "RO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RO.png"
+    },
+    "M4": {
+        "name": "Mistral Air",
+        "code": "M4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/M4.png"
+    },
+    "R5": {
+        "name": "Jordan Aviation",
+        "code": "R5",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/R5.png"
+    },
+    "4Z": {
+        "name": "Airlink",
+        "code": "4Z",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/4Z.png"
+    },
+    "OV": {
+        "name": "SalamAir",
+        "code": "OV",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/OV.png"
+    },
+    "DN": {
+        "name": "Norwegian Air",
+        "code": "DN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/DN.png"
+    },
+    "U1": {
+        "name": "Videcom International Limited",
+        "code": "U1",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/U1.png"
+    },
+    "MF": {
+        "name": "Xiamen Airlines",
+        "code": "MF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/MF.png"
+    },
+    "6E": {
+        "name": "IndiGo",
+        "code": "6E",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/6E.png"
+    },
+    "NX": {
+        "name": "Air Macau",
+        "code": "NX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NX.png"
+    },
+    "MP": {
+        "name": "Martinair",
+        "code": "MP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/MP.png"
+    },
+    "QB": {
+        "name": "Qeshm Air",
+        "code": "QB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QB.png"
+    },
+    "8G": {
+        "name": "Mid Africa Aviation",
+        "code": "8G",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/8G.png"
+    },
+    "FR": {
+        "name": "Ryanair",
+        "code": "FR",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/FR.png"
+    },
+    "MC": {
+        "name": "Air Mobility Command",
+        "code": "MC",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "FA": {
+        "name": "Safair",
+        "code": "FA",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/FA.png"
+    },
+    "M8": {
+        "name": "SkyJet",
+        "code": "M8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/M8.png"
+    },
+    "Ð•ÐŸ": {
+        "name": "Armenia Airways",
+        "code": "Ð•ÐŸ",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "TO": {
+        "name": "Transavia",
+        "code": "TO",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/TO.png"
+    },
+    "D9": {
+        "name": "Donavia",
+        "code": "D9",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/D9.png"
+    },
+    "QT": {
+        "name": "Avianca Cargo",
+        "code": "QT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QT.png"
+    },
+    "X5": {
+        "name": "S.C. Ten Airways S.R.L.",
+        "code": "X5",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/X5.png"
+    },
+    "XK": {
+        "name": "Air Corsica",
+        "code": "XK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/XK.png"
+    },
+    "M9": {
+        "name": "Motor Sich Airlines",
+        "code": "M9",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/M9.png"
+    },
+    "ED": {
+        "name": "AirExplore",
+        "code": "ED",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ED.png"
+    },
+    "HO": {
+        "name": "Juneyao Airlines",
+        "code": "HO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HO.png"
+    },
+    "4G": {
+        "name": "Gazpromavia",
+        "code": "4G",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/4G.png"
+    },
+    "U8": {
+        "name": "Tus Airways",
+        "code": "U8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/U8.png"
+    },
+    "YH": {
+        "name": "Sunsplash Aviation, LLC.",
+        "code": "YH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/YH.png"
+    },
+    "SU": {
+        "name": "Aeroflot",
+        "code": "SU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SU.png"
+    },
+    "NL": {
+        "name": "Shaheen Air",
+        "code": "NL",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NL.png"
+    },
+    "Q1": {
+        "name": "Sqiva Sistem",
+        "code": "Q1",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "BF": {
+        "name": "French Blue",
+        "code": "BF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BF.png"
+    },
+    "EO": {
+        "name": "Pegas Fly",
+        "code": "EO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EO.png"
+    },
+    "SK": {
+        "name": "Scandinavian Airlines",
+        "code": "SK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SK.png"
+    },
+    "TV": {
+        "name": "Tibet Airlines",
+        "code": "TV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TV.png"
+    },
+    "RP": {
+        "name": "Chautauqua Airlines",
+        "code": "RP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RP.png"
+    },
+    "F1": {
+        "name": "Farelogix Qatar Airways",
+        "code": "F1",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/F1.png"
+    },
+    "NU": {
+        "name": "Japan Transocean Air",
+        "code": "NU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NU.png"
+    },
+    "C5": {
+        "name": "CommutAir",
+        "code": "C5",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/C5.png"
+    },
+    "F0": {
+        "name": "Fly Jordan",
+        "code": "F0",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "KD": {
+        "name": "PT Kal Star Aviation",
+        "code": "KD",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KD.png"
+    },
+    "F9": {
+        "name": "Frontier Airlines",
+        "code": "F9",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/F9.png"
+    },
+    "7H": {
+        "name": "Ravn Alaska",
+        "code": "7H",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/7H.png"
+    },
+    "PS": {
+        "name": "UIA",
+        "code": "PS",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PS.png"
+    },
+    "Y5": {
+        "name": "Golden Myanmar Airlines Public Co., Ltd",
+        "code": "Y5",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/Y5.png"
+    },
+    "8U": {
+        "name": "Afriqiyah Airways",
+        "code": "8U",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/8U.png"
+    },
+    "ZH": {
+        "name": "Shenzhen Airlines",
+        "code": "ZH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZH.png"
+    },
+    "XP": {
+        "name": "Avelo Airlines",
+        "code": "XP",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "ES": {
+        "name": "DHL Aviation EEMEA B.S.C.(c)",
+        "code": "ES",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ES.png"
+    },
+    "6K": {
+        "name": "Kyrgyz Trans Avia",
+        "code": "6K",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/6K.png"
+    },
+    "K8": {
+        "name": "Kan Air",
+        "code": "K8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/K8.png"
+    },
+    "C6": {
+        "name": "Centrum Air",
+        "code": "C6",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "JD": {
+        "name": "Beijing Capital Airlines",
+        "code": "JD",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JD.png"
+    },
+    "4T": {
+        "name": "Belair Airlines",
+        "code": "4T",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/4T.png"
+    },
+    "5I": {
+        "name": "Alsa Grupo SLU",
+        "code": "5I",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "LV": {
+        "name": "Level",
+        "code": "LV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LV.png"
+    },
+    "RQ": {
+        "name": "Kam Air",
+        "code": "RQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RQ.png"
+    },
+    "VN": {
+        "name": "Vietnam Airlines",
+        "code": "VN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/VN.png"
+    },
+    "V8": {
+        "name": "Iliamna Air Taxi Inc.",
+        "code": "V8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/V8.png"
+    },
+    "V6": {
+        "name": "Clairmont Holdings Ltd dba VI Air Link",
+        "code": "V6",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/V6.png"
+    },
+    "CB": {
+        "name": "Caribbean Air Export Import Inc.",
+        "code": "CB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CB.png"
+    },
+    "NP": {
+        "name": "Nile Air",
+        "code": "NP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NP.png"
+    },
+    "MJ": {
+        "name": "MyWay Airlines",
+        "code": "MJ",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/MJ.png"
+    },
+    "U7": {
+        "name": "Air Uganda",
+        "code": "U7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/U7.png"
+    },
+    "3H": {
+        "name": "Air Inuit",
+        "code": "3H",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/3H.png"
+    },
+    "E6": {
+        "name": "Bringer Air Cargo",
+        "code": "E6",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "VA": {
+        "name": "Virgin Australia",
+        "code": "VA",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/VA.png"
+    },
+    "5G": {
+        "name": "Shirak Avia",
+        "code": "5G",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/5G.png"
+    },
+    "DY": {
+        "name": "Norwegian Air Shuttle",
+        "code": "DY",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/DY.png"
+    },
+    "GK": {
+        "name": "Jetstar Japan",
+        "code": "GK",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/GK.png"
+    },
+    "N7": {
+        "name": "Nordic Regional Airline",
+        "code": "N7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/N7.png"
+    },
+    "TM": {
+        "name": "LAM Mozambique Airlines",
+        "code": "TM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TM.png"
+    },
+    "HH": {
+        "name": "Qanot Sharq",
+        "code": "HH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HH.png"
+    },
+    "RD": {
+        "name": "French Armed Forces",
+        "code": "RD",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RD.png"
+    },
+    "JI": {
+        "name": "Armenian Airlines",
+        "code": "JI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JI.png"
+    },
+    "ÐÐ§": {
+        "name": "Arkhangelsk-2",
+        "code": "ÐÐ§",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "G5": {
+        "name": "China Express Airlines",
+        "code": "G5",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/G5.png"
+    },
+    "4W": {
+        "name": "Warbelow's Air Ventures",
+        "code": "4W",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/4W.png"
+    },
+    "RA": {
+        "name": "Royal Nepal Airlines",
+        "code": "RA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RA.png"
+    },
+    "4N": {
+        "name": "Air North Charter and Training Ltd.",
+        "code": "4N",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/4N.png"
+    },
+    "0T": {
+        "name": "AnadoluJet",
+        "code": "0T",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "J8": {
+        "name": "Berjaya Air",
+        "code": "J8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/J8.png"
+    },
+    "7G": {
+        "name": "StarFlyer",
+        "code": "7G",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/7G.png"
+    },
+    "KA": {
+        "name": "Aero Nomad Airlines",
+        "code": "KA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KA.png"
+    },
+    "LX": {
+        "name": "Swiss International Air Lines",
+        "code": "LX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LX.png"
+    },
+    "9T": {
+        "name": "ACT Havayollari A.S.",
+        "code": "9T",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/9T.png"
+    },
+    "EZ": {
+        "name": "Sun-Air of Scandinavia",
+        "code": "EZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EZ.png"
+    },
+    "WK": {
+        "name": "Edelweiss Air",
+        "code": "WK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WK.png"
+    },
+    "A9": {
+        "name": "Georgian Airways",
+        "code": "A9",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/A9.png"
+    },
+    "N6": {
+        "name": "Nomad Aviation (PTY) Ltd.",
+        "code": "N6",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/N6.png"
+    },
+    "6J": {
+        "name": "Solaseed Air",
+        "code": "6J",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/6J.png"
+    },
+    "QA": {
+        "name": "Cimber",
+        "code": "QA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QA.png"
+    },
+    "ZG": {
+        "name": "ZIPAIR Tokyo",
+        "code": "ZG",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZG.png"
+    },
+    "FM": {
+        "name": "Shanghai Airlines",
+        "code": "FM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/FM.png"
+    },
+    "AB": {
+        "name": "Air Berlin",
+        "code": "AB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AB.png"
+    },
+    "D7": {
+        "name": "AirAsia X",
+        "code": "D7",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/D7.png"
+    },
+    "YF": {
+        "name": "Department of National Defence",
+        "code": "YF",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "IM": {
+        "name": "JSC Aircompany ATMA",
+        "code": "IM",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "NZ": {
+        "name": "Air New Zealand",
+        "code": "NZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NZ.png"
+    },
+    "CI": {
+        "name": "China Airlines",
+        "code": "CI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CI.png"
+    },
+    "Q6": {
+        "name": "Skytrans Airlines",
+        "code": "Q6",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/Q6.png"
+    },
+    "9M": {
+        "name": "Central Mountain Air",
+        "code": "9M",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/9M.png"
+    },
+    "J1": {
+        "name": "One Jet, Inc.",
+        "code": "J1",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/J1.png"
+    },
+    "QN": {
+        "name": "Air Armenia",
+        "code": "QN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QN.png"
+    },
+    "VK": {
+        "name": "Level",
+        "code": "VK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/VK.png"
+    },
+    "NB": {
+        "name": "Skypower Express Airways",
+        "code": "NB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NB.png"
+    },
+    "W9": {
+        "name": "Wizz Air",
+        "code": "W9",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/W9.png"
+    },
+    "LO": {
+        "name": "LOT Polish Airlines",
+        "code": "LO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LO.png"
+    },
+    "SI": {
+        "name": "Blue Islands",
+        "code": "SI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SI.png"
+    },
+    "VL": {
+        "name": "Air Via Ltd.",
+        "code": "VL",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/VL.png"
+    },
+    "BO": {
+        "name": "BB Airways",
+        "code": "BO",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "RZ": {
+        "name": "Sansa Airlines",
+        "code": "RZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RZ.png"
+    },
+    "DP": {
+        "name": "Pobeda",
+        "code": "DP",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/DP.png"
+    },
+    "ZU": {
+        "name": "SUN-AIR",
+        "code": "ZU",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "2Z": {
+        "name": "Passaredo Transportes Aereos S.A.",
+        "code": "2Z",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/2Z.png"
+    },
+    "9B": {
+        "name": "AccesRail",
+        "code": "9B",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/9B.png"
+    },
+    "UA": {
+        "name": "United Airlines",
+        "code": "UA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UA.png"
+    },
+    "UT": {
+        "name": "Utair",
+        "code": "UT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UT.png"
+    },
+    "XH": {
+        "name": "Special Ground Handling Service -XH",
+        "code": "XH",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "MT": {
+        "name": "Thomas Cook Airlines",
+        "code": "MT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/MT.png"
+    },
+    "LW": {
+        "name": "Pacific Wings",
+        "code": "LW",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LW.png"
+    },
+    "WT": {
+        "name": "Swiftair",
+        "code": "WT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WT.png"
+    },
+    "CY": {
+        "name": "Cyprus Airways",
+        "code": "CY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CY.png"
+    },
+    "W8": {
+        "name": "Cargojet Airways Ltd.",
+        "code": "W8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/W8.png"
+    },
+    "2P": {
+        "name": "PAL Express",
+        "code": "2P",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/2P.png"
+    },
+    "LZ": {
+        "name": "Belle Air",
+        "code": "LZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LZ.png"
+    },
+    "J4": {
+        "name": "BADR AIRLINES",
+        "code": "J4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/J4.png"
+    },
+    "RU": {
+        "name": "AirBridgeCargo",
+        "code": "RU",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "Ð“Ðš": {
+        "name": "Kosmos",
+        "code": "Ð“Ðš",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "1B": {
+        "name": "Abacus International Pte. Ltd.",
+        "code": "1B",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/1B.png"
+    },
+    "WG": {
+        "name": "Sunwing Airlines",
+        "code": "WG",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/WG.png"
+    },
+    "7R": {
+        "name": "RusLine",
+        "code": "7R",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7R.png"
+    },
+    "IW": {
+        "name": "Wings Air",
+        "code": "IW",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/IW.png"
+    },
+    "3A": {
+        "name": "Chu Kong Passenger Transport Co. Ltd.",
+        "code": "3A",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "PF": {
+        "name": "Primera Air",
+        "code": "PF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PF.png"
+    },
+    "2J": {
+        "name": "Air Burkina",
+        "code": "2J",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/2J.png"
+    },
+    "LM": {
+        "name": "Loganair",
+        "code": "LM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LM.png"
+    },
+    "PH": {
+        "name": "Transavia Denmark",
+        "code": "PH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PH.png"
+    },
+    "HP": {
+        "name": "Amapola Flyg AB",
+        "code": "HP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HP.png"
+    },
+    "7P": {
+        "name": "Air Panama",
+        "code": "7P",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7P.png"
+    },
+    "HE": {
+        "name": "LGW Luftfahrtgesellschaft Walter",
+        "code": "HE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HE.png"
+    },
+    "6A": {
+        "name": "Armenia Airways",
+        "code": "6A",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/6A.png"
+    },
+    "K1": {
+        "name": "Topas Co. Ltd.",
+        "code": "K1",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/K1.png"
+    },
+    "XO": {
+        "name": "South East Asian Airlines (SEAIR)International, Inc.",
+        "code": "XO",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/XO.png"
+    },
+    "XI": {
+        "name": "Aeronautical Telecommunications Ltd.(AEROTEL)",
+        "code": "XI",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "IK": {
+        "name": "Air Kiribati Limited",
+        "code": "IK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/IK.png"
+    },
+    "SZ": {
+        "name": "Somon Air",
+        "code": "SZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SZ.png"
+    },
+    "EC": {
+        "name": "OpenSkies",
+        "code": "EC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EC.png"
+    },
+    "0R": {
+        "name": "Renegade Air",
+        "code": "0R",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "KG": {
+        "name": "Aerogaviota",
+        "code": "KG",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KG.png"
+    },
+    "TZ": {
+        "name": "Scoot",
+        "code": "TZ",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/TZ.png"
+    },
+    "CN": {
+        "name": "Grand China Air",
+        "code": "CN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CN.png"
+    },
+    "1F": {
+        "name": "INFINI Travel Information, Inc.",
+        "code": "1F",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/1F.png"
+    },
+    "DJ": {
+        "name": "AirAsia Japan",
+        "code": "DJ",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/DJ.png"
+    },
+    "2E": {
+        "name": "Smokey Bay Air, Inc.",
+        "code": "2E",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "AW": {
+        "name": "Africa World Airlines",
+        "code": "AW",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AW.png"
+    },
+    "Q7": {
+        "name": "SkyBahamas Airlines",
+        "code": "Q7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/Q7.png"
+    },
+    "KN": {
+        "name": "China United Airlines",
+        "code": "KN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KN.png"
+    },
+    "EA": {
+        "name": "East Horizon Airlines",
+        "code": "EA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EA.png"
+    },
+    "AR": {
+        "name": "Aerolineas Argentinas",
+        "code": "AR",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AR.png"
+    },
+    "ST": {
+        "name": "Germania",
+        "code": "ST",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ST.png"
+    },
+    "FN": {
+        "name": "fastjet",
+        "code": "FN",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/FN.png"
+    },
+    "TG": {
+        "name": "Thai Airways",
+        "code": "TG",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TG.png"
+    },
+    "WZ": {
+        "name": "Red Wings Airlines",
+        "code": "WZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WZ.png"
+    },
+    "XL": {
+        "name": "LATAM Ecuador",
+        "code": "XL",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/XL.png"
+    },
+    "2Y": {
+        "name": "PT. My Indo Airlines",
+        "code": "2Y",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "AG": {
+        "name": "Aruba Airlines",
+        "code": "AG",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AG.png"
+    },
+    "1M": {
+        "name": "JSC Transport Automated InformationSystems - TAIS",
+        "code": "1M",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "R2": {
+        "name": "Orenair",
+        "code": "R2",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/R2.png"
+    },
+    "5Z": {
+        "name": "CemAir",
+        "code": "5Z",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/5Z.png"
+    },
+    "PG": {
+        "name": "Bangkok Airways",
+        "code": "PG",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PG.png"
+    },
+    "IE": {
+        "name": "Solomon Airlines",
+        "code": "IE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/IE.png"
+    },
+    "KC": {
+        "name": "Air Astana",
+        "code": "KC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KC.png"
+    },
+    "UB": {
+        "name": "Myanmar National Airlines",
+        "code": "UB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UB.png"
+    },
+    "X3": {
+        "name": "TUI fly",
+        "code": "X3",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/X3.png"
+    },
+    "N4": {
+        "name": "Nordwind Airlines",
+        "code": "N4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/N4.png"
+    },
+    "7Q": {
+        "name": "Elite Airways",
+        "code": "7Q",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7Q.png"
+    },
+    "6I": {
+        "name": "Air Alsie",
+        "code": "6I",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/6I.png"
+    },
+    "Q4": {
+        "name": "Starlink Aviation",
+        "code": "Q4",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "FP": {
+        "name": "Servicios AÃ©reos de los Andes",
+        "code": "FP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/FP.png"
+    },
+    "5M": {
+        "name": "Hi Fly Ltd",
+        "code": "5M",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/5M.png"
+    },
+    "UD": {
+        "name": "Hex Air",
+        "code": "UD",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UD.png"
+    },
+    "OA": {
+        "name": "Olympic Air",
+        "code": "OA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OA.png"
+    },
+    "XR": {
+        "name": "Corendon Airlines Europe",
+        "code": "XR",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/XR.png"
+    },
+    "ID": {
+        "name": "Batik Air Indonesia",
+        "code": "ID",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ID.png"
+    },
+    "YU": {
+        "name": "EuroAtlantic Airways S.A.",
+        "code": "YU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/YU.png"
+    },
+    "UL": {
+        "name": "Srilankan Airlines",
+        "code": "UL",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UL.png"
+    },
+    "EV": {
+        "name": "ExpressJet",
+        "code": "EV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EV.png"
+    },
+    "KL": {
+        "name": "KLM",
+        "code": "KL",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KL.png"
+    },
+    "GU": {
+        "name": "Aviateca",
+        "code": "GU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GU.png"
+    },
+    "SM": {
+        "name": "AIR CAIRO",
+        "code": "SM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SM.png"
+    },
+    "FO": {
+        "name": "Flybondi",
+        "code": "FO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/FO.png"
+    },
+    "IP": {
+        "name": "Apsara International Air",
+        "code": "IP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/IP.png"
+    },
+    "JN": {
+        "name": "Joon",
+        "code": "JN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JN.png"
+    },
+    "HQ": {
+        "name": "Thomas Cook Airlines Belgium",
+        "code": "HQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HQ.png"
+    },
+    "LT": {
+        "name": "Air Lituanica",
+        "code": "LT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LT.png"
+    },
+    "Q3": {
+        "name": "Anguilla Air Services, Ltd",
+        "code": "Q3",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/Q3.png"
+    },
+    "0W": {
+        "name": "Business jet",
+        "code": "0W",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "8M": {
+        "name": "Myanmar Airways International",
+        "code": "8M",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/8M.png"
+    },
+    "BG": {
+        "name": "Biman Bangladesh Airlines",
+        "code": "BG",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BG.png"
+    },
+    "AV": {
+        "name": "Avianca",
+        "code": "AV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AV.png"
+    },
+    "CL": {
+        "name": "Lufthansa CityLine",
+        "code": "CL",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CL.png"
+    },
+    "S7": {
+        "name": "S7 Airlines",
+        "code": "S7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/S7.png"
+    },
+    "1U": {
+        "name": "ITA Software Inc.",
+        "code": "1U",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "VE": {
+        "name": "C.A.I. Second",
+        "code": "VE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/VE.png"
+    },
+    "GT": {
+        "name": "Vista Georgia",
+        "code": "GT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GT.png"
+    },
+    "U6": {
+        "name": "Ural Airlines",
+        "code": "U6",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/U6.png"
+    },
+    "4U": {
+        "name": "Germanwings",
+        "code": "4U",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/4U.png"
+    },
+    "ZY": {
+        "name": "Sky Airlines",
+        "code": "ZY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZY.png"
+    },
+    "6V": {
+        "name": "AVANZA",
+        "code": "6V",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "UE": {
+        "name": "Ultimate Jetcharters",
+        "code": "UE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UE.png"
+    },
+    "BX": {
+        "name": "Air Busan",
+        "code": "BX",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/BX.png"
+    },
+    "GC": {
+        "name": "Gambia International Airlines",
+        "code": "GC",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "LE": {
+        "name": "Laparkan Airways, Inc.",
+        "code": "LE",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "BJ": {
+        "name": "Nouvelair",
+        "code": "BJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BJ.png"
+    },
+    "0H": {
+        "name": "Uzbekistan Airways Express",
+        "code": "0H",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "LI": {
+        "name": "Liat",
+        "code": "LI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LI.png"
+    },
+    "8Q": {
+        "name": "Onur Air",
+        "code": "8Q",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/8Q.png"
+    },
+    "8V": {
+        "name": "Wright Air Service",
+        "code": "8V",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/8V.png"
+    },
+    "S9": {
+        "name": "Starbow",
+        "code": "S9",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/S9.png"
+    },
+    "2L": {
+        "name": "Helvetic Airways",
+        "code": "2L",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/2L.png"
+    },
+    "YQ": {
+        "name": "TAR AerolÃ­neas",
+        "code": "YQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/YQ.png"
+    },
+    "JC": {
+        "name": "Japan Air Commuter",
+        "code": "JC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JC.png"
+    },
+    "5K": {
+        "name": "Hi Fly",
+        "code": "5K",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/5K.png"
+    },
+    "Y7": {
+        "name": "NordStar",
+        "code": "Y7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/Y7.png"
+    },
+    "4M": {
+        "name": "Mavi Gok Airlines",
+        "code": "4M",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/4M.png"
+    },
+    "MI": {
+        "name": "Silkair",
+        "code": "MI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/MI.png"
+    },
+    "9S": {
+        "name": "Southern Air Inc.",
+        "code": "9S",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/9S.png"
+    },
+    "AY": {
+        "name": "Finnair",
+        "code": "AY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AY.png"
+    },
+    "RR": {
+        "name": "Buzz",
+        "code": "RR",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "OT": {
+        "name": "Aeropelican Air Services",
+        "code": "OT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OT.png"
+    },
+    "YV": {
+        "name": "Mesa Airlines",
+        "code": "YV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/YV.png"
+    },
+    "0L": {
+        "name": "Lodyssey",
+        "code": "0L",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "OR": {
+        "name": "TUI Airlines Netherlands",
+        "code": "OR",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OR.png"
+    },
+    "ML": {
+        "name": "Air Mediterranee",
+        "code": "ML",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ML.png"
+    },
+    "JE": {
+        "name": "Mango",
+        "code": "JE",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/JE.png"
+    },
+    "MW": {
+        "name": "Mokulele Airlines",
+        "code": "MW",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/MW.png"
+    },
+    "Z2": {
+        "name": "AirAsia Zest",
+        "code": "Z2",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/Z2.png"
+    },
+    "7F": {
+        "name": "First Air",
+        "code": "7F",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7F.png"
+    },
+    "BW": {
+        "name": "Caribbean Airlines",
+        "code": "BW",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BW.png"
+    },
+    "UY": {
+        "name": "Air Caucasus",
+        "code": "UY",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "KH": {
+        "name": "Kyrgyz Air",
+        "code": "KH",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "3P": {
+        "name": "Tiara Air Aruba",
+        "code": "3P",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/3P.png"
+    },
+    "OD": {
+        "name": "Batik Air",
+        "code": "OD",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/OD.png"
+    },
+    "CK": {
+        "name": "China Cargo Airlines",
+        "code": "CK",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "N0": {
+        "name": "Norse Atlantic Airways",
+        "code": "N0",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/N0.png"
+    },
+    "JF": {
+        "name": "Jet Asia Airways",
+        "code": "JF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JF.png"
+    },
+    "D6": {
+        "name": "Inter Air",
+        "code": "D6",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/D6.png"
+    },
+    "UX": {
+        "name": "Air Europa",
+        "code": "UX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UX.png"
+    },
+    "L1": {
+        "name": "E-Savtravel",
+        "code": "L1",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "ZB": {
+        "name": "Monarch Airlines",
+        "code": "ZB",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/ZB.png"
+    },
+    "QD": {
+        "name": "Dobrolet",
+        "code": "QD",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QD.png"
+    },
+    "O4": {
+        "name": "Antrak Air",
+        "code": "O4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/O4.png"
+    },
+    "HM": {
+        "name": "Air Seychelles",
+        "code": "HM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HM.png"
+    },
+    "F7": {
+        "name": "iFly Airlines",
+        "code": "F7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/F7.png"
+    },
+    "E5": {
+        "name": "Air Arabia Egypt",
+        "code": "E5",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/E5.png"
+    },
+    "NO": {
+        "name": "Neos",
+        "code": "NO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NO.png"
+    },
+    "3T": {
+        "name": "Tarco Air",
+        "code": "3T",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/3T.png"
+    },
+    "MH": {
+        "name": "Malaysia Airlines",
+        "code": "MH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/MH.png"
+    },
+    "1L": {
+        "name": "CitizenPlane",
+        "code": "1L",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "QM": {
+        "name": "Monacair",
+        "code": "QM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QM.png"
+    },
+    "D8": {
+        "name": "Norwegian Air International",
+        "code": "D8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/D8.png"
+    },
+    "6R": {
+        "name": "Alrosa",
+        "code": "6R",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/6R.png"
+    },
+    "QV": {
+        "name": "Lao Airlines",
+        "code": "QV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QV.png"
+    },
+    "AN": {
+        "name": "HOP!",
+        "code": "AN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AN.png"
+    },
+    "RS": {
+        "name": "Air Seoul",
+        "code": "RS",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/RS.png"
+    },
+    "PX": {
+        "name": "Air Niugini",
+        "code": "PX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PX.png"
+    },
+    "D2": {
+        "name": "Severstal Air",
+        "code": "D2",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/D2.png"
+    },
+    "U5": {
+        "name": "Karinou Airlines",
+        "code": "U5",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/U5.png"
+    },
+    "DT": {
+        "name": "TAAG Angola Airlines",
+        "code": "DT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/DT.png"
+    },
+    "LY": {
+        "name": "El Al Israel Airlines",
+        "code": "LY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LY.png"
+    },
+    "FJ": {
+        "name": "Fiji Airways",
+        "code": "FJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/FJ.png"
+    },
+    "MG": {
+        "name": "Miami Air Lease, Inc.",
+        "code": "MG",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "AU": {
+        "name": "Austral Lineas Aereas",
+        "code": "AU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AU.png"
+    },
+    "X1": {
+        "name": "Hahn Air Technologies",
+        "code": "X1",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "6U": {
+        "name": "Air Cargo Germany",
+        "code": "6U",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/6U.png"
+    },
+    "M5": {
+        "name": "Kenmore Air",
+        "code": "M5",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/M5.png"
+    },
+    "XY": {
+        "name": "Nas Air",
+        "code": "XY",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/XY.png"
+    },
+    "ZN": {
+        "name": "NAYSA",
+        "code": "ZN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZN.png"
+    },
+    "HV": {
+        "name": "Transavia",
+        "code": "HV",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/HV.png"
+    },
+    "IB": {
+        "name": "Iberia",
+        "code": "IB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/IB.png"
+    },
+    "E4": {
+        "name": "Enter Air",
+        "code": "E4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/E4.png"
+    },
+    "FY": {
+        "name": "Firefly",
+        "code": "FY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/FY.png"
+    },
+    "AP": {
+        "name": "Air One",
+        "code": "AP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AP.png"
+    },
+    "ZF": {
+        "name": "Azur Air",
+        "code": "ZF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZF.png"
+    },
+    "I9": {
+        "name": "Air Italy",
+        "code": "I9",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/I9.png"
+    },
+    "EH": {
+        "name": "ANA Wings",
+        "code": "EH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EH.png"
+    },
+    "W2": {
+        "name": "FlexFlight",
+        "code": "W2",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/W2.png"
+    },
+    "5N": {
+        "name": "Smartavia",
+        "code": "5N",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/5N.png"
+    },
+    "5R": {
+        "name": "Rutas Aereas, C.A. dba  RUTACA",
+        "code": "5R",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "FF": {
+        "name": "Airshop B.V.",
+        "code": "FF",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "2N": {
+        "name": "Nextjet",
+        "code": "2N",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/2N.png"
+    },
+    "RT": {
+        "name": "UVT Aero",
+        "code": "RT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RT.png"
+    },
+    "JV": {
+        "name": "Bearskin Airlines",
+        "code": "JV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JV.png"
+    },
+    "Ð¡Ð”": {
+        "name": "SKOL",
+        "code": "Ð¡Ð”",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "O3": {
+        "name": "Orange Air, LLCN/A",
+        "code": "O3",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "FH": {
+        "name": "Freebird Airlines",
+        "code": "FH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/FH.png"
+    },
+    "AJ": {
+        "name": "Aztec Airways",
+        "code": "AJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AJ.png"
+    },
+    "I3": {
+        "name": "ATA Airlines",
+        "code": "I3",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/I3.png"
+    },
+    "HK": {
+        "name": "Skippers Aviation",
+        "code": "HK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HK.png"
+    },
+    "LD": {
+        "name": "AHK Air Hong Kong Limited",
+        "code": "LD",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "QH": {
+        "name": "Bamboo Airways",
+        "code": "QH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QH.png"
+    },
+    "Ð“Ð­": {
+        "name": "Flybusteam",
+        "code": "Ð“Ð­",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "Z8": {
+        "name": "Amaszonas",
+        "code": "Z8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/Z8.png"
+    },
+    "GR": {
+        "name": "Aurigny Air Services",
+        "code": "GR",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GR.png"
+    },
+    "3J": {
+        "name": "Cargo Three Inc. dba Pan Air Cargo",
+        "code": "3J",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/3J.png"
+    },
+    "FQ": {
+        "name": "Brindabella Airlines",
+        "code": "FQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/FQ.png"
+    },
+    "JP": {
+        "name": "Adria Airways",
+        "code": "JP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JP.png"
+    },
+    "FD": {
+        "name": "Thai AirAsia",
+        "code": "FD",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/FD.png"
+    },
+    "W4": {
+        "name": "Wizz Air Malta",
+        "code": "W4",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/W4.png"
+    },
+    "MB": {
+        "name": "MNG Airlines",
+        "code": "MB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/MB.png"
+    },
+    "DZ": {
+        "name": "Donghai Airlines",
+        "code": "DZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/DZ.png"
+    },
+    "AQ": {
+        "name": "9 Air",
+        "code": "AQ",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/AQ.png"
+    },
+    "NK": {
+        "name": "Spirit Airlines",
+        "code": "NK",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/NK.png"
+    },
+    "IH": {
+        "name": "Southern Sky",
+        "code": "IH",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "GE": {
+        "name": "Lift",
+        "code": "GE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GE.png"
+    },
+    "G6": {
+        "name": "FlyArna",
+        "code": "G6",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/G6.png"
+    },
+    "QY": {
+        "name": "European Air Transport",
+        "code": "QY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QY.png"
+    },
+    "BH": {
+        "name": "Hawkair",
+        "code": "BH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BH.png"
+    },
+    "QU": {
+        "name": "Azur Air Ukraine",
+        "code": "QU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QU.png"
+    },
+    "5F": {
+        "name": "FlyOne",
+        "code": "5F",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/5F.png"
+    },
+    "DF": {
+        "name": "Condor",
+        "code": "DF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/DF.png"
+    },
+    "CX": {
+        "name": "Cathay Pacific",
+        "code": "CX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CX.png"
+    },
+    "PM": {
+        "name": "Canaryfly",
+        "code": "PM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PM.png"
+    },
+    "ET": {
+        "name": "Ethiopian Airlines",
+        "code": "ET",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ET.png"
+    },
+    "7T": {
+        "name": "Trenitalia",
+        "code": "7T",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7T.png"
+    },
+    "SE": {
+        "name": "XL Airways France",
+        "code": "SE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SE.png"
+    },
+    "A7": {
+        "name": "Air Niamey",
+        "code": "A7",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/A7.png"
+    },
+    "2M": {
+        "name": "Moldavian Airlines",
+        "code": "2M",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/2M.png"
+    },
+    "E7": {
+        "name": "Equaflight Service",
+        "code": "E7",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "BE": {
+        "name": "Flybe",
+        "code": "BE",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/BE.png"
+    },
+    "UN": {
+        "name": "TransaeroÂ Airlines",
+        "code": "UN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UN.png"
+    },
+    "7M": {
+        "name": "MAYAir",
+        "code": "7M",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7M.png"
+    },
+    "W3": {
+        "name": "Arik Air",
+        "code": "W3",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/W3.png"
+    },
+    "KQ": {
+        "name": "Kenya Airways",
+        "code": "KQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KQ.png"
+    },
+    "DM": {
+        "name": "Arajet",
+        "code": "DM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/DM.png"
+    },
+    "CP": {
+        "name": "Compass Airlines",
+        "code": "CP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CP.png"
+    },
+    "GG": {
+        "name": "Sky Lease I, Inc.",
+        "code": "GG",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GG.png"
+    },
+    "RK": {
+        "name": "Skyview Airways Company Limiteddba Skyview",
+        "code": "RK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RK.png"
+    },
+    "3D": {
+        "name": "DoKaSch",
+        "code": "3D",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "FL": {
+        "name": "Fly Lili",
+        "code": "FL",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/FL.png"
+    },
+    "T2": {
+        "name": "Nakina Air Service",
+        "code": "T2",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/T2.png"
+    },
+    "P2": {
+        "name": "Airkenya Express",
+        "code": "P2",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/P2.png"
+    },
+    "1N": {
+        "name": "Navitaire",
+        "code": "1N",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "4B": {
+        "name": "Boutique Air",
+        "code": "4B",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/4B.png"
+    },
+    "YR": {
+        "name": "Grand Canyon Airlines, Inc.dba Scenic Airlines",
+        "code": "YR",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/YR.png"
+    },
+    "NJ": {
+        "name": "Ghadames Air Transport",
+        "code": "NJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NJ.png"
+    },
+    "PQ": {
+        "name": "SkyUp Airlines",
+        "code": "PQ",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/PQ.png"
+    },
+    "YC": {
+        "name": "Yamal Airlines",
+        "code": "YC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/YC.png"
+    },
+    "0Y": {
+        "name": "FlyArystan",
+        "code": "0Y",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "3V": {
+        "name": "TNT Airways",
+        "code": "3V",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "KS": {
+        "name": "AirConnect",
+        "code": "KS",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KS.png"
+    },
+    "A6": {
+        "name": "Air Alps Aviation",
+        "code": "A6",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/A6.png"
+    },
+    "WB": {
+        "name": "RwandAir",
+        "code": "WB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WB.png"
+    },
+    "SS": {
+        "name": "Corsair International",
+        "code": "SS",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SS.png"
+    },
+    "XB": {
+        "name": "IATA - Clearing HouseInternational Air Transport Association",
+        "code": "XB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/XB.png"
+    },
+    "B5": {
+        "name": "East African Safari Air",
+        "code": "B5",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/B5.png"
+    },
+    "1Z": {
+        "name": "Sabre Pacific",
+        "code": "1Z",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "PR": {
+        "name": "Philippine Airlines",
+        "code": "PR",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PR.png"
+    },
+    "T7": {
+        "name": "Twin Jet",
+        "code": "T7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/T7.png"
+    },
+    "BA": {
+        "name": "British Airways",
+        "code": "BA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BA.png"
+    },
+    "UG": {
+        "name": "Tunisair Express",
+        "code": "UG",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UG.png"
+    },
+    "UJ": {
+        "name": "Almasria Universal Airlines",
+        "code": "UJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UJ.png"
+    },
+    "B8": {
+        "name": "Eritrean Airlines",
+        "code": "B8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/B8.png"
+    },
+    "AH": {
+        "name": "Air Algerie",
+        "code": "AH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AH.png"
+    },
+    "V5": {
+        "name": "AerovÃ­as DAP",
+        "code": "V5",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/V5.png"
+    },
+    "YW": {
+        "name": "Air Nostrum",
+        "code": "YW",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/YW.png"
+    },
+    "TJ": {
+        "name": "Tradewind Aviation",
+        "code": "TJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TJ.png"
+    },
+    "8R": {
+        "name": "Sol Lineas Aereas",
+        "code": "8R",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/8R.png"
+    },
+    "DX": {
+        "name": "Danish Air Transport",
+        "code": "DX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/DX.png"
+    },
+    "G8": {
+        "name": "Go!",
+        "code": "G8",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/G8.png"
+    },
+    "G9": {
+        "name": "Air Arabia",
+        "code": "G9",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/G9.png"
+    },
+    "HX": {
+        "name": "Hong Kong Airlines",
+        "code": "HX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HX.png"
+    },
+    "CG": {
+        "name": "Airlines PNG",
+        "code": "CG",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CG.png"
+    },
+    "B9": {
+        "name": "Iran Air Tours",
+        "code": "B9",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/B9.png"
+    },
+    "3C": {
+        "name": "Calima Aviacion S.L",
+        "code": "3C",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/3C.png"
+    },
+    "SF": {
+        "name": "Tassili Airlines",
+        "code": "SF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SF.png"
+    },
+    "O8": {
+        "name": "Siam Air",
+        "code": "O8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/O8.png"
+    },
+    "AZ": {
+        "name": "ITA Airways",
+        "code": "AZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AZ.png"
+    },
+    "ZJ": {
+        "name": "Zambezi Airlines",
+        "code": "ZJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZJ.png"
+    },
+    "9X": {
+        "name": "Executive Express Aviation LLC dbaSouthern Airways",
+        "code": "9X",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/9X.png"
+    },
+    "RG": {
+        "name": "Rotana Jet",
+        "code": "RG",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RG.png"
+    },
+    "IX": {
+        "name": "Air India Express",
+        "code": "IX",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/IX.png"
+    },
+    "AT": {
+        "name": "Royal Air Maroc",
+        "code": "AT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AT.png"
+    },
+    "4Y": {
+        "name": "Airbus Transport International",
+        "code": "4Y",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "E9": {
+        "name": "Iberojet",
+        "code": "E9",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/E9.png"
+    },
+    "WW": {
+        "name": "WOW Air ehf",
+        "code": "WW",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/WW.png"
+    },
+    "6D": {
+        "name": "Travel Service Slovensko",
+        "code": "6D",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/6D.png"
+    },
+    "ZS": {
+        "name": "JSC Kazaviaspas",
+        "code": "ZS",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZS.png"
+    },
+    "7W": {
+        "name": "Windrose Airlines",
+        "code": "7W",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7W.png"
+    },
+    "QX": {
+        "name": "Horizon Air",
+        "code": "QX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QX.png"
+    },
+    "KW": {
+        "name": "Kharkiv Airlines",
+        "code": "KW",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KW.png"
+    },
+    "TC": {
+        "name": "Air Tanzania",
+        "code": "TC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TC.png"
+    },
+    "S6": {
+        "name": "Sunrise Airways",
+        "code": "S6",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/S6.png"
+    },
+    "C2": {
+        "name": "CEIBA Intercontinental",
+        "code": "C2",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/C2.png"
+    },
+    "1X": {
+        "name": "Fly Branson Travel dba Branson AirExpress",
+        "code": "1X",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/1X.png"
+    },
+    "J5": {
+        "name": "Alaska Seaplane",
+        "code": "J5",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/J5.png"
+    },
+    "DK": {
+        "name": "Thomas Cook Airlines Scandinavia",
+        "code": "DK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/DK.png"
+    },
+    "M0": {
+        "name": "Aero Mongolia",
+        "code": "M0",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/M0.png"
+    },
+    "A8": {
+        "name": "Aerolink Uganda Limited",
+        "code": "A8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/A8.png"
+    },
+    "OS": {
+        "name": "Austrian Airlines",
+        "code": "OS",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OS.png"
+    },
+    "WC": {
+        "name": "Islena de Inversiones S.A. de C.V.dba Islena Airlines",
+        "code": "WC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WC.png"
+    },
+    "SV": {
+        "name": "Saudia",
+        "code": "SV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SV.png"
+    },
+    "H4": {
+        "name": "HiSky",
+        "code": "H4",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "VS": {
+        "name": "Virgin Atlantic",
+        "code": "VS",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/VS.png"
+    },
+    "GA": {
+        "name": "Garuda Indonesia",
+        "code": "GA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GA.png"
+    },
+    "9Q": {
+        "name": "Caicos Express Airways",
+        "code": "9Q",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/9Q.png"
+    },
+    "GQ": {
+        "name": "Sky Express",
+        "code": "GQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GQ.png"
+    },
+    "QG": {
+        "name": "Citilink Airlines",
+        "code": "QG",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/QG.png"
+    },
+    "GW": {
+        "name": "GetJet",
+        "code": "GW",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GW.png"
+    },
+    "YJ": {
+        "name": "Asian Wings Airways Limited",
+        "code": "YJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/YJ.png"
+    },
+    "2S": {
+        "name": "Southwind",
+        "code": "2S",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "HG": {
+        "name": "Niki",
+        "code": "HG",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/HG.png"
+    },
+    "4Q": {
+        "name": "Safi Airways",
+        "code": "4Q",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/4Q.png"
+    },
+    "1K": {
+        "name": "Sutra Inc.",
+        "code": "1K",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "WF": {
+        "name": "Wideroe",
+        "code": "WF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WF.png"
+    },
+    "XJ": {
+        "name": "Thai AirAsia X",
+        "code": "XJ",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/XJ.png"
+    },
+    "7S": {
+        "name": "Ryan Air Service",
+        "code": "7S",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "B7": {
+        "name": "Uni Air",
+        "code": "B7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/B7.png"
+    },
+    "K7": {
+        "name": "Air KBZ",
+        "code": "K7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/K7.png"
+    },
+    "V7": {
+        "name": "Volotea",
+        "code": "V7",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/V7.png"
+    },
+    "PO": {
+        "name": "Polar Air Cargo Worldwide, Inc.",
+        "code": "PO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PO.png"
+    },
+    "5B": {
+        "name": "Bassaka Air Limited",
+        "code": "5B",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "0E": {
+        "name": "Northwest",
+        "code": "0E",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "SY": {
+        "name": "Sun Country Airlines",
+        "code": "SY",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/SY.png"
+    },
+    "0M": {
+        "name": "Premier Airlines",
+        "code": "0M",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "R6": {
+        "name": "DOT LT",
+        "code": "R6",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/R6.png"
+    },
+    "PRM": {
+        "name": "Premier Airlines",
+        "code": "PRM",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "NQ": {
+        "name": "Air Japan",
+        "code": "NQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NQ.png"
+    },
+    "8F": {
+        "name": "STP Airways",
+        "code": "8F",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/8F.png"
+    },
+    "RL": {
+        "name": "Royal Flight",
+        "code": "RL",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RL.png"
+    },
+    "8C": {
+        "name": "Air Transport International L.L.C.",
+        "code": "8C",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "TI": {
+        "name": "Tailwind Airlines",
+        "code": "TI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TI.png"
+    },
+    "FG": {
+        "name": "Ariana Afghan Airlines",
+        "code": "FG",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/FG.png"
+    },
+    "3W": {
+        "name": "Malawian Airlines",
+        "code": "3W",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "3R": {
+        "name": "Avior Airlines",
+        "code": "3R",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/3R.png"
+    },
+    "QK": {
+        "name": "Jazz",
+        "code": "QK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QK.png"
+    },
+    "G4": {
+        "name": "Allegiant Air",
+        "code": "G4",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/G4.png"
+    },
+    "Z4": {
+        "name": "Zagros Air Co.",
+        "code": "Z4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/Z4.png"
+    },
+    "MS": {
+        "name": "EgyptAir",
+        "code": "MS",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/MS.png"
+    },
+    "5O": {
+        "name": "ASL Airlines France",
+        "code": "5O",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/5O.png"
+    },
+    "ÐÐ˜": {
+        "name": "Khabavia",
+        "code": "ÐÐ˜",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "L2": {
+        "name": "Lynden Air Cargo, LLC",
+        "code": "L2",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "OO": {
+        "name": "SkyWest Airlines",
+        "code": "OO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OO.png"
+    },
+    "7A": {
+        "name": "Air Jet",
+        "code": "7A",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "TB": {
+        "name": "Jetairfly",
+        "code": "TB",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/TB.png"
+    },
+    "Z3": {
+        "name": "PM Air LLC",
+        "code": "Z3",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/Z3.png"
+    },
+    "QS": {
+        "name": "SmartWings",
+        "code": "QS",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/QS.png"
+    },
+    "MY": {
+        "name": "Maya Island Air",
+        "code": "MY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/MY.png"
+    },
+    "N3": {
+        "name": "AerolÃ­neas Mas",
+        "code": "N3",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "C7": {
+        "name": "Cinnamon Air",
+        "code": "C7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/C7.png"
+    },
+    "1E": {
+        "name": "Travelsky Technology Limited",
+        "code": "1E",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "XF": {
+        "name": "Vladivostok Air",
+        "code": "XF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/XF.png"
+    },
+    "D3": {
+        "name": "Daallo Airlines",
+        "code": "D3",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/D3.png"
+    },
+    "YO": {
+        "name": "Heli Air Monaco",
+        "code": "YO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/YO.png"
+    },
+    "MQ": {
+        "name": "Envoy Air",
+        "code": "MQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/MQ.png"
+    },
+    "DL": {
+        "name": "Delta Air Lines",
+        "code": "DL",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/DL.png"
+    },
+    "PY": {
+        "name": "Surinam Airways",
+        "code": "PY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PY.png"
+    },
+    "I2": {
+        "name": "Iberia Express",
+        "code": "I2",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/I2.png"
+    },
+    "6B": {
+        "name": "TUIfly Nordic",
+        "code": "6B",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/6B.png"
+    },
+    "EY": {
+        "name": "Etihad Airways",
+        "code": "EY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EY.png"
+    },
+    "LA": {
+        "name": "LATAM Chile",
+        "code": "LA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LA.png"
+    },
+    "UW": {
+        "name": "Uni-Top Airlines",
+        "code": "UW",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "8S": {
+        "name": "TurboJET",
+        "code": "8S",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "EM": {
+        "name": "Empire Airlines",
+        "code": "EM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EM.png"
+    },
+    "UK": {
+        "name": "Vistara",
+        "code": "UK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UK.png"
+    },
+    "TT": {
+        "name": "Tigerair Australia",
+        "code": "TT",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/TT.png"
+    },
+    "VU": {
+        "name": "Vuelos Economicos Centroamericanos",
+        "code": "VU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/VU.png"
+    },
+    "4O": {
+        "name": "Interjet",
+        "code": "4O",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/4O.png"
+    },
+    "CU": {
+        "name": "Cubana de AviaciÃ³n",
+        "code": "CU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CU.png"
+    },
+    "7L": {
+        "name": "Aerocaribbean",
+        "code": "7L",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7L.png"
+    },
+    "OM": {
+        "name": "MIAT Mongolian Airlines",
+        "code": "OM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OM.png"
+    },
+    "KP": {
+        "name": "ASKY Airlines",
+        "code": "KP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KP.png"
+    },
+    "8P": {
+        "name": "Pacific Coastal Airlines",
+        "code": "8P",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/8P.png"
+    },
+    "IL": {
+        "name": "PT.Trigana Air Service",
+        "code": "IL",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "1I": {
+        "name": "ChallengAir",
+        "code": "1I",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/1I.png"
+    },
+    "UO": {
+        "name": "Hong Kong Express Airways",
+        "code": "UO",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/UO.png"
+    },
+    "SJ": {
+        "name": "Sriwijaya Air",
+        "code": "SJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SJ.png"
+    },
+    "Z6": {
+        "name": "Dniproavia",
+        "code": "Z6",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/Z6.png"
+    },
+    "LL": {
+        "name": "Miami Air International",
+        "code": "LL",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "AL": {
+        "name": "Malta Air",
+        "code": "AL",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/AL.png"
+    },
+    "9R": {
+        "name": "Southern Air",
+        "code": "9R",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/9R.png"
+    },
+    "QF": {
+        "name": "Qantas",
+        "code": "QF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/QF.png"
+    },
+    "6N": {
+        "name": "Niger Airlines",
+        "code": "6N",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "HN": {
+        "name": "Afghan Jet International",
+        "code": "HN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HN.png"
+    },
+    "RC": {
+        "name": "Atlantic Airways",
+        "code": "RC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RC.png"
+    },
+    "I5": {
+        "name": "AirAsia India",
+        "code": "I5",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/I5.png"
+    },
+    "BN": {
+        "name": "Bahrain Air",
+        "code": "BN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BN.png"
+    },
+    "M7": {
+        "name": "Marsland Aviation",
+        "code": "M7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/M7.png"
+    },
+    "VO": {
+        "name": "Tyrolean Airways",
+        "code": "VO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/VO.png"
+    },
+    "DI": {
+        "name": "Norwegian Air",
+        "code": "DI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/DI.png"
+    },
+    "UP": {
+        "name": "Bahamasair",
+        "code": "UP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UP.png"
+    },
+    "5W": {
+        "name": "Wizz Air",
+        "code": "5W",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/5W.png"
+    },
+    "RE": {
+        "name": "Stobart Air",
+        "code": "RE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RE.png"
+    },
+    "LB": {
+        "name": "Bul Air",
+        "code": "LB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LB.png"
+    },
+    "GB": {
+        "name": "ABX Air, Inc.",
+        "code": "GB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GB.png"
+    },
+    "LU": {
+        "name": "LAN Express",
+        "code": "LU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LU.png"
+    },
+    "ZC": {
+        "name": "Korongo Airlines",
+        "code": "ZC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZC.png"
+    },
+    "TN": {
+        "name": "Air Tahiti Nui",
+        "code": "TN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TN.png"
+    },
+    "GI": {
+        "name": "Itek Air",
+        "code": "GI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GI.png"
+    },
+    "BY": {
+        "name": "Thomson Airways",
+        "code": "BY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BY.png"
+    },
+    "7D": {
+        "name": "Maluti Sky",
+        "code": "7D",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7D.png"
+    },
+    "VV": {
+        "name": "Viva Air",
+        "code": "VV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/VV.png"
+    },
+    "5A": {
+        "name": "Alpine Aviation Inc.",
+        "code": "5A",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "FX": {
+        "name": "FedEx",
+        "code": "FX",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "K4": {
+        "name": "ALS Ltd.",
+        "code": "K4",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "GS": {
+        "name": "Tianjin Airlines",
+        "code": "GS",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GS.png"
+    },
+    "5S": {
+        "name": "Global Aviation Services Group",
+        "code": "5S",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "7E": {
+        "name": "Sylt Air GmbH",
+        "code": "7E",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7E.png"
+    },
+    "GO": {
+        "name": "ULS Airlines Cargo",
+        "code": "GO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GO.png"
+    },
+    "1V": {
+        "name": "Galileo International",
+        "code": "1V",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "BI": {
+        "name": "Royal Brunei",
+        "code": "BI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BI.png"
+    },
+    "T8": {
+        "name": "Telair International GmbH",
+        "code": "T8",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "IZ": {
+        "name": "Arkia",
+        "code": "IZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/IZ.png"
+    },
+    "IQ": {
+        "name": "Qazaq Air",
+        "code": "IQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/IQ.png"
+    },
+    "ZW": {
+        "name": "Air Wisconsin Airlines Corporation(AWAC)",
+        "code": "ZW",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZW.png"
+    },
+    "JZ": {
+        "name": "Jatayu Airlines",
+        "code": "JZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JZ.png"
+    },
+    "NI": {
+        "name": "PortugÃ¡lia",
+        "code": "NI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NI.png"
+    },
+    "X7": {
+        "name": "Exec Air, Inc. of Naples",
+        "code": "X7",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "H9": {
+        "name": "Himalaya Airlines",
+        "code": "H9",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/H9.png"
+    },
+    "HI": {
+        "name": "Papillon Airways",
+        "code": "HI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HI.png"
+    },
+    "CS": {
+        "name": "Continental Micronesia, Inc.",
+        "code": "CS",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CS.png"
+    },
+    "V9": {
+        "name": "Thai Vietjet Air",
+        "code": "V9",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/V9.png"
+    },
+    "VF": {
+        "name": "Valuair",
+        "code": "VF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/VF.png"
+    },
+    "ZK": {
+        "name": "Great Lakes Airlines",
+        "code": "ZK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZK.png"
+    },
+    "YG": {
+        "name": "South Airlines",
+        "code": "YG",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "ZT": {
+        "name": "Titan Airways Limited",
+        "code": "ZT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZT.png"
+    },
+    "TU": {
+        "name": "Tunisair",
+        "code": "TU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TU.png"
+    },
+    "GF": {
+        "name": "Gulf Air",
+        "code": "GF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GF.png"
+    },
+    "VQ": {
+        "name": "Novoair",
+        "code": "VQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/VQ.png"
+    },
+    "KX": {
+        "name": "Cayman Airways",
+        "code": "KX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KX.png"
+    },
+    "DC": {
+        "name": "Braathens Regional",
+        "code": "DC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/DC.png"
+    },
+    "7C": {
+        "name": "Jeju Air",
+        "code": "7C",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/7C.png"
+    },
+    "R4": {
+        "name": "RUS Aviation",
+        "code": "R4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/R4.png"
+    },
+    "Z9": {
+        "name": "MYAirline",
+        "code": "Z9",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/Z9.png"
+    },
+    "WV": {
+        "name": "Westair Aviation",
+        "code": "WV",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WV.png"
+    },
+    "SL": {
+        "name": "Thai Lion Air",
+        "code": "SL",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/SL.png"
+    },
+    "TQ": {
+        "name": "Tandem Aero",
+        "code": "TQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TQ.png"
+    },
+    "2U": {
+        "name": "Sun d'Or International Airlines",
+        "code": "2U",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/2U.png"
+    },
+    "MM": {
+        "name": "Peach",
+        "code": "MM",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/MM.png"
+    },
+    "3Y": {
+        "name": "Kartika Airlines",
+        "code": "3Y",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "T4": {
+        "name": "TRIP Linhas AÃ©reas",
+        "code": "T4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/T4.png"
+    },
+    "K2": {
+        "name": "Eurolot",
+        "code": "K2",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/K2.png"
+    },
+    "4R": {
+        "name": "CJSC Royal Flight airlines",
+        "code": "4R",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/4R.png"
+    },
+    "NS": {
+        "name": "Hebei Airlines",
+        "code": "NS",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NS.png"
+    },
+    "TD": {
+        "name": "Tbilisi Airways",
+        "code": "TD",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TD.png"
+    },
+    "ZA": {
+        "name": "Skywings Asia Airlines Co., Ltd.",
+        "code": "ZA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ZA.png"
+    },
+    "MO": {
+        "name": "Calm Air International",
+        "code": "MO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/MO.png"
+    },
+    "HU": {
+        "name": "Hainan Airlines",
+        "code": "HU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HU.png"
+    },
+    "AA": {
+        "name": "American Airlines",
+        "code": "AA",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AA.png"
+    },
+    "Ð”Ð–": {
+        "name": "TezJet",
+        "code": "Ð”Ð–",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "ZE": {
+        "name": "Eastar Jet",
+        "code": "ZE",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/ZE.png"
+    },
+    "8A": {
+        "name": "Panama Airways",
+        "code": "8A",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/8A.png"
+    },
+    "XC": {
+        "name": "Corendon Airlines",
+        "code": "XC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/XC.png"
+    },
+    "GY": {
+        "name": "Colorful Guizhou Airlines",
+        "code": "GY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GY.png"
+    },
+    "8L": {
+        "name": "Lucky Air",
+        "code": "8L",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/8L.png"
+    },
+    "I4": {
+        "name": "Interstate Airlines",
+        "code": "I4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/I4.png"
+    },
+    "8I": {
+        "name": "Insel Air",
+        "code": "8I",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/8I.png"
+    },
+    "R1": {
+        "name": "Zapways, Inc.",
+        "code": "R1",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "EE": {
+        "name": "Regional Jet OÃœ",
+        "code": "EE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EE.png"
+    },
+    "EW": {
+        "name": "Eurowings",
+        "code": "EW",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/EW.png"
+    },
+    "LR": {
+        "name": "Avianca Costa Rica",
+        "code": "LR",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LR.png"
+    },
+    "F4": {
+        "name": "Air Flamenco",
+        "code": "F4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/F4.png"
+    },
+    "ZM": {
+        "name": "Air Manas",
+        "code": "ZM",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/ZM.png"
+    },
+    "V0": {
+        "name": "Conviasa",
+        "code": "V0",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/V0.png"
+    },
+    "CT": {
+        "name": "Alitalia CityLiner",
+        "code": "CT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CT.png"
+    },
+    "XA": {
+        "name": "ARINC(Aeronautical Radio, Inc.)",
+        "code": "XA",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "G7": {
+        "name": "GoJet Airlines",
+        "code": "G7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/G7.png"
+    },
+    "P3": {
+        "name": "Passaredo Linhas Aereas",
+        "code": "P3",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "JS": {
+        "name": "Air Koryo",
+        "code": "JS",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/JS.png"
+    },
+    "0A": {
+        "name": "Emetebe S.A.",
+        "code": "0A",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "UM": {
+        "name": "Air Zimbabwe",
+        "code": "UM",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UM.png"
+    },
+    "SQ": {
+        "name": "Singapore Airlines",
+        "code": "SQ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SQ.png"
+    },
+    "OX": {
+        "name": "Orient Thai Airlines",
+        "code": "OX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OX.png"
+    },
+    "1D": {
+        "name": "Radixx Solutions International, Inc.",
+        "code": "1D",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/1D.png"
+    },
+    "DG": {
+        "name": "Tigerair Philippines",
+        "code": "DG",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/DG.png"
+    },
+    "J0": {
+        "name": "Jetlink Express",
+        "code": "J0",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "SP": {
+        "name": "SATA Air Acores",
+        "code": "SP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SP.png"
+    },
+    "3F": {
+        "name": "FlyOne",
+        "code": "3F",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/3F.png"
+    },
+    "1J": {
+        "name": "Axess International Network Inc.",
+        "code": "1J",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "V3": {
+        "name": "Carpatair",
+        "code": "V3",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/V3.png"
+    },
+    "CJ": {
+        "name": "BA Cityflyer",
+        "code": "CJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CJ.png"
+    },
+    "RJ": {
+        "name": "Royal Jordanian",
+        "code": "RJ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/RJ.png"
+    },
+    "SN": {
+        "name": "Brussels Airlines",
+        "code": "SN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/SN.png"
+    },
+    "S5": {
+        "name": "Shuttle America",
+        "code": "S5",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/S5.png"
+    },
+    "GZ": {
+        "name": "Air Rarotonga",
+        "code": "GZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/GZ.png"
+    },
+    "KO": {
+        "name": "Komiaviatrans",
+        "code": "KO",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KO.png"
+    },
+    "8J": {
+        "name": "EcoJet",
+        "code": "8J",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/8J.png"
+    },
+    "V4": {
+        "name": "Vieques Air Link",
+        "code": "V4",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/V4.png"
+    },
+    "0G": {
+        "name": "Grumeti Air",
+        "code": "0G",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "XQ": {
+        "name": "Sun Express",
+        "code": "XQ",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/XQ.png"
+    },
+    "6C": {
+        "name": "Air Timor",
+        "code": "6C",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "7K": {
+        "name": "MetroJet",
+        "code": "7K",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7K.png"
+    },
+    "KR": {
+        "name": "Cambodia Airways",
+        "code": "KR",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KR.png"
+    },
+    "M3": {
+        "name": "North Flying",
+        "code": "M3",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/M3.png"
+    },
+    "DE": {
+        "name": "Condor",
+        "code": "DE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/DE.png"
+    },
+    "LC": {
+        "name": "Skyway Costa Rica",
+        "code": "LC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LC.png"
+    },
+    "5T": {
+        "name": "Canadian North",
+        "code": "5T",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/5T.png"
+    },
+    "CH": {
+        "name": "Bemidji Airlines",
+        "code": "CH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CH.png"
+    },
+    "N5": {
+        "name": "Nolinor Aviation",
+        "code": "N5",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/N5.png"
+    },
+    "KI": {
+        "name": "SKS Airways",
+        "code": "KI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KI.png"
+    },
+    "BU": {
+        "name": "Compagnie Africaine d'Aviation",
+        "code": "BU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BU.png"
+    },
+    "Q8": {
+        "name": "Trans Air Congo",
+        "code": "Q8",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/Q8.png"
+    },
+    "EX": {
+        "name": "Thai Express Air Co. Ltd",
+        "code": "EX",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "KY": {
+        "name": "Kunming Airlines",
+        "code": "KY",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KY.png"
+    },
+    "WP": {
+        "name": "Island Air",
+        "code": "WP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/WP.png"
+    },
+    "KZ": {
+        "name": "Nippon Cargo Airlines",
+        "code": "KZ",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "YS": {
+        "name": "HOP!",
+        "code": "YS",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/YS.png"
+    },
+    "AF": {
+        "name": "Air France",
+        "code": "AF",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AF.png"
+    },
+    "2K": {
+        "name": "Avianca Ecuador",
+        "code": "2K",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/2K.png"
+    },
+    "0S": {
+        "name": "Sunday Airlines",
+        "code": "0S",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "NE": {
+        "name": "Nesma Airlines",
+        "code": "NE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/NE.png"
+    },
+    "Ð‘Ð": {
+        "name": "Balkan",
+        "code": "Ð‘Ð",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "ME": {
+        "name": "Middle East Airlines",
+        "code": "ME",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/ME.png"
+    },
+    "O2": {
+        "name": "Linear Air",
+        "code": "O2",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/O2.png"
+    },
+    "8H": {
+        "name": "BH Air",
+        "code": "8H",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/8H.png"
+    },
+    "1S": {
+        "name": "Sabre Inc.",
+        "code": "1S",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "2B": {
+        "name": "Ak Bars Aero",
+        "code": "2B",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/2B.png"
+    },
+    "K3": {
+        "name": "Taquan Air",
+        "code": "K3",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "AE": {
+        "name": "Mandarin Airlines",
+        "code": "AE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/AE.png"
+    },
+    "BS": {
+        "name": "US-Bangla Airlines",
+        "code": "BS",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/BS.png"
+    },
+    "JW": {
+        "name": "Vanilla Air",
+        "code": "JW",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/JW.png"
+    },
+    "2C": {
+        "name": "SNCF",
+        "code": "2C",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/2C.png"
+    },
+    "3X": {
+        "name": "Premier Trans Aire Inc.",
+        "code": "3X",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "TP": {
+        "name": "TAP Portugal",
+        "code": "TP",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TP.png"
+    },
+    "TS": {
+        "name": "Air Transat",
+        "code": "TS",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TS.png"
+    },
+    "YP": {
+        "name": "Perimeter Aviation Ltd.",
+        "code": "YP",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "YT": {
+        "name": "Yeti Airlines Domestic Pvt. Ltd.",
+        "code": "YT",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/YT.png"
+    },
+    "YK": {
+        "name": "Avia Traffic Company",
+        "code": "YK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/YK.png"
+    },
+    "Y4": {
+        "name": "Volaris",
+        "code": "Y4",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/Y4.png"
+    },
+    "CC": {
+        "name": "CM Airlines",
+        "code": "CC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/CC.png"
+    },
+    "MR": {
+        "name": "Hunnu Air",
+        "code": "MR",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/MR.png"
+    },
+    "IT": {
+        "name": "Tigerair Taiwan",
+        "code": "IT",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/IT.png"
+    },
+    "PW": {
+        "name": "Precision Air",
+        "code": "PW",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PW.png"
+    },
+    "3N": {
+        "name": "Air Urga",
+        "code": "3N",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "VR": {
+        "name": "TACV Cabo Verde Airlines",
+        "code": "VR",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/VR.png"
+    },
+    "1G": {
+        "name": "Travelport Global Distribution SystemB.V.",
+        "code": "1G",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "HC": {
+        "name": "Aero-Tropics Air Services",
+        "code": "HC",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/HC.png"
+    },
+    "XU": {
+        "name": "African Express Airways (K)  Limited",
+        "code": "XU",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/XU.png"
+    },
+    "1P": {
+        "name": "Worldspan",
+        "code": "1P",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "LK": {
+        "name": "Lao Skyway",
+        "code": "LK",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LK.png"
+    },
+    "OE": {
+        "name": "Laudamotion",
+        "code": "OE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OE.png"
+    },
+    "TE": {
+        "name": "Sky-Taxi",
+        "code": "TE",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/TE.png"
+    },
+    "0Q": {
+        "name": "Hydro - Quebec",
+        "code": "0Q",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "B1": {
+        "name": "TAB - Transportes AÃ©reos Bolivianos",
+        "code": "B1",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/B1.png"
+    },
+    "UI": {
+        "name": "Auric Air Services Limited",
+        "code": "UI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UI.png"
+    },
+    "BC": {
+        "name": "Skymark Airlines",
+        "code": "BC",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/BC.png"
+    },
+    "4I": {
+        "name": "IHY Izmir Havayollari A.S.",
+        "code": "4I",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "R3": {
+        "name": "Yakutia Airlines",
+        "code": "R3",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/R3.png"
+    },
+    "V1": {
+        "name": "IBS Software Services Americas, Inc.",
+        "code": "V1",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "MX": {
+        "name": "Mexicana de AviaciÃ³n",
+        "code": "MX",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/MX.png"
+    },
+    "UR": {
+        "name": "Uganda Airlines",
+        "code": "UR",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/UR.png"
+    },
+    "LH": {
+        "name": "Lufthansa",
+        "code": "LH",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/LH.png"
+    },
+    "FZ": {
+        "name": "Flydubai",
+        "code": "FZ",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/FZ.png"
+    },
+    "2I": {
+        "name": "Star Peru",
+        "code": "2I",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/2I.png"
+    },
+    "H6": {
+        "name": "Bulgarian Air Charter",
+        "code": "H6",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/H6.png"
+    },
+    "XZ": {
+        "name": "AeroItalia",
+        "code": "XZ",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/XZ.png"
+    },
+    "II": {
+        "name": "IBC Airways",
+        "code": "II",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/II.png"
+    },
+    "7Y": {
+        "name": "Mann Yadanarpon Airlines",
+        "code": "7Y",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/7Y.png"
+    },
+    "H2": {
+        "name": "Sky Airline",
+        "code": "H2",
+        "is_lowcost": true,
+        "logo": "https://images.kiwi.com/airlines/64/H2.png"
+    },
+    "6M": {
+        "name": "Zacarias Moreno",
+        "code": "6M",
+        "is_lowcost": false,
+        "logo": ""
+    },
+    "KB": {
+        "name": "Druk Air",
+        "code": "KB",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/KB.png"
+    },
+    "EN": {
+        "name": "Air Dolomiti",
+        "code": "EN",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/EN.png"
+    },
+    "J7": {
+        "name": "Afrijet Business Service",
+        "code": "J7",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/J7.png"
+    },
+    "5U": {
+        "name": "Transportes AÃ©reos Regionales",
+        "code": "5U",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/5U.png"
+    },
+    "PL": {
+        "name": "Southern Air Charter",
+        "code": "PL",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/PL.png"
+    },
+    "L6": {
+        "name": "Mauritania Airlines International",
+        "code": "L6",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/L6.png"
+    },
+    "3M": {
+        "name": "Silver Airways",
+        "code": "3M",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/3M.png"
+    },
+    "6Y": {
+        "name": "SmartLynx Airlines",
+        "code": "6Y",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/6Y.png"
+    },
+    "A3": {
+        "name": "Aegean Airlines",
+        "code": "A3",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/A3.png"
+    },
+    "OI": {
+        "name": "Hinterland Aviation",
+        "code": "OI",
+        "is_lowcost": false,
+        "logo": "https://images.kiwi.com/airlines/64/OI.png"
+    }
+}

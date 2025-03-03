@@ -1,0 +1,44 @@
+[
+    {
+        "airline": "Spirit Airlines",
+        "code": "NK",
+        "nonStopPrice": 278.97,
+        "onePlusStopPrice": null,
+        "logo": "https://cmsrepository.com/static/flights/flight/airlinelogo-png/nk.png"
+    },
+    {
+        "airline": "Delta Airlines",
+        "code": "DL",
+        "nonStopPrice": 320.99,
+        "onePlusStopPrice": 350.00,
+        "logo": "https://cmsrepository.com/static/flights/flight/airlinelogo-png/dl.png"
+    },
+    {
+        "airline": "Spirit Airlines",
+        "code": "NK",
+        "nonStopPrice": 278.97,
+        "onePlusStopPrice": null,
+        "logo": "https://cmsrepository.com/static/flights/flight/airlinelogo-png/nk.png"
+    },
+    {
+        "airline": "Delta Airlines",
+        "code": "DL",
+        "nonStopPrice": 320.99,
+        "onePlusStopPrice": 350.00,
+        "logo": "https://cmsrepository.com/static/flights/flight/airlinelogo-png/dl.png"
+    } ,{
+        "airline": "Spirit Airlines",
+        "code": "NK",
+        "nonStopPrice": 278.97,
+        "onePlusStopPrice": null,
+        "logo": "https://cmsrepository.com/static/flights/flight/airlinelogo-png/nk.png"
+    },
+    {
+        "airline": "Delta Airlines",
+        "code": "DL",
+        "nonStopPrice": 320.99,
+        "onePlusStopPrice": 350.00,
+        "logo": "https://cmsrepository.com/static/flights/flight/airlinelogo-png/dl.png"
+    }
+   
+]

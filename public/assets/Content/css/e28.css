@@ -1,0 +1,44 @@
+
+      nav ul li:not(.show){
+          display:none;
+      }
+header nav{
+    background:#000;
+}
+.priceboxdtl ul li{
+    width:46%;
+    text-align: center!important;
+}
+.container {
+    width: 1300px;
+}
+.col-sm-8 {
+    width: 69%;
+}
+    .col-sm-4 {
+    width: 29%;
+}
+    .fixme {
+    width: 362px;
+}
+    .right-info ul li.name-titel-mix{
+        display: flex;
+    width: 265px;
+    }
+    .right-info ul li.name-titel-mix .valid{
+        width: 30%;
+    margin-right: 5px;
+    }
+    .booking-card-type{
+        display: flex;
+    align-items: center;
+    font-size: 13px;
+    }
+     .payment-info ul li.booking-card-type input{
+         width: auto;
+    text-align: left;
+     }
+         .payment-info ul li.booking-card-type label{
+             width:auto;
+         }
+ 

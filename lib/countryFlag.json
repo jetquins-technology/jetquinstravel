@@ -1,0 +1,20 @@
+{
+    "India": {
+        "country": "India",
+        "flag": "/assets/img/flag/flag.png",
+        "currency": "INR",
+        "currencySymbol": "₹"
+    },
+    "United States of America (the)": {
+        "country": "United States",
+        "flag": "/assets/img/flag/united-states.png",
+        "currency": "USD",
+        "currencySymbol": "$"
+    },
+    "United Kingdom": {
+        "country": "United Kingdom",
+        "flag": "/assets/img/flag/united-kingdom.png",
+        "currency": "GBP",
+        "currencySymbol": "£"
+    }
+}
