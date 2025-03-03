@@ -30,7 +30,7 @@ const PurchasePage = () => {
     const [isDropdownOpen, setIsDropdownOpen] = useState(false);
     const [isDropdownOpens, setIsDropdownOpens] = useState(false);
 
-    // Add
+    // Added new features
 
     const [isMoreInfoVisible, setIsMoreInfoVisible] = useState(false);
     const [year, setYears] = useState([]);
