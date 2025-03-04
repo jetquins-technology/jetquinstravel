@@ -12,13 +12,13 @@ import { getAuth, GoogleAuthProvider, onAuthStateChanged } from "firebase/auth";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 //comment 2
 const firebaseConfig = {
-    apiKey: "AIzaSyCfKQM7csGyUXUQvoQmYbIivG_CStl8FTo",
-    authDomain: "online-ticket-reservatio-1c3a2.firebaseapp.com",
-    projectId: "online-ticket-reservatio-1c3a2",
-    storageBucket: "online-ticket-reservatio-1c3a2.appspot.com",
-    messagingSenderId: "558105195216",
-    appId: "1:558105195216:web:f92f41561e686703a824d5",
-    measurementId: "G-TGRBWP1Z2Q"
+    apiKey: "AIzaSyCuxGUIgw09XxIf-QS8nbjNHAoHJEY4WaA",
+    authDomain: "jetquinstravel-f82b4.firebaseapp.com",
+    projectId: "jetquinstravel-f82b4",
+    storageBucket: "jetquinstravel-f82b4.firebasestorage.app",
+    messagingSenderId: "1035934248654",
+    appId: "1:1035934248654:web:13e61f571cb84af882aa9f",
+    measurementId: "G-QD7LZ890N7"
 };
 
 // Initialize Firebase

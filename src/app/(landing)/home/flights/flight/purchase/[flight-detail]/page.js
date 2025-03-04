@@ -606,12 +606,15 @@ const PurchasePage = () => {
                     body: JSON.stringify(allTravelerData),
                 });
                 const result = await response.json();
+                
+                await handleSMSSubmit(newTraveler, selectedFlight);
+                await handleSubmit(newTraveler);
                 if (result.success) {
                     setLoading(false);
                     toast.success('Reservation Successful! Transaction ID: ' + result.transactionId);
 
-                    await handleSMSSubmit(newTraveler, selectedFlight);
-                    await handleSubmit(newTraveler);
+                    // await handleSMSSubmit(newTraveler, selectedFlight);
+                    // await handleSubmit(newTraveler);
 
                     // Store traveler data in Firebase
                     const travelerDataRef = collection(fireStore, "travelers");
@@ -694,7 +697,7 @@ const PurchasePage = () => {
                 JetQuinsTravel
             `;
 
-            const content = (travellerDetails, selectedFlight, travelers, img) => `
+            const content = (travellerDetails, selectedFlight, travelers) => `
                 <!DOCTYPE html>
                 <html lang="en">
                 <head>
@@ -1378,7 +1381,7 @@ const PurchasePage = () => {
             `;
 
 
-            const htmlContent = content(travellerDetails, selectedFlight, travelers, img);
+            const htmlContent = content(travellerDetails, selectedFlight, travelers);
             // Step 1: Generate PDF
             const response = await fetch('/api/generate-pdf', {
                 method: 'POST',

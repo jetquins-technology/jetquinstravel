@@ -1427,7 +1427,7 @@ const HomePage = () => {
                                         data-page-type="homepage"
                                     >
                                         <span className="icon1"></span>
-                                        <h4>Buy now,pay over time</h4>
+                                        <h4>Buy now, pay over time</h4>
                                         <p>
                                             Make monthly payments <br /> with no hidden fees
                                         </p>
