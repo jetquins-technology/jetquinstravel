@@ -23,7 +23,7 @@ const AboutUs = () => {
                                 This is one of the reasons why traveling proves to be a
                                 soul-enriching event. As fun as traveling is, making the necessary
                                 arrangements for your travels is the opposite of fun. This is
-                                where JetQuinsTravel comes in. We are a United States based online
+                                where Jetquin Travels comes in. We are a United States based online
                                 travel portal that offer the best of products and services
                                 pertaining to travel.{" "}
                             </p>

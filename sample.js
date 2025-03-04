@@ -120,7 +120,7 @@ const MyBooking = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-12">
-                            <a className="logo" href="https://www.JetQuinsTravel.com/">
+                            <a className="logo" href="https://www.Jetquin Travels.com/">
                                 <img
                                     src="/assets/logo.png"
                                     alt="logo"
@@ -130,7 +130,7 @@ const MyBooking = () => {
                             <div className="topmenuBox">
                                 <ul>
                                     <li>
-                                        <a href="https://www.JetQuinsTravel.com/">Flights</a>
+                                        <a href="https://www.Jetquin Travels.com/">Flights</a>
                                     </li>
                                     {/* <li>
                                         <a href="https://www.lookbyfare.com/us/hotel/">Hotels</a>
@@ -1814,7 +1814,7 @@ const MyBooking = () => {
                                         </div>
                                         <div id="personal_infoform">
                                             <p>
-                                                Enter the email you use for JetQuinsTravels and we'll send your
+                                                Enter the email you use for Jetquin Travelss and we'll send your
                                                 instructions to reset your pin
                                             </p>
                                             <form id="reset_Req" name="reset_Req">
@@ -2526,7 +2526,7 @@ const MyBooking = () => {
                             <div _ngcontent-crx-c2="">
                                 <b _ngcontent-crx-c2="">Disclaimer:</b>
                                 <div className="discalimer">
-                                    JetQuinsTravels is an independent travel portal. Its parent company is A
+                                    Jetquin Travelss is an independent travel portal. Its parent company is A
                                     Red Diamond Affair LLC. The information that's displayed on this
                                     website, www.lookbyfare.com, is for general purposes. All the
                                     necessary steps have been taken to ensure that the information

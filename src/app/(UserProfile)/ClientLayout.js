@@ -235,14 +235,14 @@ export default function ClientLayout({ children }) {
                             <a className="logo" href="/">
                                 <img
                                     src="/assets/jetquins1.png"
-                                    alt="https://www.JetQuinsTravel.com/"
+                                    alt="https://www.Jetquin Travels.com/"
                                     style={{ width: 200, marginTop: 10 }}
                                 />
                             </a>
                             <div className="topmenuBox">
                                 <ul>
                                     <li>
-                                        <a href="https://www.JetQuinsTravel.com/">Flights</a>
+                                        <a href="https://www.Jetquin Travels.com/">Flights</a>
                                     </li>
                                     {/* <li>
                                         <a href="https://www.lookbyfare.com/us/hotel/">Hotels</a>
@@ -340,9 +340,9 @@ export default function ClientLayout({ children }) {
                             <div _ngcontent-crx-c2="">
                                 <b _ngcontent-crx-c2="">Disclaimer:</b>
                                 <div className="discalimer">
-                                    JetQuinsTravels is an independent travel portal. Its parent company is A
+                                    Jetquin Travelss is an independent travel portal. Its parent company is A
                                     Red Diamond Affair LLC. The information that's displayed on this
-                                    website, www.JetQuinsTravel.com, is for general purposes. All the
+                                    website, www.Jetquin Travels.com, is for general purposes. All the
                                     necessary steps have been taken to ensure that the information
                                     displayed in the website is accurate and up- to-date. However, under
                                     no circumstance, We do not provide any warranty or representation,
@@ -350,7 +350,7 @@ export default function ClientLayout({ children }) {
                                     completeness or reliability of the information displayed on the
                                     website. If you need to have any queries answered, you can write to
                                     us at{" "}
-                                    <a href="mailto:contact@JetQuinsTravel.com">contact@JetQuinsTravel.com</a>
+                                    <a href="mailto:contact@Jetquin Travels.com">contact@Jetquin Travels.com</a>
                                 </div>
                             </div>
                             <div className="copyright">

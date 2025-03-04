@@ -454,7 +454,7 @@ const confirmationPage = () => {
                                                                                         paddingBottom: 5
                                                                                     }}
                                                                                 >
-                                                                                    Thank you for choosing JetQuinsTravel
+                                                                                    Thank you for choosing Jetquin Travels
                                                                                 </div>
                                                                                 <b>Disclaimer:</b> We regret to inform you
                                                                                 that your booking failed due to some issue
@@ -2189,7 +2189,7 @@ const confirmationPage = () => {
                                                                                         color: "#1F1F1F"
                                                                                     }}
                                                                                 >
-                                                                                    JetQuinsTravel Ticket Policies, Rules and
+                                                                                    Jetquin Travels Ticket Policies, Rules and
                                                                                     Restrictions
                                                                                 </b>
                                                                                 Please note that most airline tickets, along
@@ -2208,7 +2208,7 @@ const confirmationPage = () => {
                                                                                 travel to your destination is complete and
                                                                                 valid. Visit our{" "}
                                                                                 <a
-                                                                                    href="https://www.JetQuinsTravel.com/terms-conditions"
+                                                                                    href="https://www.Jetquin Travels.com/terms-conditions"
                                                                                     target="_blank"
                                                                                     style={{ color: "#4863db" }}
                                                                                 >
@@ -2294,7 +2294,7 @@ const confirmationPage = () => {
                                                                                     Voluntary Itinerary Changes
                                                                                 </b>
                                                                                 While most itineraries ticketed by
-                                                                                JetQuinsTravel allow for changes and
+                                                                                Jetquin Travels allow for changes and
                                                                                 modifications, most of these changes in
                                                                                 itinerary require issuing a new ticket,
                                                                                 according to airline policy. Please note
@@ -2389,7 +2389,7 @@ const confirmationPage = () => {
                                                                                             fontWeight: "bold"
                                                                                         }}
                                                                                     >
-                                                                                        https://www.JetQuinsTravel.com/us/travel-insurance
+                                                                                        https://www.Jetquin Travels.com/us/travel-insurance
                                                                                     </a>
                                                                                     <br /> <br />
                                                                                 </div>
@@ -2410,7 +2410,7 @@ const confirmationPage = () => {
                                                                                     <br />
                                                                                     Visit:
                                                                                     <a
-                                                                                        href="https://www.JetQuinsTravel.com/web-checkin"
+                                                                                        href="https://www.Jetquin Travels.com/web-checkin"
                                                                                         style={{
                                                                                             color: "#4F8FFC",
                                                                                             textDecoration: "none",
@@ -2418,7 +2418,7 @@ const confirmationPage = () => {
                                                                                         }}
                                                                                         target="_blank"
                                                                                     >
-                                                                                        https://www.JetQuinsTravel.com/web-checkin
+                                                                                        https://www.Jetquin Travels.com/web-checkin
                                                                                     </a>
                                                                                     <br />
                                                                                     <br />

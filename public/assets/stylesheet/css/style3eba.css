@@ -14619,7 +14619,7 @@ select {
 }
 
 .main-engine-wrapper {
-    background: url(../../images/home/homeImage.jpg?v=05) no-repeat center;
+    background: url(../../images/home/homeImages.jpg?v=05) no-repeat center;
     background-size: cover;
     width: 100%;
     min-height: 600px;

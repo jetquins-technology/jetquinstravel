@@ -13,9 +13,9 @@ import { getAuth, GoogleAuthProvider, onAuthStateChanged } from "firebase/auth";
 //comment 2
 const firebaseConfig = {
     apiKey: "AIzaSyCuxGUIgw09XxIf-QS8nbjNHAoHJEY4WaA",
-    authDomain: "jetquinstravel-f82b4.firebaseapp.com",
-    projectId: "jetquinstravel-f82b4",
-    storageBucket: "jetquinstravel-f82b4.firebasestorage.app",
+    authDomain: "Jetquin Travels-f82b4.firebaseapp.com",
+    projectId: "Jetquin Travels-f82b4",
+    storageBucket: "Jetquin Travels-f82b4.firebasestorage.app",
     messagingSenderId: "1035934248654",
     appId: "1:1035934248654:web:13e61f571cb84af882aa9f",
     measurementId: "G-QD7LZ890N7"

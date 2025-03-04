@@ -35,7 +35,7 @@ const CountactUs = () => {
                                         className="__cf_email__"
                                         data-cfemail="82f1f7f2f2edf0f6c2eeedede9e0fbe4e3f0e7ace1edef"
                                     >
-                                        support@JetQuinsTravel.com
+                                        support@Jetquin Travels.com
                                     </span>
                                 </a>
                             </div>

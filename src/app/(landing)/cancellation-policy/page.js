@@ -74,7 +74,7 @@ const CancellationPolicy = () => {
                             permit such refunds. Once the requested refund has been approved by
                             the supplier, it may take about 60-90 days; from receiving your
                             request to receiving credit on your statement. Apart from the
-                            airlines and other suppliers refund penalties, JetQuinsTravel will
+                            airlines and other suppliers refund penalties, Jetquin Travels will
                             charge a post-ticketing service fee, as applicable. All the refund
                             fees charged are on per-passenger, per-ticket basis. The refund fees
                             is only applicable if a refund has been authorized by the supplier

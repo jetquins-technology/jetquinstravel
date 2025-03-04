@@ -215,8 +215,8 @@ const WriteToUs = () => {
                                             </div>
                                             <div className="col-sm-12">
                                                 <i className="fa fa-envelope-o" />
-                                                <a href="mailto:contact@JetQuinsTravel.com">
-                                                    contact@JetQuinsTravel.com
+                                                <a href="mailto:contact@Jetquin Travels.com">
+                                                    contact@Jetquin Travels.com
                                                 </a>
                                             </div>
                                         </div>

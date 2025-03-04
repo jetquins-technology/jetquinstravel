@@ -216,7 +216,7 @@ const Footer = () => {
                                                     </div>
                                                     <div className="col-xs-12 terms inputSet">
                                                         <div className="terms">
-                                                            I would like to receive SMS and email from JetQuinsTravel.com with the latest offers and promotions. I have read and agree to the{" "}
+                                                            I would like to receive SMS and email from Jetquin Travels.com with the latest offers and promotions. I have read and agree to the{" "}
                                                             <a target="_blank" href="/terms-conditions">Terms and Conditions</a> and{" "}
                                                             <a href="/privacy-policy" target="_blank">
                                                                 privacy policy
@@ -335,10 +335,7 @@ const Footer = () => {
                     <div className="top_row">
                         <p className="copyright">
                             <img src="/assets/images/footer/footer-icon.png" className="footer_icon" alt="footer-icon" /> Copyright ©
-                            2019-2024 • JetQuins Travel
-                            2140 Hall Johnson Rd
-                            Ste 102-171
-                            Grapevine, TX 76051
+                            2025 • Jetquin Travels
                         </p>
                         <ul className="social">
                             <li><a href="#" target="_blank" title="Facebook"><i
@@ -392,15 +389,15 @@ const Footer = () => {
                     </div> */}
 
                     <div className="discription__block">
-                        <p>Disclaimer- JetQuins Travel is an independent travel portal. Its parent company is JetQuins Travel The information that's displayed on this website, www.JetQuinsTravel.com, is for general
+                        <p>Disclaimer- JetQuins Travel is an independent travel portal. Its parent company is JetQuins Travel The information that's displayed on this website, www.Jetquin Travels.com, is for general
                             purposes. All the necessary steps have been taken to ensure that the information displayed in
                             the website is accurate and up-to-date. However, under no circumstance, We do not provide any
                             warranty or representation, whether implied or expressed, when it comes to the accuracy,
                             completeness or reliability of the information displayed on the website. If you need to have any
                             queries answered, you can write to us at <a
-                                href="mailto:contact@JetQuinsTravel.com"><span
+                                href="mailto:contact@Jetquin Travels.com"><span
                                     className="__cf_email__"
-                                    data-cfemail="ddaea8adadb2afa99db1b2b2b6bfa4bbbcafb8f3beb2b0"><b>contact@jetquinstravel.com</b></span></a>
+                                    data-cfemail="ddaea8adadb2afa99db1b2b2b6bfa4bbbcafb8f3beb2b0"><b>contact@jetquintravels.com</b></span></a>
                         </p>
                     </div>
                 </div>

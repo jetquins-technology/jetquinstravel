@@ -15,7 +15,7 @@ const TermsConditions = () => {
                     <div className="col-sm-12" bis_skin_checked={1}>
                         <p>
                             {" "}
-                            The website - JetQuinsTravel.com - is solely designed to serve and
+                            The website - Jetquin Travels.com - is solely designed to serve and
                             assist customers across the globe in planning their travel
                             itineraries. By using the website for all your travel needs, you
                             agree to adhere to the terms and conditions mentioned herein. These
@@ -25,12 +25,12 @@ const TermsConditions = () => {
                         </p>
                         <p>
                             These terms of use are entered into by and between you and
-                            JetQuinsTravel. The following terms and conditions, together with any
+                            Jetquin Travels. The following terms and conditions, together with any
                             documents they expressly incorporate by reference (collectively,
-                            these "Terms of Use"), govern your access to and use of JetQuinsTravel
+                            these "Terms of Use"), govern your access to and use of Jetquin Travels
                             along with the Company's mobile website and mobile and tablet
                             applications (the "App"), including any content, functionality and
-                            services offered on or through JetQuinsTravel.com, the Company's mobile
+                            services offered on or through Jetquin Travels.com, the Company's mobile
                             website and mobile and tablet applications (collectively, the
                             "Website"), whether as a guest or a registered user. The Website is
                             provided solely to assist you in gathering travel information,
@@ -45,11 +45,11 @@ const TermsConditions = () => {
                             accept and agree to be bound and abide by these Terms of Use and our
                             Privacy Policy, found{" "}
                             <a
-                                href="https://www.JetQuinsTravel.com"
+                                href="https://www.Jetquin Travels.com"
                                 className="blue"
                                 target="_blank"
                             >
-                                https://www.JetQuinsTravel.com/us/
+                                https://www.Jetquin Travels.com/us/
                             </a>
                             , incorporated herein by reference. If you do not want to agree to
                             these Terms of Use or the Privacy Policy, you must not access or use
@@ -314,8 +314,8 @@ const TermsConditions = () => {
                             Website. If you wish to make any use of material on the Website
                             other than that set out in this section, please address your request
                             to:{" "}
-                            <a href="mailto:support@JetQuinsTravel.com" className="blue">
-                                support@JetQuinsTravel.com
+                            <a href="mailto:support@Jetquin Travels.com" className="blue">
+                                support@Jetquin Travels.com
                             </a>
                         </p>
                         <p>
@@ -614,8 +614,8 @@ const TermsConditions = () => {
                         <p>
                             If you believe that any User Contributions violate your copyright,
                             please send us a notice of copyright infringement to{" "}
-                            <a href="mailto:support@JetQuinsTravel.com" className="blue">
-                                support@JetQuinsTravel.com
+                            <a href="mailto:support@Jetquin Travels.com" className="blue">
+                                support@Jetquin Travels.com
                             </a>
                             . It is the policy of the Company to terminate the user accounts of
                             repeat infringers.
@@ -682,7 +682,7 @@ const TermsConditions = () => {
                             regarding our Services and your service requests, along with calls
                             from Travel Service Providers that can help you with your request to
                             any landline or mobile phone number you provided. You consent to
-                            JetQuinsTravel and the Travel Service Provider's use of automated phone
+                            Jetquin Travels and the Travel Service Provider's use of automated phone
                             technology including auto-dialed and prerecorded messages to
                             communicate with you concerning your account or use of the Services,
                             updates concerning new and existing features on the Website, and
@@ -693,17 +693,17 @@ const TermsConditions = () => {
                             to us, the consent of any authorized users on your account to be
                             contacted by us as described in this Section. You agree that all
                             consents provided in this Section will survive the cancellation of
-                            your account. You also acknowledge that JetQuinsTravel or the Travel
+                            your account. You also acknowledge that Jetquin Travels or the Travel
                             Service Providers may record customer service calls after notice to
                             you and with your consent, in order to assist you when you contact
                             customer support services. For complete details on our use of your
                             information, please see our Privacy Policy at{" "}
                             <a
-                                href="https://www.JetQuinsTravel.com/us/privacy-policy"
+                                href="https://www.Jetquin Travels.com/us/privacy-policy"
                                 className="blue"
                                 target="_blank"
                             >
-                                Privacy Policy - JetQuinsTravel
+                                Privacy Policy - Jetquin Travels
                             </a>{" "}
                             .
                         </p>
@@ -711,7 +711,7 @@ const TermsConditions = () => {
                             TO KNOWINGLY INPUT FALSE INFORMATION, INCLUDING BUT NOT LIMITED TO
                             NAME, PHONE NUMBER, ADDRESS OR E-MAIL ADDRESS IS A VERY SERIOUS AND
                             FRAUDULENT MATTER THAT COULD RESULT IN SIGNIFICANT COSTS AND DAMAGES
-                            INCLUDING INVASION OF PRIVACY RIGHTS, TO JetQuinsTravel AND THE TRAVEL
+                            INCLUDING INVASION OF PRIVACY RIGHTS, TO Jetquin Travels AND THE TRAVEL
                             SERVICE PROVIDERS, AND TO CONSUMERS, AS WELL AS THE LOSS OF TIME,
                             EFFORT AND EXPENSE RESPONDING TO AND PURSUING SUCH FALSE INFORMATION
                             AND REQUEST, AND FURTHER, COULD RESULT IN REGULATORY FINES AND
@@ -719,7 +719,7 @@ const TermsConditions = () => {
                             A REQUEST, INCLUDING BUT NOT LIMITED TO SOMEONE ELSE'S NAME, E-MAIL
                             ADDRESS, PHYSICAL ADDRESS, OR PHONE NUMBER OR A RANDOM OR MADE-UP
                             NAME, ADDRESS, E-MAIL, OR PHONE NUMBER YOU AGREE TO FULLY INDEMNIFY
-                            AND BE LIABLE TO JetQuinsTravel AND EACH TRAVEL SERVICE PROVIDER WHO
+                            AND BE LIABLE TO Jetquin Travels AND EACH TRAVEL SERVICE PROVIDER WHO
                             ACCEPTS SUCH REQUESTS.
                         </p>
                         <h4>Online Purchases and Other Terms and Conditions</h4>
@@ -1017,8 +1017,8 @@ const TermsConditions = () => {
                             Website; any representations made by the Company; or our Privacy
                             Policy (collectively, "Claims") by providing notice to us at the
                             following address:{" "}
-                            <a href="mailto:support@JetQuinsTravel.com" className="blue">
-                                support@JetQuinsTravel.com
+                            <a href="mailto:support@Jetquin Travels.com" className="blue">
+                                support@Jetquin Travels.com
                             </a>
                             . If we are unable to resolve such claims within 60 days, you may
                             seek relief through arbitration or small claims court, as set forth
@@ -1069,7 +1069,7 @@ const TermsConditions = () => {
                         <p>
                             If you decide to seek arbitration, you must first send, by certified
                             mail, a written Notice of Dispute ("Notice") addressed to:
-                            JetQuinsTravel, 25 Creekside Court, Secaucus, New Jersey 07094, United
+                            Jetquin Travels, 25 Creekside Court, Secaucus, New Jersey 07094, United
                             States. The Notice must (i) describe the nature and basis of the
                             Claim; and (ii) set forth the specific relief sought. If the Company
                             and you, or the Company and any Third-party, do not reach an
@@ -1186,7 +1186,7 @@ const TermsConditions = () => {
                         <h4>Entire Agreement</h4>
                         <p>
                             The Terms of Use, our Privacy Policy, and Terms of Sale constitute
-                            the sole and entire agreement between you and JetQuinsTravel with
+                            the sole and entire agreement between you and Jetquin Travels with
                             respect to the Website and supersede all prior and contemporaneous
                             understandings, agreements, representations and warranties, both
                             written and oral, with respect to the Website. The parties hereby
@@ -1198,21 +1198,21 @@ const TermsConditions = () => {
                         </p>
                         <h4>Comments and Concerns</h4>
                         <p>
-                            This website is operated by JetQuinsTravel, 25 Creekside Court,
+                            This website is operated by Jetquin Travels, 25 Creekside Court,
                             Secaucus, New Jersey 07094, United States.
                         </p>
                         <p>
                             All notices of copyright infringement claims should be sent to{" "}
-                            <a className="blue" href="mailto:support@JetQuinsTravel.com">
-                                support@JetQuinsTravel.com
+                            <a className="blue" href="mailto:support@Jetquin Travels.com">
+                                support@Jetquin Travels.com
                             </a>
                             .
                         </p>
                         <p>
                             All other feedback, comments, requests for technical support and
                             other communications relating to the Website should be directed to:{" "}
-                            <a className="blue" href="mailto:support@JetQuinsTravel.com">
-                                support@JetQuinsTravel.com
+                            <a className="blue" href="mailto:support@Jetquin Travels.com">
+                                support@Jetquin Travels.com
                             </a>
                             .
                         </p>
@@ -1229,7 +1229,7 @@ const TermsConditions = () => {
                         </h2>
                         <p>
                             The terms contained within this Booking Services section supplement
-                            the information contained within the JetQuinsTravel Terms of Use and
+                            the information contained within the Jetquin Travels Terms of Use and
                             applies to those individuals who use this Website to book Travel
                             Services. All other Terms of Use remain in full force and effect.{" "}
                         </p>
@@ -1524,9 +1524,9 @@ const TermsConditions = () => {
                         </p>
                         <ul>
                             <li>
-                                JetQuinsTravel may issue certain promo codes that are usually valid
+                                Jetquin Travels may issue certain promo codes that are usually valid
                                 for online travel bookings and reservations. However, some of the
-                                JetQuinsTravel promo codes can only be used over call by contacting
+                                Jetquin Travels promo codes can only be used over call by contacting
                                 our customer service center.
                             </li>
                             <li>
@@ -1534,12 +1534,12 @@ const TermsConditions = () => {
                                 sign up for our newsletters.
                             </li>
                             <li>
-                                The maximum discount that one can avail from JetQuinsTravel promo
+                                The maximum discount that one can avail from Jetquin Travels promo
                                 codes is the value of our service fee and/or "Traveler Assist"
                                 fee.
                             </li>
                             <li>
-                                The promo codes issued by JetQuinsTravel are non-transferable in
+                                The promo codes issued by Jetquin Travels are non-transferable in
                                 nature. They can neither be sold further nor bartered. They hold
                                 no cash value.
                             </li>
@@ -1554,7 +1554,7 @@ const TermsConditions = () => {
                                 the code be applied after the purchase has been made.
                             </li>
                             <li>
-                                Promo codes offered by JetQuinsTravel are subject to change and can be
+                                Promo codes offered by Jetquin Travels are subject to change and can be
                                 withdrawn at any time without any prior notice.
                             </li>
                             <li>
@@ -1573,7 +1573,7 @@ const TermsConditions = () => {
                                 credits/discounts applied for any reason(s).
                             </li>
                             <li>
-                                The promo codes issued by JetQuinsTravel cannot be combined with any
+                                The promo codes issued by Jetquin Travels cannot be combined with any
                                 other offer.
                             </li>
                             <li>
@@ -1817,7 +1817,7 @@ const TermsConditions = () => {
                             refund has been approved by the supplier, it may take about 60-90
                             days; from receiving your request to receiving credit on your
                             statement. Apart from the airlines’ and other suppliers’
-                            refund-fees, JetQuinsTravel will charge a post-ticketing service fee, as
+                            refund-fees, Jetquin Travels will charge a post-ticketing service fee, as
                             and when applicable. All the refund fees charged are on per
                             passenger, per ticket basis. The refund fees is only applicable if a
                             refund has been authorized by the supplier or a waiver has been
@@ -1833,7 +1833,7 @@ const TermsConditions = () => {
                             airline Terms, Conditions of Carriage, and all other applicable
                             carrier rules, and consents to{" "}
                             <a href="/" target="_blank">
-                                JetQuinsTravel
+                                Jetquin Travels
                             </a>{" "}
                             making such acknowledgments on behalf of consumer at the time of
                             check-in.
@@ -2140,7 +2140,7 @@ const TermsConditions = () => {
                             Featured Airport Parking Booking Terms
                         </h2>
                         <p>
-                            JetQuinsTravel works in the capacity of an agent for the featured car
+                            Jetquin Travels works in the capacity of an agent for the featured car
                             park service provider. This means that you enter in to a sole and
                             direct contract with the featured car park service provider and
                             therefore, are bound by their terms and conditions as well in
@@ -2161,7 +2161,7 @@ const TermsConditions = () => {
                             <li>
                                 You must ensure that you have your booking confirmation voucher
                                 and/or booking reference with you when you travel. This will
-                                identify you as a JetQuinsTravel car parking customer and enable the
+                                identify you as a Jetquin Travels car parking customer and enable the
                                 service provider to verify your booking.
                             </li>{" "}
                             <li>
@@ -2187,13 +2187,13 @@ const TermsConditions = () => {
                                 to obtain this information before departing for the airport - any
                                 missed bookings, flights or other problems arising from the
                                 customer's failure to obtain this information will not be
-                                entertained by JetQuinsTravel or the featured car park service
+                                entertained by Jetquin Travels or the featured car park service
                                 provider.{" "}
                             </li>
                             <li>
                                 You must check in at the car park check-in facility at the time
                                 stated on your booking receipt. Should the customer not arrive on
-                                or before the stated time then JetQuinsTravel and the featured car
+                                or before the stated time then Jetquin Travels and the featured car
                                 park service provider shall not be liable for any customers'
                                 failure to meet aircraft arrivals and departures.
                             </li>
@@ -2211,7 +2211,7 @@ const TermsConditions = () => {
                             </li>
                             <li>
                                 Your credit card will be charged twice for booking. Once by the
-                                featured car park service provider and by JetQuinsTravel at the time
+                                featured car park service provider and by Jetquin Travels at the time
                                 of booking.{" "}
                             </li>
                             <li>
@@ -2230,7 +2230,7 @@ const TermsConditions = () => {
                         <h4>Cancellation Policy</h4>
                         <ul>
                             <li>
-                                All cancellation must be made through JetQuinsTravel in order to be
+                                All cancellation must be made through Jetquin Travels in order to be
                                 valid.{" "}
                             </li>
                             <li>
@@ -2250,10 +2250,10 @@ const TermsConditions = () => {
                                 cancellation and amendment terms and conditions.
                             </li>
                             <li>
-                                The customer acknowledges that JetQuinsTravel may need to cancel
+                                The customer acknowledges that Jetquin Travels may need to cancel
                                 parking services due to industrial action, no parking spaces
                                 available, technical problems or any event beyond the reasonable
-                                control of JetQuinsTravel. In no circumstances will the JetQuinsTravel be
+                                control of Jetquin Travels. In no circumstances will the Jetquin Travels be
                                 liable for any losses which a customer may incur as a result of
                                 any such occurrence or event.
                             </li>
@@ -2283,10 +2283,10 @@ const TermsConditions = () => {
                         <hr />
                         <h4>Cruise Booking Terms &amp; Conditions</h4>
                         <p>
-                            JetQuinsTravel ("we, "us, "our”) operates this website and is solely
+                            Jetquin Travels ("we, "us, "our”) operates this website and is solely
                             designed to offer cruise information. By using this website, you
                             agree to be bound by the terms of use entered into by and between
-                            you and JetQuinsTravel. We may update the policy from time to time.
+                            you and Jetquin Travels. We may update the policy from time to time.
                             Please refer to the revised Terms of Use before using the website on
                             a browser, mobile device, tab, or other device. These terms and
                             conditions apply to all visitors, users, and others who access or
@@ -2374,7 +2374,7 @@ const TermsConditions = () => {
                         <p>
                             {" "}
                             The website and its content, including text, images, design, and
-                            graphics, are owned by JetQuinsTravel and protected by United States and
+                            graphics, are owned by Jetquin Travels and protected by United States and
                             international copyright and other intellectual property or
                             proprietary rights laws. Any unauthorized use of the content,
                             copying, or changing the material is prohibited. You may not
@@ -2419,7 +2419,7 @@ const TermsConditions = () => {
                         </p>
                         <h3>Disclaimer</h3>
                         <p>
-                            The information provided on JetQuinsTravel is for general purposes and
+                            The information provided on Jetquin Travels is for general purposes and
                             does not guarantee accuracy. All products and services are provided
                             "as is," and we do not provide any warranty or representation. We
                             are not responsible for any damages resulting from the use of the
