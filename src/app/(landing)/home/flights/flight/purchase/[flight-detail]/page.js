@@ -10,7 +10,7 @@ import SignInComponent from "@/app/_components/SignIn/page";
 import SignUpComponent from "@/app/_components/SignUp/page";
 import { collection, addDoc, setDoc, doc, updateDoc, getDoc, arrayUnion } from "firebase/firestore";
 import { fireStore, useAuth } from "../../../../../../_components/firebase/config";
-import img from '../../../../../../../../public/assets/jetquins1.png';
+import img from '../../../../../../../../public/assets/jetquinLogo.png';
 import Loadings from "@/app/Loadings";
 
 const PurchasePage = () => {
@@ -5252,7 +5252,7 @@ const PurchasePage = () => {
                                         </svg>
                                     </a>
                                     <div className="toplogo" bis_skin_checked={1}>
-                                        <img src="/assets/jetquins1.png" alt="logo" />
+                                        <img src="/assets/jetquinLogo.png" alt="logo" />
                                     </div>
                                     <div className="images" bis_skin_checked={1}>
                                         <img

@@ -36,7 +36,7 @@ const Loading = ({ cabin, total, depDate, origin, destination, originName, destN
                     <div className="loading_block">
                         <div className="searched_logo">
                             <img
-                                src="/assets/jetquins1.png"
+                                src="/assets/jetquinLogo.png"
                                 alt="https://Jetquin Travelss.one"
                             />
                         </div>

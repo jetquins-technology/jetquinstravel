@@ -234,7 +234,7 @@ export default function ClientLayout({ children }) {
                         <div className="col-sm-12">
                             <a className="logo" href="/">
                                 <img
-                                    src="/assets/jetquins1.png"
+                                    src="/assets/jetquinLogo.png"
                                     alt="https://www.Jetquin Travels.com/"
                                     style={{ width: 200, marginTop: 10 }}
                                 />

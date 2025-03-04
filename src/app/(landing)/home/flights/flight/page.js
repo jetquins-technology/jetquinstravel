@@ -1,4 +1,5 @@
-"use client"
+"use client";
+
 import FlightCard from "@/app/_components/FlightCard/page";
 import React, { useState, useRef, useEffect } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
@@ -573,54 +574,6 @@ const FlightResultCompnent = () => {
                 });
 
                 let result = await response.json();
-                // console.log(result, "FINAL");
-
-
-
-                // if (Array.isArray(result.data)) {
-
-                //     const mergedAirports = result.data.map(airport => {
-
-                //         const matchingFlights = flightList.filter(flight =>
-                //             flight.itineraries[0].segments.some(segment =>
-                //                 segment.arrival.airport.iata === airport.iata
-                //             )
-                //         );
-
-
-                //         const detailedFlights = matchingFlights.map(flight => {
-                //             flight.stops = flight.itineraries[0].segments.length - 1;
-
-
-                //             flight.itineraries.forEach(b => {
-                //                 b.segments.forEach(segment => {
-                //                     segment.airline = airlines[segment.carrierCode];
-                //                     segment.arrival.airport = airportsDB[segment.arrival.iataCode];
-                //                     segment.departure.airport = airportsDB[segment.departure.iataCode];
-
-
-                //                     const cabin = flight.travelerPricings[0].fareDetailsBySegment.find(fare => fare.segmentId === segment.id)?.cabin;
-                //                     if (cabin) segment.cabin = cabin;
-                //                 });
-                //             });
-
-                //             return flight;
-                //         });
-
-                //         return {
-                //             ...airport,
-                //             matchingFlights: detailedFlights
-                //         };
-                //     });
-
-                //     console.log(mergedAirports, "AllMerged");
-
-
-                //     setNearbyAirports(mergedAirports);
-                // } else {
-                //     console.error('Unexpected API response:', result);
-                //     setNearbyAirports([]);
-                // }  
 
             } catch (error) {
                 console.error('Error fetching nearby airports:', error);
@@ -1645,10 +1598,6 @@ const FlightResultCompnent = () => {
                 <div className="midum-overlay" id="fadebackground" />
             </div>
         </div>
-
-        {/* <script src="/assets/scripts/custom-profile.js?v=69.2.7006"></script>
-        <script src="/assets/scripts/every000where.js?v=69.2.7006"></script>
-        <script src="/assets/scripts/offersjs.js?v=69.2.7006"></script> */}
     </>
 }
 

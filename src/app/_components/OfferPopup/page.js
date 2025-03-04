@@ -25,7 +25,7 @@ const OfferPopup = ({ flight, hideOfferPopup }) => {
                         <div className="list-count-banner1" bis_skin_checked="1">
                             <div className="close-btn close-btnUC" id="lbyfucbannerclose" onClick={hideOfferPopup} bis_skin_checked="1"><img src="/assets/images/uc/cancel.svg" /></div>
                             <div className="top-head" bis_skin_checked="1">
-                                <div className="logo-sttt" bis_skin_checked="1"><img src="/assets/jetquins1.png" /></div>
+                                <div className="logo-sttt" bis_skin_checked="1"><img src="/assets/jetquinLogo.png" /></div>
                                 {/* <div className="clock_timer" bis_skin_checked="1"><img src="/assets/images/uc/clock.svg" /><span className="timer">00:07:34</span></div> */}
                                 <div className="lto" bis_skin_checked="1">Limited Time Offer!</div>
                             </div>

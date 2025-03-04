@@ -297,7 +297,7 @@ const Navbar = () => {
                                 }}
                             >
                                 <img
-                                    src="/assets/jetquins1.png"
+                                    src="/assets/jetquinLogo.png"
                                     alt="Travel Logo"
                                     style={{
                                         width: "100%",
