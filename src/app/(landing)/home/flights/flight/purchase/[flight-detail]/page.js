@@ -878,7 +878,7 @@ const PurchasePage = () => {
                         <img src={img} alt="Company Logo">
                     </div>
                     <div class="company-info">
-                        <p>JetQuins Travel</p>
+                        <p>Jetquin Travels</p>
                         <p>Address, City, Country</p>
                         <p>Email: contact@Jetquin Travels.com | Phone: +1-(888)-267-5955</p>
                     </div>

@@ -355,7 +355,7 @@ export default function ClientLayout({ children }) {
                             </div>
                             <div className="copyright">
                                 {" "}
-                                Copyright © 2019-2024 • JetQuins Travel 2140 Hall Johnson Rd Ste 102-171 Grapevine, TX 76051
+                                Copyright © 2019-2024 • Jetquin Travels 2140 Hall Johnson Rd Ste 102-171 Grapevine, TX 76051
                                 {" "}
                             </div>
                         </div>

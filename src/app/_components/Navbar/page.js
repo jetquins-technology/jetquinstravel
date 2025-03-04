@@ -308,7 +308,7 @@ const Navbar = () => {
                             </div>
                         </a> */}
 
-                        <a className="navbar-brand" href="/"><img src="/assets/jetquins1.png" alt="/" /></a>
+                        <a className="navbar-brand" href="/"><img src="/assets/jetquinLogo.png" alt="/" /></a>
 
                     </div>
 

@@ -47,7 +47,7 @@ const userSignUp = ({ onSignInClick }) => {
             sessionStorage.setItem('user', true);
 
             // Optionally, you can add a success message or redirect
-            toast.success("Sign-up successful! Welcome to the JetQuins Travel!");
+            toast.success("Sign-up successful! Welcome to the Jetquin Travels!");
             // setSuccess(true);
 
         } catch (e) {

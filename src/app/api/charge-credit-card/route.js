@@ -37,7 +37,7 @@ export async function POST(request) {
         var billTo = new APIContracts.CustomerAddressType();
         billTo.setFirstName(`${travelers[0].firstName}`);
         billTo.setLastName(`${travelers[0].lastName}`);
-        billTo.setCompany('Jetquins Travel PVT. LTD.');
+        billTo.setCompany('Jetquin Travels PVT. LTD.');
         billTo.setAddress(`${billingInfo.address}`);
         billTo.setCity(`${billingInfo.city}`);
         billTo.setState(`${billingInfo.state}`);

@@ -16,7 +16,7 @@ const FaceBookServicePage = () => {
                         {/* <h6>Last Updated: Feb 08, 2023 </h6> */}
                         <h4>INTRODUCTION</h4>
                         <p>
-                            Welcome to JetQuins Travel. This page outlines the terms and conditions for using the Facebook Login feature on our website https://Jetquin Travels.com. By using the Facebook Login feature, you agree to these terms.
+                            Welcome to Jetquin Travels. This page outlines the terms and conditions for using the Facebook Login feature on our website https://Jetquin Travels.com. By using the Facebook Login feature, you agree to these terms.
                         </p>
                         <h4>Use of Facebook Login</h4>
                         <p>When you choose to log in using Facebook, you allow us to access certain information from your Facebook profile. This is done to simplify the login process and to pre-fill certain fields with data you have already provided to Facebook.</p>
@@ -255,7 +255,7 @@ const FaceBookServicePage = () => {
                             <h4>If you have any questions about these Terms of Service or our use of Facebook Login, please contact us at:</h4>
                             <ul>
                                 <li><strong>Email:</strong> support@Jetquin Travels.com</li>
-                                <li><strong>Address: </strong>JetQuins Travel
+                                <li><strong>Address: </strong>Jetquin Travels
                                     2140 Hall Johnson
                                     Rd Ste 102-171 Grapevine, TX 76051</li>
                             </ul>

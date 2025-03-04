@@ -18,7 +18,7 @@ const CountactUs = () => {
                             <div className="col-xs-12">
                                 <address>
                                     <i className="fa fa-map-marker" />
-                                    JetQuins Travel
+                                    Jetquin Travels
                                     <br />2140 Hall Johnson
                                     <br />
                                     Rd Ste 102-171 Grapevine, TX 76051
