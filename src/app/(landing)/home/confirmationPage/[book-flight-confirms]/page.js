@@ -12,6 +12,7 @@ const confirmationPage = () => {
     const [formattedDate, setFormattedDate] = useState('');
     const [contactDetails, setContactDetails] = useState({});
 
+    // Added
     const searchParam = useSearchParams();
 
     const [cardDetails, setCardDetails] = useState({
