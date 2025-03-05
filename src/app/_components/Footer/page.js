@@ -213,6 +213,8 @@ const Footer = () => {
                                                                 onChange={handleChange}
                                                             />
                                                         </div>
+
+                                                        {/* Added */}
                                                     </div>
                                                     <div className="col-xs-12 terms inputSet">
                                                         <div className="terms">
