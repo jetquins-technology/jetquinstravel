@@ -14,8 +14,8 @@ import ClientLayout from "./ClientLayout";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-    title: "Cheap Flights, Compare Flights & Airline Deals - Jetquin Travelss.com",
-    description: "Find the cheapest flight tickets with Jetquin Travelss ! Compare prices effortlessly and book the best deals on flights through our advanced algorithm. Start saving on your next trip today",
+    title: "Cheap Flights, Compare Flights & Airline Deals - jetquins travelss.com",
+    description: "Find the cheapest flight tickets with jetquins travelss ! Compare prices effortlessly and book the best deals on flights through our advanced algorithm. Start saving on your next trip today",
     icons: {
         icon: '/favicon.ico'
     }

@@ -234,15 +234,15 @@ export default function ClientLayout({ children }) {
                         <div className="col-sm-12">
                             <a className="logo" href="/">
                                 <img
-                                    src="/assets/jetquinLogo.png"
-                                    alt="https://www.Jetquin Travels.com/"
+                                    src="/assets/jetquinsLogos.png"
+                                    alt="https://www.jetquinstravels.com/"
                                     style={{ width: 200, marginTop: 10 }}
                                 />
                             </a>
                             <div className="topmenuBox">
                                 <ul>
                                     <li>
-                                        <a href="https://www.Jetquin Travels.com/">Flights</a>
+                                        <a href="https://www.jetquinstravels.com/">Flights</a>
                                     </li>
                                     {/* <li>
                                         <a href="https://www.lookbyfare.com/us/hotel/">Hotels</a>
@@ -340,9 +340,9 @@ export default function ClientLayout({ children }) {
                             <div _ngcontent-crx-c2="">
                                 <b _ngcontent-crx-c2="">Disclaimer:</b>
                                 <div className="discalimer">
-                                    Jetquin Travelss is an independent travel portal. Its parent company is A
+                                    jetquins travelss is an independent travel portal. Its parent company is A
                                     Red Diamond Affair LLC. The information that's displayed on this
-                                    website, www.Jetquin Travels.com, is for general purposes. All the
+                                    website, www.jetquins travels.com, is for general purposes. All the
                                     necessary steps have been taken to ensure that the information
                                     displayed in the website is accurate and up- to-date. However, under
                                     no circumstance, We do not provide any warranty or representation,
@@ -350,12 +350,12 @@ export default function ClientLayout({ children }) {
                                     completeness or reliability of the information displayed on the
                                     website. If you need to have any queries answered, you can write to
                                     us at{" "}
-                                    <a href="mailto:contact@Jetquin Travels.com">contact@Jetquin Travels.com</a>
+                                    <a href="mailto:contact@jetquins travels.com">contact@jetquins travels.com</a>
                                 </div>
                             </div>
                             <div className="copyright">
                                 {" "}
-                                Copyright © 2019-2024 • Jetquin Travels 2140 Hall Johnson Rd Ste 102-171 Grapevine, TX 76051
+                                Copyright © 2019-2024 • jetquins travels 2140 Hall Johnson Rd Ste 102-171 Grapevine, TX 76051
                                 {" "}
                             </div>
                         </div>

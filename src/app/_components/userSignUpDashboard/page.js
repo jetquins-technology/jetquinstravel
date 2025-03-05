@@ -47,7 +47,7 @@ const userSignUp = ({ onSignInClick }) => {
             sessionStorage.setItem('user', true);
 
             // Optionally, you can add a success message or redirect
-            toast.success("Sign-up successful! Welcome to the Jetquin Travels!");
+            toast.success("Sign-up successful! Welcome to the jetquins travels!");
             // setSuccess(true);
 
         } catch (e) {
@@ -224,7 +224,7 @@ const userSignUp = ({ onSignInClick }) => {
                             </div>
                             <div className="form-row" bis_skin_checked={1}>
                                 <div className="terms" bis_skin_checked={1}>
-                                    By signing up, I agree to Jetquin Travelss General
+                                    By signing up, I agree to jetquins travelss General
                                     <a
                                         href="/us/terms-conditions"
                                         target="_blank"

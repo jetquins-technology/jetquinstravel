@@ -121,7 +121,7 @@ const HomePage = () => {
                     <div className="logo-center visible-xs">
                         <img src="/assets/images/home/privacy-icon-xs.png" />
                     </div>
-                    <h3>Your data is safe with Jetquin Travels.com</h3>
+                    <h3>Your data is safe with jetquins travels.com</h3>
                     <ul>
                         <li>
                             <span className="number">1.</span>We restrict sharing of your information.
@@ -2055,11 +2055,11 @@ const HomePage = () => {
                                                 I was having problems booking with JetBlue Airlines since
                                                 last night in the their website. So I decided to search on
                                                 the web for the JetBlue customer service for support.
-                                                Somehow I got in contact with a Jetquin Travels representative
+                                                Somehow I got in contact with a jetquins travels representative
                                                 named Marshall, the process when well. Great pronunciation
                                                 in our communication. After the fair payment for the
                                                 flights, I received a booking ID number with all the flight
-                                                itinerary. And this when I noticed it was from Jetquin Travels
+                                                itinerary. And this when I noticed it was from jetquins travels
                                                 and not JetBlue I got nervous and started to reach out to my
                                                 bank and JetBlue to verify my flights, as for my first email
                                                 response didn’t show the confirmation code. Anyway Marshall
@@ -2068,16 +2068,16 @@ const HomePage = () => {
                                                 process the booking of the flights. JetBlue and the bank
                                                 both acknowledged the transaction, I began to feel better. A
                                                 few minutes later I received my second email from
-                                                Jetquin Travels with more information like the flight
+                                                jetquins travels with more information like the flight
                                                 confirmation code. Shortly after I received a call from
-                                                Jetquin Travels, a gentleman named Jonathan. This
+                                                jetquins travels, a gentleman named Jonathan. This
                                                 representative also cleared the air with our sitting
                                                 arrangement as it wasn’t showing up on our itinerary. I will
                                                 be traveling with my elderly mother, so i want to make sure
                                                 she’s comfortable in her travels. So I paid a bit extra to
                                                 seat in the front. Just wanted to share my thoughts, at
                                                 first I was nervous dealing with a third party, but I can
-                                                actually say I was taken care of by Jetquin Travels
+                                                actually say I was taken care of by jetquins travels
                                                 representatives. What an excellent team you have, BRAVO ZULU
                                                 to Marshall and Jonathan. Great Job. Thank you both!!! for
                                                 making my life easier.
@@ -2274,13 +2274,13 @@ const HomePage = () => {
                     <div className="container">
                         <br />
                         <p>
-                            A one-stop site for all your travel needs, Jetquin Travels is an OTA
+                            A one-stop site for all your travel needs, jetquins travels is an OTA
                             started by travelers and for the travelers, with an aim to make travel
                             booking convenient and budget-friendly. We have a team of travel
                             experts working round the clock with our partner airlines and travel
                             service providers so we can handpick the cheapest air tickets,
                             and packages to destinations across the globe. Whether you are planning a vacation or a business trip,
-                            book cheap air tickets with Jetquin Travels and save big on your ticket
+                            book cheap air tickets with jetquins travels and save big on your ticket
                             reservation.
                         </p>
                         <p>

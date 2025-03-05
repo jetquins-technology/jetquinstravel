@@ -28,7 +28,7 @@ deploy-production:   # This job deploys to the production environment from the m
   stage: deploy
   environment:
     name: production
-    url: https://Jetquin Travels.com  # Replace with your production environment URL
+    url: https://jetquinstravels.com  # Replace with your production environment URL
   script:
     - echo "Deploying application to the production environment..."
     - echo "Application successfully deployed to production."

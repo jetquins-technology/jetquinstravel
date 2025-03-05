@@ -297,7 +297,7 @@ const Navbar = () => {
                                 }}
                             >
                                 <img
-                                    src="/assets/jetquinLogo.png"
+                                    src="/assets/jetquinsLogos.png"
                                     alt="Travel Logo"
                                     style={{
                                         width: "100%",
@@ -308,7 +308,7 @@ const Navbar = () => {
                             </div>
                         </a> */}
 
-                        <a className="navbar-brand" href="/"><img src="/assets/jetquinLogo.png" alt="/" /></a>
+                        <a className="navbar-brand" href="/"><img src="/assets/jetquinsLogos.png" alt="/" /></a>
 
                     </div>
 

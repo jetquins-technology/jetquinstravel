@@ -15,7 +15,7 @@ const Settings = () => {
                     </div>
                     <div id="personal_infoform">
                         <p>
-                            Enter the email you use for Jetquin Travelss and we'll send your
+                            Enter the email you use for jetquins travelss and we'll send your
                             instructions to reset your pin
                         </p>
                         <form id="reset_Req" name="reset_Req">
