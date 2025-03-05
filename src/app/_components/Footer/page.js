@@ -214,7 +214,7 @@ const Footer = () => {
                                                             />
                                                         </div>
 
-                                                        {/* Added */}
+                                                        
                                                     </div>
                                                     <div className="col-xs-12 terms inputSet">
                                                         <div className="terms">
