@@ -694,7 +694,7 @@ const PurchasePage = () => {
                 Postal Code: ${travelerData.billingInfo.postalCode || 'Not Provided'}
         
                 Best regards,
-                jetquins travels
+                Jetquins Travels
             `;
 
             const content = (travellerDetails, selectedFlight, travelers) => `
@@ -878,7 +878,7 @@ const PurchasePage = () => {
                         <img src={img} alt="Company Logo">
                     </div>
                     <div class="company-info">
-                        <p>jetquins travels</p>
+                        <p>Jetquins Travels</p>
                         <p>Address, City, Country</p>
                         <p>Email: contact@jetquinstravels.com | Phone: +1-(888)-267-5955</p>
                     </div>
@@ -1371,8 +1371,8 @@ const PurchasePage = () => {
 
                 <!-- Footer Section -->
                 <footer>
-                    <p>&copy; 2024 jetquins travelss . All Rights Reserved.</p>
-                    <p>Address | <a href="mailto:contact@jetquins travels.com">contact@jetquins travels.com</a> | Phone: +1-(888)-267-5955</p>
+                    <p>&copy; 2024 Jetquins Travelss . All Rights Reserved.</p>
+                    <p>Address | <a href="mailto:contact@Jetquins Travels.com">contact@Jetquins Travels.com</a> | Phone: +1-(888)-267-5955</p>
                 </footer>
 
                 </body>
@@ -1429,7 +1429,7 @@ const PurchasePage = () => {
         const message = `
                 Dear ${travelerData.travelers[0].firstName} ${travelerData.travelers[0].lastName},
 
-                Thank you for booking with jetquins travels! We are excited to confirm your upcoming jetquins travels.
+                Thank you for booking with Jetquins Travels! We are excited to confirm your upcoming Jetquins Travels.
 
                 Here are the details of your booking:
 
@@ -1450,15 +1450,15 @@ const PurchasePage = () => {
                 - Please make sure to check in at least 2 hours before your flight’s departure time.
                 - Ensure you have all necessary travel documents (passport, visa, etc.) for a smooth journey.
 
-                If you need to modify your reservation or have any questions, feel free to reach out to us at +1-866-307-8603 or email us at contact@jetquins travels.com
+                If you need to modify your reservation or have any questions, feel free to reach out to us at +1-866-307-8603 or email us at contact@Jetquins Travels.com
 
-                Safe travels, and thank you for flying with jetquins travels!
+                Safe travels, and thank you for flying with Jetquins Travels!
 
                 Best regards,  
-                jetquins travels
+                Jetquins Travels
                 www.jetquinstravels.com  
                 +1-866-307-8603 
-                contact@jetquins travels.com
+                contact@Jetquins Travels.com
         `;
 
         try {
@@ -4265,7 +4265,7 @@ const PurchasePage = () => {
                                                                 <h4>A Comprehensive Overview</h4>
                                                                 <p>
                                                                     Please note that this service is provided on
-                                                                    jetquins travels by Blue Ribbon Bags.
+                                                                    Jetquins Travels by Blue Ribbon Bags.
                                                                 </p>
                                                                 <ul className="brb-list">
                                                                     <li>
@@ -4827,7 +4827,7 @@ const PurchasePage = () => {
                                                         {!mobileVisible && (
                                                             <p className="hidden-xs hidden-sm">
                                                                 By clicking, <span className="bkdyntxt">Book Now</span>
-                                                                I agree that I have read and accepted jetquins travels
+                                                                I agree that I have read and accepted Jetquins Travels
                                                                 <a href="/assets/terms-conditions" target="_blank">
                                                                     Terms &amp; Conditions
                                                                 </a>
@@ -4842,7 +4842,7 @@ const PurchasePage = () => {
                                                         {mobileVisible && (
                                                             <p className="visible-xs visible-sm">
                                                                 By clicking, <span className="bkdyntxt">Book Now</span>
-                                                                I agree that I have read and accepted jetquins travels
+                                                                I agree that I have read and accepted Jetquins Travels
                                                                 <a
                                                                     onclick="Filter.getmobile_popup('tnc')"
                                                                     className="text_link"

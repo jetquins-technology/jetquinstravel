@@ -169,31 +169,33 @@ export default function ClientLayout({ children }) {
                                                 <li>
                                                     <a
                                                         href="javascript:void(0);"
-                                                        onClick={() => handleNavigation(`myinformation/${currentUser.uid}`)}
+                                                        onClick={() => handleNavigation(`myinformation/${currentUser.uid}`)}  className="myinformation"
                                                     >
                                                         My Information
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="javascript:void(0);"
-                                                        onClick={() => handleNavigation(`latestoffer/${currentUser.uid}`)}>
+                                                        onClick={() => handleNavigation(`latestoffer/${currentUser.uid}`)} className="reward">
                                                         Latest Offer
                                                     </a>
                                                 </li>
                                                 <li id="profile_setting" style={{ display: 'block' }}>
                                                     <a href="javascript:void(0);"
-                                                        onClick={() => handleNavigation(`settings/${currentUser.uid}`)}>
+                                                        onClick={() => handleNavigation(`settings/${currentUser.uid}`)}  className="setting">
                                                         Settings
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="javascript:void(0);"
-                                                        onClick={() => handleNavigation(`writetous/${currentUser.uid}`)}>
+                                                        onClick={() => handleNavigation(`writetous/${currentUser.uid}`)}
+                                                        className="deal"
+                                                        >
                                                         Write To Us
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a onClick={handleSignOut} className="login">
+                                                    <a onClick={handleSignOut} className="signout">
                                                         &nbsp; <span className="hidden-xs">Sign out</span>
                                                     </a>
                                                 </li>
@@ -340,9 +342,9 @@ export default function ClientLayout({ children }) {
                             <div _ngcontent-crx-c2="">
                                 <b _ngcontent-crx-c2="">Disclaimer:</b>
                                 <div className="discalimer">
-                                    jetquins travelss is an independent travel portal. Its parent company is A
+                                    Jetquins Travelss is an independent travel portal. Its parent company is A
                                     Red Diamond Affair LLC. The information that's displayed on this
-                                    website, www.jetquins travels.com, is for general purposes. All the
+                                    website, www.jetquinstravels.com, is for general purposes. All the
                                     necessary steps have been taken to ensure that the information
                                     displayed in the website is accurate and up- to-date. However, under
                                     no circumstance, We do not provide any warranty or representation,
@@ -350,12 +352,12 @@ export default function ClientLayout({ children }) {
                                     completeness or reliability of the information displayed on the
                                     website. If you need to have any queries answered, you can write to
                                     us at{" "}
-                                    <a href="mailto:contact@jetquins travels.com">contact@jetquins travels.com</a>
+                                    <a href="mailto:contact@Jetquins Travels.com">contact@Jetquins Travels.com</a>
                                 </div>
                             </div>
                             <div className="copyright">
                                 {" "}
-                                Copyright © 2019-2024 • jetquins travels 2140 Hall Johnson Rd Ste 102-171 Grapevine, TX 76051
+                                Copyright © 2019-2024 • Jetquins Travels 2140 Hall Johnson Rd Ste 102-171 Grapevine, TX 76051
                                 {" "}
                             </div>
                         </div>

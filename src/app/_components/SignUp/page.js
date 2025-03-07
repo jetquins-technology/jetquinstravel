@@ -46,7 +46,7 @@ const SignUpComponent = ({ hideSignUp, showSignIn }) => {
             sessionStorage.setItem('user', true);
 
             // Optionally, you can add a success message or redirect
-            toast.success("Sign-up successful! Welcome to the jetquins travels!");
+            toast.success("Sign-up successful! Welcome to the Jetquins Travels!");
             // setSuccess(true);
             showSignIn();
         } catch (e) {
@@ -238,7 +238,7 @@ const SignUpComponent = ({ hideSignUp, showSignIn }) => {
                                     </div>
                                     <div className="form-row" bis_skin_checked={1}>
                                         <div className="terms" bis_skin_checked={1}>
-                                            By signing up, I agree to jetquins travelss General
+                                            By signing up, I agree to Jetquins Travelss General
                                             <a
                                                 href="/us/terms-conditions"
                                                 target="_blank"

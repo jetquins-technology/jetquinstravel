@@ -17,7 +17,7 @@ const CaliforniaPrivacy = () => {
                         <p>
                             This Privacy Notice for California Residents supplements the
                             information contained in the Privacy Policy for A Red Diamond Affair
-                            LLC (collectively, "jetquins travels", "We," "Us," or "Our") and applies
+                            LLC (collectively, "Jetquins Travels", "We," "Us," or "Our") and applies
                             solely to visitors, users, and others who reside in the State of
                             California ("consumers" or "you"). We adopt this notice to comply
                             with the California Consumer Privacy Act of 2018 ("CCPA"), the
@@ -28,7 +28,7 @@ const CaliforniaPrivacy = () => {
                             in this notice
                         </p>
                         <p>
-                            jetquins travels collects information that identifies, relates to,
+                            Jetquins Travels collects information that identifies, relates to,
                             describes, references, is capable of being associated with, or could
                             reasonably be linked, directly or indirectly, with a particular
                             consumer or device ("personal information"). We limit our
@@ -37,7 +37,7 @@ const CaliforniaPrivacy = () => {
                             services consistent with applicable data retention laws.
                         </p>
                         <p>
-                            jetquins travels has collected the following categories of personal
+                            Jetquins Travels has collected the following categories of personal
                             information from its consumers within the last twelve (12) months:
                         </p>
                         <table
@@ -198,7 +198,7 @@ const CaliforniaPrivacy = () => {
                             </ol>
                         </ul>
                         <p>
-                            jetquins travels obtains the categories of personal information listed
+                            Jetquins Travels obtains the categories of personal information listed
                             above from the following categories of sources:
                         </p>
                         <ul>
@@ -215,17 +215,17 @@ const CaliforniaPrivacy = () => {
                         <p>
                             For information generally on how we use your personal information
                             and to which entities, please refer to our Privacy Policy
-                            <a href="https://www.jetquins travels.com/us/privacy-policy">here.</a>
+                            <a href="https://www.jetquinstravels.com/us/privacy-policy">here.</a>
                         </p>
                         <h4>SHARING PERSONAL INFORMATION</h4>
                         <p>
                             For information generally on how we share your personal information
                             and to which entities, please refer to our Privacy Policy
-                            <a href="https://www.jetquins travels.com/us/privacy-policy">here.</a>
+                            <a href="https://www.jetquinstravels.com/us/privacy-policy">here.</a>
                         </p>
                         <h4>Disclosure of Personal Information</h4>
                         <p>
-                            In the preceding twelve (12) months, jetquins travels has disclosed the
+                            In the preceding twelve (12) months, Jetquins Travels has disclosed the
                             following categories of personal information for a business purpose:
                         </p>
                         <p>
@@ -251,7 +251,7 @@ const CaliforniaPrivacy = () => {
                         </ul>
                         <h4>Sales of Personal Information</h4>
                         <p>
-                            In the preceding twelve (12) months, jetquins travels has not sold
+                            In the preceding twelve (12) months, Jetquins Travels has not sold
                             personal information and will not do so in the future without first
                             providing you with notice and an opportunity to opt-out of such sale
                             as required by law. We do not offer any incentives associated with
@@ -271,7 +271,7 @@ const CaliforniaPrivacy = () => {
                             over the past twelve (12) months. Effective January 1, 2023, you
                             have the right to request any information collected regardless of
                             when it was collected, unless doing so proves impossible or would
-                            create a disproportionate effort for jetquins travels. Once we receive
+                            create a disproportionate effort for Jetquins Travels. Once we receive
                             your request and verify your identity, we will disclose to you:
                         </p>
                         <ul>
@@ -322,7 +322,7 @@ const CaliforniaPrivacy = () => {
                             we believe the change would violate any law or legal requirement or
                             cause the information to be incorrect. It is important to note that
                             any request for correction is limited by the legal rights of
-                            jetquins travels and our third-party business partners as it relates to
+                            Jetquins Travels and our third-party business partners as it relates to
                             the content on our Website, including without limitation legally
                             protected rights related to freedom of speech, freedom of the press,
                             or freedom of information.
@@ -394,7 +394,7 @@ const CaliforniaPrivacy = () => {
                         </p>
                         <p>
                             <strong>By Email:</strong>
-                            <a href="mailto:support@jetquins travels.com">support@jetquins travels.com</a>.
+                            <a href="mailto:support@jetquinstravels.com">support@jetquinstravels.com</a>.
                         </p>
                         <p>
                             <strong>By Mail:</strong> 25 Creekside Court, Secaucus, New Jersey
@@ -467,7 +467,7 @@ const CaliforniaPrivacy = () => {
                             to a third party. Effective January 1, 2023, you have the right to
                             opt out and request your personal information not be shared with
                             third parties for those third parties’ behavioral advertising
-                            purposes. Please note that this does not stop jetquins travels from
+                            purposes. Please note that this does not stop Jetquins Travels from
                             distributing this information within our organization across
                             business units. Additionally, your right to opt out does not stop
                             all transfers to third parties as we can continue to provide your
@@ -490,12 +490,12 @@ const CaliforniaPrivacy = () => {
                         </p>
                         <p>
                             The sale of personal information does not include if you direct
-                            jetquins travels to interact with a third party, jetquins travels alerts third
+                            Jetquins Travels to interact with a third party, Jetquins Travels alerts third
                             parties that you have opted out, the sharing of information is
                             necessary to perform a business purpose and meets the other
                             conditions specified, or the information is transferred as part of
                             an asset in a merger, acquisition, bankruptcy or other change of
-                            control of jetquins travels.
+                            control of Jetquins Travels.
                         </p>
                         <p>
                             Separate from the CCPA and CPRA, California residents also have the
@@ -509,7 +509,7 @@ const CaliforniaPrivacy = () => {
                         <h4>Exercising Opt-Out Rights</h4>
                         <p>
                             If you wish to exercise your right to opt out, please click here:
-                            <a href="https://www.jetquins travels.com/us/contact-us">
+                            <a href="https://www.jetquinstravels.com/us/contact-us">
                                 Do Not Sell My Personal Information
                             </a>
                             . We will honor your request for twelve (12) months before we ask
@@ -537,7 +537,7 @@ const CaliforniaPrivacy = () => {
                         </ul>
                         <h4>CHANGES TO OUR PRIVACY NOTICE</h4>
                         <p>
-                            jetquins travels reserves the right to amend this privacy notice at our
+                            Jetquins Travels reserves the right to amend this privacy notice at our
                             discretion and at any time. When we make changes to this privacy
                             notice, we will post the updated notice on our Website and update
                             the notice's effective date. Your continued use of our Website
@@ -547,14 +547,14 @@ const CaliforniaPrivacy = () => {
                         <h4>CONTACT INFORMATION</h4>
                         <p>
                             If you have any questions or comments about this notice, the ways in
-                            which jetquins travels collects and uses your information described above
+                            which Jetquins Travels collects and uses your information described above
                             and in the Privacy Policy, your choices and rights regarding such
                             use, or you wish to exercise your rights under California law,
                             please do not hesitate to contact us in the following ways:
                         </p>
                         <p>
                             <strong>By Email:</strong>
-                            <a href="mailto:support@jetquins travels.com">support@jetquins travels.com</a>
+                            <a href="mailto:support@jetquinstravels.com">support@jetquinstravels.com</a>
                         </p>
                         <p>
                             <strong>By Mail:</strong> 1 Meadowlands Plaza Suite 200, East

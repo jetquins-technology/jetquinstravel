@@ -37,7 +37,7 @@ const Loading = ({ cabin, total, depDate, origin, destination, originName, destN
                         <div className="searched_logo">
                             <img
                                 src="/assets/jetquinsLogos.png"
-                                alt="https://jetquins travelss.one"
+                                alt="https://jetquinstravelss.one"
                             />
                         </div>
                         <div className="loadingBox">
@@ -57,7 +57,7 @@ const Loading = ({ cabin, total, depDate, origin, destination, originName, destN
                             <p className="pls-wait">
                                 Please Wait,
                                 <br />
-                                while jetquins travelss is searching for our best fares...
+                                while Jetquins Travelss is searching for our best fares...
                             </p>
                             <div className="lds-ring">
                                 <div />

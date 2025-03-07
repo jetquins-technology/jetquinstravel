@@ -891,3 +891,7 @@
 .country-list.hide {
     display: none; /* Hide when not open */
 }
+
+.topmenuBox ul li.loginDropdown ul.loginMenu li a:hover {
+    color: #ff7f00;
+}

@@ -628,7 +628,7 @@ const BillingInfo = ({ setBillingInfo, billingInfo, setCardDetails, cardDetails 
                         </div>
                         <div className="col-sm-6 hidden-xs" bis_skin_checked={1}>
                             <a
-                                onclick="window.open('https://www.jetquins travels.com/us/security-metrices-certificate.pdf?v5', 'info', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=900,height=600, screenX=100,screenY=50')"
+                                onclick="window.open('https://www.jetquinstravels.com/us/security-metrices-certificate.pdf?v5', 'info', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=900,height=600, screenX=100,screenY=50')"
                                 href={""}
                             >
                                 <img
@@ -767,7 +767,7 @@ const BillingInfo = ({ setBillingInfo, billingInfo, setCardDetails, cardDetails 
                 <div className="norton-block" bis_skin_checked={1}>
                     <a
                         className="visible-xs"
-                        onclick="window.open('https://www.jetquins travels.com/us/security-metrices-certificate.pdf?v5', 'info', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=900,height=600, screenX=100,screenY=50')"
+                        onclick="window.open('https://www.jetquinstravels.com/us/security-metrices-certificate.pdf?v5', 'info', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=900,height=600, screenX=100,screenY=50')"
                         href={""}
                     >
                         <img
@@ -808,7 +808,7 @@ const BillingInfo = ({ setBillingInfo, billingInfo, setCardDetails, cardDetails 
                                 <object
                                     id="DigiCertClickID_7dlUvcGZpayment_object"
                                     type="image/svg+xml"
-                                    data="//seal.digicert.com/seals/cascade/?tag=7dlUvcGZ&referer=www.jetquins travels.com&format=svg&an=min"
+                                    data="//seal.digicert.com/seals/cascade/?tag=7dlUvcGZ&referer=www.jetquinstravels.com&format=svg&an=min"
                                     role="link"
                                     style={{
                                         textDecoration: "none",

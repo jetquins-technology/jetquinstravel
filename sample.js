@@ -1814,7 +1814,7 @@ const MyBooking = () => {
                                         </div>
                                         <div id="personal_infoform">
                                             <p>
-                                                Enter the email you use for jetquins travelss and we'll send your
+                                                Enter the email you use for Jetquins Travelss and we'll send your
                                                 instructions to reset your pin
                                             </p>
                                             <form id="reset_Req" name="reset_Req">
@@ -2526,7 +2526,7 @@ const MyBooking = () => {
                             <div _ngcontent-crx-c2="">
                                 <b _ngcontent-crx-c2="">Disclaimer:</b>
                                 <div className="discalimer">
-                                    jetquins travelss is an independent travel portal. Its parent company is A
+                                    Jetquins Travels is an independent travel portal. Its parent company is A
                                     Red Diamond Affair LLC. The information that's displayed on this
                                     website, www.lookbyfare.com, is for general purposes. All the
                                     necessary steps have been taken to ensure that the information

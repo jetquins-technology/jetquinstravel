@@ -1866,12 +1866,12 @@ const AlaskaAirlines = () => {
                                                 I was having problems booking with JetBlue Airlines
                                                 since last night in the their website. So I decided to
                                                 search on the web for the JetBlue customer service for
-                                                support. Somehow I got in contact with a jetquins travels
+                                                support. Somehow I got in contact with a Jetquins Travels
                                                 representative named Marshall, the process when well.
                                                 Great pronunciation in our communication. After the fair
                                                 payment for the flights, I received a booking ID number
                                                 with all the flight itinerary. And this when I noticed
-                                                it was from jetquins travels and not JetBlue I got nervous and
+                                                it was from Jetquins Travels and not JetBlue I got nervous and
                                                 started to reach out to my bank and JetBlue to verify my
                                                 flights, as for my first email response didn’t show the
                                                 confirmation code. Anyway Marshall explained the process
@@ -1879,9 +1879,9 @@ const AlaskaAirlines = () => {
                                                 will be taking a few minutes to process the booking of
                                                 the flights. JetBlue and the bank both acknowledged the
                                                 transaction, I began to feel better. A few minutes later
-                                                I received my second email from jetquins travels with more
+                                                I received my second email from Jetquins Travels with more
                                                 information like the flight confirmation code. Shortly
-                                                after I received a call from jetquins travels, a gentleman
+                                                after I received a call from Jetquins Travels, a gentleman
                                                 named Jonathan. This representative also cleared the air
                                                 with our sitting arrangement as it wasn’t showing up on
                                                 our itinerary. I will be traveling with my elderly
@@ -1889,7 +1889,7 @@ const AlaskaAirlines = () => {
                                                 travels. So I paid a bit extra to seat in the front.
                                                 Just wanted to share my thoughts, at first I was nervous
                                                 dealing with a third party, but I can actually say I was
-                                                taken care of by jetquins travels representatives. What an
+                                                taken care of by Jetquins Travels representatives. What an
                                                 excellent team you have, BRAVO ZULU to Marshall and
                                                 Jonathan. Great Job. Thank you both!!! for making my
                                                 life easier.
@@ -2084,14 +2084,14 @@ const AlaskaAirlines = () => {
                     <div className="container">
                         <br />
                         <p>
-                            A one-stop site for all your travel needs, jetquins travels is an OTA
+                            A one-stop site for all your travel needs, Jetquins Travels is an OTA
                             started by travelers and for the travelers, with an aim to make
                             travel booking convenient and budget-friendly. We have a team of
                             travel experts working round the clock with our partner airlines
                             and travel service providers so we can handpick the cheapest air
                             tickets, discount hotel rooms, car rentals and packages to
                             destinations across the globe. Whether you are planning a vacation
-                            or a business trip, book cheap air tickets with jetquins travels and
+                            or a business trip, book cheap air tickets with Jetquins Travels and
                             save big on your ticket reservation.
                         </p>
                         <p>

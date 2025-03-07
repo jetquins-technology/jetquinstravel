@@ -16,12 +16,12 @@ const PrivacyPolicy = () => {
                         <h6>Last Updated: Feb 08, 2023 </h6>
                         <h4>INTRODUCTION</h4>
                         <p>
-                            A Red Diamond Affair LLC ("jetquins travels", "Company," "Us" or "We")
+                            A Red Diamond Affair LLC ("Jetquins Travels", "Company," "Us" or "We")
                             respects your privacy and is committed to protecting it through our
                             compliance with this policy. This Privacy Notice and Policy
                             (hereafter the "Policy") describes the types of information we may
                             collect from you or that you may provide when you visit or use
-                            <a href="http://www.jetquins travels.com/us/">www.jetquinstravels.com </a> and
+                            <a href="http://www.jetquinstravels.com/us/">www.jetquinstravels.com </a> and
                             the Company’s mobile website, its mobile and tablet applications
                             (collectively herein the "App"), or use any content, functionality,
                             and services offered on or through www.jetquinstravels.com or the App
@@ -78,7 +78,7 @@ const PrivacyPolicy = () => {
                             13 without verification of parental consent, we will delete that
                             information. If you believe we might have any information from or
                             about a child under 13, please contact us at
-                            <a href="mailto:support@jetquins travels.com">support@jetquins travels.com.</a>
+                            <a href="mailto:support@jetquinstravels.com">support@jetquinstravels.com.</a>
                         </p>
                         <div bis_skin_checked={1}>
                             <h4>INFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT IT</h4>
@@ -544,8 +544,8 @@ const PrivacyPolicy = () => {
                                     unaffiliated or non-agent third parties for promotional
                                     purposes, you can opt-out by sending us an email stating your
                                     request at
-                                    <a href="mailto:support@jetquins travels.com">
-                                        support@jetquins travels.com{" "}
+                                    <a href="mailto:support@jetquinstravels.com">
+                                        support@jetquinstravels.com{" "}
                                     </a>
                                     .
                                 </li>
@@ -554,8 +554,8 @@ const PrivacyPolicy = () => {
                                     not wish to have your contact information used by the Company to
                                     promote our own or third parties’ products or services, you can
                                     opt-out by sending us an email stating your request
-                                    <a href="mailto:support@jetquins travels.com">
-                                        support@jetquins travels.com{" "}
+                                    <a href="mailto:support@jetquinstravels.com">
+                                        support@jetquinstravels.com{" "}
                                     </a>
                                     . If we have sent you a promotional email, you may send us a
                                     return email asking to be omitted from future email
@@ -570,8 +570,8 @@ const PrivacyPolicy = () => {
                                     deliver advertisements according to our advertisers’
                                     target-audience preferences, you can opt-out by sending us an
                                     email stating your request at
-                                    <a href="mailto:support@jetquins travels.com">
-                                        support@jetquins travels.com{" "}
+                                    <a href="mailto:support@jetquinstravels.com">
+                                        support@jetquinstravels.com{" "}
                                     </a>
                                     . For this opt-out to function, you must have your browser or
                                     smartphone set to accept browser cookies.
@@ -631,8 +631,8 @@ const PrivacyPolicy = () => {
                                 Proper access and use of information provided on the Website,
                                 including User Contributions, is governed by our Terms and
                                 Conditions,
-                                <a href="https://www.jetquins travels.com/us/terms-conditions">
-                                    jetquins travels - Terms and Conditions
+                                <a href="https://www.jetquinstravels.com/us/terms-conditions">
+                                    Jetquins Travels - Terms and Conditions
                                 </a>
                                 Residents of certain states within the United States may have
                                 additional personal information rights and choices. Please see the
@@ -735,7 +735,7 @@ const PrivacyPolicy = () => {
                             </p>
                             <p>
                                 The servers for our platform are located in the United States, and
-                                jetquins travels and its third-party service providers operate in many
+                                Jetquins Travels and its third-party service providers operate in many
                                 countries around the world. When we collect your personal
                                 information, we may process it in any of those countries. Our
                                 employees may access your personal information from various
@@ -869,7 +869,7 @@ const PrivacyPolicy = () => {
                                 Creekside Court, Secaucus, New Jersey 07094, United States, Attn:
                                 Information Security Coordinator, telephone: +1-248-274-7239,
                                 E-mail:
-                                <a href="mailto:support@jetquins travels.com">support@jetquins travels.com</a>
+                                <a href="mailto:support@jetquinstravels.com">support@jetquinstravels.com</a>
                                 .
                             </p>
                             <p>
@@ -913,7 +913,7 @@ const PrivacyPolicy = () => {
                                 You have the right to request that we disclose certain information
                                 to you about our collection and use of your personal information
                                 unless doing so proves impossible or would create a
-                                disproportionate effort for jetquins travels. You also have the right to
+                                disproportionate effort for Jetquins Travels. You also have the right to
                                 challenge the accuracy and completeness of the information and
                                 have that information amended as appropriate. Once we receive and
                                 confirm your verifiable request, we will disclose to you:
@@ -949,8 +949,8 @@ const PrivacyPolicy = () => {
                                 Information&nbsp;&nbsp;&nbsp; Security&nbsp;&nbsp;&nbsp;
                                 Coordinator,&nbsp;&nbsp;&nbsp; telephone:&nbsp;&nbsp;&nbsp;
                                 +1-248-274-7239,&nbsp;&nbsp; E-mail:
-                                <a href="mailto:support@jetquins travels.com">
-                                    support@jetquins travels.com{" "}
+                                <a href="mailto:support@jetquinstravels.com">
+                                    support@jetquinstravels.com{" "}
                                 </a>
                                 .
                             </p>
@@ -1005,29 +1005,29 @@ const PrivacyPolicy = () => {
                                 request certain information regarding our disclosure of personal
                                 information to third parties for their direct marketing purposes.
                                 To make such a request, please send an email to
-                                <a href="mailto:support@jetquins travels.com">
-                                    support@jetquins travels.com{" "}
+                                <a href="mailto:support@jetquinstravels.com">
+                                    support@jetquinstravels.com{" "}
                                 </a>{" "}
                                 To learn more about your Privacy Rights, please visit our state
                                 specific notice at
-                                <a href="https://www.jetquins travels.com/us/california-privacy-notice">
+                                <a href="https://www.jetquinstravels.com/us/california-privacy-notice">
                                     California Privacy
                                 </a>
-                                <a href="https://www.jetquins travels.com/us/california-privacy-notice">
-                                    Notice - jetquins travels.
+                                <a href="https://www.jetquinstravels.com/us/california-privacy-notice">
+                                    Notice - Jetquins Travels.
                                 </a>
                             </p>
                             <h4>Nevada Residents; Nevada Privacy Rights Notice</h4>
                             <p>
                                 Nevada consumers have a right to opt out of the sale of certain
                                 personal information collected by website operators under Nevada
-                                law (SB 220). In the preceding twelve (12) months, jetquins travels has
+                                law (SB 220). In the preceding twelve (12) months, Jetquins Travels has
                                 not sold your personal information to third parties (as defined by
                                 Nevada law) and will not do so in the future without providing you
                                 with notice and an opportunity to opt out of such sale as required
                                 by law. If you have questions regarding these rights, please
                                 contact us at
-                                <a href="mailto:support@jetquins travels.com">support@jetquins travels.com</a>
+                                <a href="mailto:support@jetquinstravels.com">support@jetquinstravels.com</a>
                                 .
                             </p>
                             <h4>Virginia Residents; Virginia Privacy Rights Notice</h4>
@@ -1035,15 +1035,15 @@ const PrivacyPolicy = () => {
                                 Effective January 1, 2023, under Virginia’s Consumer Data
                                 Protection Act ("CDPA"), Virginia residents have rights regarding
                                 the collection, use, and sharing of their personal data. In the
-                                preceding twelve (12) months, jetquins travels has not sold your
+                                preceding twelve (12) months, Jetquins Travels has not sold your
                                 personal data and will not do so in the future without providing
                                 you with notice and an opportunity to opt out of such sale as
-                                required by law. jetquins travels may engage in "targeted advertising"
+                                required by law. Jetquins Travels may engage in "targeted advertising"
                                 as that term is defined in the CDPA.
                             </p>
                             <p>
                                 As of January 1, 2023, you have the right to opt out of targeted
-                                advertising. jetquins travels collects various categories of personal
+                                advertising. Jetquins Travels collects various categories of personal
                                 information when you use the Website, the App, or our services
                                 which are described in the Section, "Information We Collect About
                                 You and How We Use It." The Section, "Disclosure of Your
@@ -1084,19 +1084,19 @@ const PrivacyPolicy = () => {
                             <p>
                                 To exercise one or more of your rights, or appeal a denial of a
                                 request, contact us at:
-                                <a href="mailto:support@jetquins travels.com">support@jetquins travels.com</a>
+                                <a href="mailto:support@jetquinstravels.com">support@jetquinstravels.com</a>
                             </p>
                             <h4>Colorado Residents; Colorado Privacy Rights Notice</h4>
                             <p>
                                 Effective July 1, 2023, Colorado residents will have certain
                                 rights around the collection, use, and sharing of their personal
                                 data under Colorado’s Consumer Privacy Act ("CPA"). In the
-                                preceding twelve (12) months, jetquins travels has not sold your
+                                preceding twelve (12) months, Jetquins Travels has not sold your
                                 personal data and will not do so in the future without providing
                                 you with notice and an opportunity to opt out of such sale as
-                                required by law. jetquins travels may engage in "targeted advertising"
+                                required by law. Jetquins Travels may engage in "targeted advertising"
                                 as that term is defined in the CPA and as of July 1, 2023 you will
-                                have the right to opt-out of targeted advertising. jetquins travels
+                                have the right to opt-out of targeted advertising. Jetquins Travels
                                 collects various categories of personal information when you use
                                 the Website, the App, and our services which are described in the
                                 Section, "Information We Collect About You and How We Use It." The
@@ -1116,19 +1116,19 @@ const PrivacyPolicy = () => {
                             <p>
                                 To exercise one or more of your rights, or appeal a denial of a
                                 request, contact us at
-                                <a href="mailto:support@jetquins travels.com">support@jetquins travels.com</a>
+                                <a href="mailto:support@jetquinstravels.com">support@jetquinstravels.com</a>
                             </p>
                             <h4>Connecticut Residents; Connecticut Privacy Rights Notice</h4>
                             <p>
                                 Effective July 1, 2023, Connecticut residents will have certain
                                 rights around the collection, use, and sharing of their personal
                                 data under Connecticut’s Data Privacy Act ("CDA"). In the
-                                preceding twelve (12) months, jetquins travels has not sold your
+                                preceding twelve (12) months, Jetquins Travels has not sold your
                                 personal data and will not do so in the future without providing
                                 you with notice and an opportunity to opt out of such sale as
-                                required by law. jetquins travels may engage in "targeted advertising"
+                                required by law. Jetquins Travels may engage in "targeted advertising"
                                 as that term is defined in the CPA and as of July 1, 2023 you will
-                                have the right to opt-out of targeted advertising. jetquins travels
+                                have the right to opt-out of targeted advertising. Jetquins Travels
                                 collects various categories of personal information when you use
                                 the Website and its Services which are described in the Section,
                                 "Information We Collect About You and How We Use It." The Section,
@@ -1148,7 +1148,7 @@ const PrivacyPolicy = () => {
                             <p>
                                 To exercise one or more of your rights, or appeal a denial of a
                                 request, contact us at:
-                                <a href="mailto:support@jetquins travels.com">support@jetquins travels.com</a>
+                                <a href="mailto:support@jetquinstravels.com">support@jetquinstravels.com</a>
                             </p>
                             <h4>CHANGES TO OUR PRIVACY POLICY</h4>
                             <p>
@@ -1179,7 +1179,7 @@ const PrivacyPolicy = () => {
                         </p>
                         <p>
                             <strong>By Email:</strong>
-                            <a href="mailto:support@jetquins travels.com">support@jetquinstravels.com </a>
+                            <a href="mailto:support@jetquinstravels.com">support@jetquinstravels.com </a>
                         </p>
                         <p>
                             <strong>By Mail:</strong> 1 Meadowlands Plaza Suite 200, East

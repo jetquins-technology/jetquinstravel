@@ -398,13 +398,14 @@ const Navbar = () => {
                                                     <a
                                                         tihref="javascript:void(0);"
                                                         onClick={() => handleNavigation(`myinformation/${currentUser.uid}`)}
+                                                        className="myinformation"
                                                     >
                                                         My Information
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="javascript:void(0);"
-                                                        onClick={() => handleNavigation(`latestoffer/${currentUser.uid}`)}
+                                                        onClick={() => handleNavigation(`latestoffer/${currentUser.uid}`)} className="reward"
                                                     >
                                                         Latest Offer
                                                     </a>
@@ -412,6 +413,7 @@ const Navbar = () => {
                                                 <li id="profile_setting" style={{ display: 'block' }}>
                                                     <a href="javascript:void(0);"
                                                         onClick={() => handleNavigation(`settings/${currentUser.uid}`)}
+                                                        className="setting"
                                                     >
                                                         Settings
                                                     </a>
@@ -419,12 +421,13 @@ const Navbar = () => {
                                                 <li>
                                                     <a href="javascript:void(0);"
                                                         onClick={() => handleNavigation(`writetous/${currentUser.uid}`)}
+                                                        className="deal"
                                                     >
                                                         Write To Us
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a onClick={handleSignOut} className="login">
+                                                    <a onClick={handleSignOut} className="signout">
                                                         &nbsp; <span className="hidden-xs">Sign out</span>
                                                     </a>
                                                 </li>

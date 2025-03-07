@@ -391,13 +391,13 @@ const Footer = () => {
                     </div> */}
 
                     <div className="discription__block">
-                        <p>Disclaimer- jetquins travels is an independent travel portal. Its parent company is jetquins travels The information that's displayed on this website, www.jetquins travels.com, is for general
+                        <p>Disclaimer- Jetquins Travels is an independent travel portal. Its parent company is Jetquins Travels The information that's displayed on this website, www.jetquinstravels.com, is for general
                             purposes. All the necessary steps have been taken to ensure that the information displayed in
                             the website is accurate and up-to-date. However, under no circumstance, We do not provide any
                             warranty or representation, whether implied or expressed, when it comes to the accuracy,
                             completeness or reliability of the information displayed on the website. If you need to have any
                             queries answered, you can write to us at <a
-                                href="mailto:contact@jetquins travels.com"><span
+                                href="mailto:contact@Jetquins Travels.com"><span
                                     className="__cf_email__"
                                     data-cfemail="ddaea8adadb2afa99db1b2b2b6bfa4bbbcafb8f3beb2b0"><b>contact@jetquinstravels.com</b></span></a>
                         </p>

@@ -18,7 +18,7 @@ const CountactUs = () => {
                             <div className="col-xs-12">
                                 <address>
                                     <i className="fa fa-map-marker" />
-                                    jetquins travels
+                                    Jetquins Travels
                                     <br />2140 Hall Johnson
                                     <br />
                                     Rd Ste 102-171 Grapevine, TX 76051
@@ -35,7 +35,7 @@ const CountactUs = () => {
                                         className="__cf_email__"
                                         data-cfemail="82f1f7f2f2edf0f6c2eeedede9e0fbe4e3f0e7ace1edef"
                                     >
-                                        support@jetquins travels.com
+                                        support@jetquinstravels.com
                                     </span>
                                 </a>
                             </div>

@@ -7979,7 +7979,7 @@ const BaggaeFees = () => {
                     bis_skin_checked={1}
                 >
                     <b>Note:</b> If you cannot find your preferred airline, Simply email at{" "}
-                    <a href="mailto:support@jetquins travels.com">support@jetquins travels.com</a>.
+                    <a href="mailto:support@jetquinstravels.com">support@jetquinstravels.com</a>.
                     <br />
                     *If your itinerary includes more than one airlines, then please double
                     check baggage allowances for the individual airlines. They may differ
