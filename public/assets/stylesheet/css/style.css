@@ -14440,14 +14440,14 @@ a.hotel-search-btn a:hover {
     width: 114px;
     height: 44px;
     display: inline-block;
-    background: url(../../images/home/new/cloudflare_Logo-w.svg) left top no-repeat
+    background: url(https://www.lookbyfare.com/us/images/home/new/cloudflare_logo-w.svg) left top no-repeat
 }
 
 @media(max-width:767px) {
     .newcustomer__serviceBox .holder .icon4 {
         width: 68px;
         height: 30px;
-        background: url(../../images/home/new/cloudflare_Logo.svg) left top no-repeat;
+        background: url(https://www.lookbyfare.com/us/images/home/new/cloudflare_logo-w.svg) left top no-repeat;
         background-size: 100%
     }
 }
